@@ -1,0 +1,601 @@
+{
+  "global:numberOfCriminalDamages": [{
+    "year:2006/7": ["0"],
+    "year:2011/12": ["0"],
+    "year:2005/6": ["0"],
+    "year:2007/8": ["0"],
+    "year:2009/10": ["0"],
+    "year:2013/14": ["0"],
+    "year:2012/13": ["0"],
+    "year:2010/11": ["0"],
+    "year:2008/9": ["0"]
+  }],
+  "global:photoLocatedIn": [
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/fluffydragon/16027284538/"],
+      "geo:long": ["-0.790323"],
+      "geo:lat": ["52.028187"],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["96552023@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/elfield_park"],
+      "social:views": ["159"],
+      "dc:date": ["Tue Jan 06 12:15:42 GMT 2015"],
+      "dc:identifier": ["16027284538"],
+      "global:thumbnail": ["https://farm9.static.flickr.com/8622/16027284538_54eb4882b4_t.jpg"],
+      "dc:title": ["Shelter from buses"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/fluffydragon/16164512401/"],
+      "geo:long": ["-0.794014"],
+      "geo:lat": ["52.0306"],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["96552023@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/elfield_park"],
+      "social:views": ["99"],
+      "dc:date": ["Thu Jan 01 09:49:38 GMT 2015"],
+      "dc:identifier": ["16164512401"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7464/16164512401_8d9583d1f0_t.jpg"],
+      "dc:title": [""]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/fluffydragon/16237084532/"],
+      "geo:long": ["-0.792692"],
+      "geo:lat": ["52.029255"],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["96552023@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/elfield_park"],
+      "social:views": ["113"],
+      "dc:date": ["Thu Jan 08 16:58:42 GMT 2015"],
+      "dc:identifier": ["16237084532"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7578/16237084532_db38705762_t.jpg"],
+      "dc:title": ["Traffic"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/fluffydragon/16252189187/"],
+      "geo:long": ["-0.787395"],
+      "geo:lat": ["52.025967"],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["96552023@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/elfield_park"],
+      "social:views": ["151"],
+      "dc:date": ["Tue Feb 03 10:39:48 GMT 2015"],
+      "dc:identifier": ["16252189187"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7363/16252189187_c5369b74d1_t.jpg"],
+      "dc:title": ["Friendly bench"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/costermk/15884441050/"],
+      "geo:long": ["-0.788761"],
+      "geo:lat": ["52.026398"],
+      "dc:creator": [{
+        "global:name": ["Mark"],
+        "dc:identifier": ["48214987@N06"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/elfield_park"],
+      "social:views": ["298"],
+      "dc:date": ["Sun Dec 21 15:10:16 GMT 2014"],
+      "dc:identifier": ["15884441050"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7510/15884441050_935ceaeb9b_t.jpg"],
+      "dc:title": ["Optimus Prime seen in Milton Keynes"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/fluffydragon/16050573478/"],
+      "geo:long": ["-0.792692"],
+      "geo:lat": ["52.029255"],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["96552023@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/elfield_park"],
+      "social:views": ["119"],
+      "dc:date": ["Thu Jan 08 16:58:50 GMT 2015"],
+      "dc:identifier": ["16050573478"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7524/16050573478_a48d00c38b_t.jpg"],
+      "dc:title": [""]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/fluffydragon/15900068942/"],
+      "geo:long": ["-0.784617"],
+      "geo:lat": ["52.031406"],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["96552023@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/elfield_park"],
+      "social:views": ["102"],
+      "dc:date": ["Thu Nov 27 08:57:21 GMT 2014"],
+      "dc:identifier": ["15900068942"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7573/15900068942_8a270ee61e_t.jpg"],
+      "dc:title": [""]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/fluffydragon/15281110863/"],
+      "geo:long": ["-0.784617"],
+      "geo:lat": ["52.031406"],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["96552023@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/elfield_park"],
+      "social:views": ["105"],
+      "dc:date": ["Thu Nov 27 08:58:09 GMT 2014"],
+      "dc:identifier": ["15281110863"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7528/15281110863_8fec244911_t.jpg"],
+      "dc:title": [""]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:isRelatedTo": [
+        "lights",
+        "trees",
+        "blue",
+        "grey",
+        "twilight"
+      ],
+      "social:url": ["https://www.flickr.com/photos/fluffydragon/16048736828/"],
+      "geo:long": ["-0.794175"],
+      "geo:lat": ["52.03069"],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["96552023@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/elfield_park"],
+      "social:views": ["155"],
+      "dc:date": ["Thu Jan 08 16:26:02 GMT 2015"],
+      "dc:identifier": ["16048736828"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7483/16048736828_3564fdce11_t.jpg"],
+      "dc:title": ["Twilight"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/fluffydragon/16433847582/"],
+      "geo:long": ["-0.78755"],
+      "geo:lat": ["52.02599"],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["96552023@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/elfield_park"],
+      "social:views": ["135"],
+      "dc:date": ["Tue Feb 03 10:40:42 GMT 2015"],
+      "dc:identifier": ["16433847582"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7284/16433847582_173685a39b_t.jpg"],
+      "dc:title": ["Lack of play park"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/fluffydragon/15980351699/"],
+      "geo:long": ["-0.794014"],
+      "geo:lat": ["52.0306"],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["96552023@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/elfield_park"],
+      "social:views": ["95"],
+      "dc:date": ["Thu Jan 01 09:49:26 GMT 2015"],
+      "dc:identifier": ["15980351699"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7501/15980351699_1bbfaa9bb6_t.jpg"],
+      "dc:title": [""]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/fluffydragon/16028893869/"],
+      "geo:long": ["-0.790856"],
+      "geo:lat": ["52.028282"],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["96552023@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/elfield_park"],
+      "social:views": ["212"],
+      "dc:date": ["Tue Jan 06 12:17:22 GMT 2015"],
+      "dc:identifier": ["16028893869"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7571/16028893869_4c70ab9dd4_t.jpg"],
+      "dc:title": ["Stairway to heaven?"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/fluffydragon/16140617906/"],
+      "geo:long": ["-0.794014"],
+      "geo:lat": ["52.0306"],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["96552023@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/elfield_park"],
+      "social:views": ["133"],
+      "dc:date": ["Thu Jan 01 09:49:38 GMT 2015"],
+      "dc:identifier": ["16140617906"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7533/16140617906_a796fcdc82_t.jpg"],
+      "dc:title": [""]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/fluffydragon/16239267272/"],
+      "geo:long": ["-0.794106"],
+      "geo:lat": ["52.030445"],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["96552023@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/elfield_park"],
+      "social:views": ["163"],
+      "dc:date": ["Thu Jan 08 17:00:46 GMT 2015"],
+      "dc:identifier": ["16239267272"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7559/16239267272_3b182a628c_t.jpg"],
+      "dc:title": ["light trails"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/fluffydragon/16212209666/"],
+      "geo:long": ["-0.794106"],
+      "geo:lat": ["52.030445"],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["96552023@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/elfield_park"],
+      "social:views": ["129"],
+      "dc:date": ["Thu Jan 08 16:59:47 GMT 2015"],
+      "dc:identifier": ["16212209666"],
+      "global:thumbnail": ["https://farm9.static.flickr.com/8583/16212209666_7657708c6e_t.jpg"],
+      "dc:title": ["Making tracks"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/fluffydragon/16239267942/"],
+      "geo:long": ["-0.794106"],
+      "geo:lat": ["52.030445"],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["96552023@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/elfield_park"],
+      "social:views": ["172"],
+      "dc:date": ["Thu Jan 08 17:01:07 GMT 2015"],
+      "dc:identifier": ["16239267942"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7534/16239267942_29d22da7a3_t.jpg"],
+      "dc:title": ["light trails"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/fluffydragon/16237855485/"],
+      "geo:long": ["-0.793334"],
+      "geo:lat": ["52.029877"],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["96552023@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/elfield_park"],
+      "social:views": ["106"],
+      "dc:date": ["Thu Jan 08 16:26:19 GMT 2015"],
+      "dc:identifier": ["16237855485"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7534/16237855485_700021828f_t.jpg"],
+      "dc:title": ["Twilight trees"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/fluffydragon/15620231783/"],
+      "geo:long": ["-0.794106"],
+      "geo:lat": ["52.030445"],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["96552023@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/elfield_park"],
+      "social:views": ["173"],
+      "dc:date": ["Thu Jan 08 17:01:15 GMT 2015"],
+      "dc:identifier": ["15620231783"],
+      "global:thumbnail": ["https://farm9.static.flickr.com/8661/15620231783_79f37c7a13_t.jpg"],
+      "dc:title": ["light trails"]
+    },
+    {
+      "global:isRelatedTo": [
+        "b&w",
+        "lights",
+        "underpass",
+        "redway",
+        "concrete",
+        "grey",
+        "path",
+        "bridge"
+      ],
+      "geo:lat": ["52.03069"],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["96552023@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "global:thumbnail": ["https://farm9.static.flickr.com/8616/16232423715_9684e1e44d_t.jpg"],
+      "dc:description": ["A typical Milton Keynes underpass at twilight. A city of ugly concrete and beautiful green spaces."],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.794175"],
+      "social:url": ["https://www.flickr.com/photos/fluffydragon/16232423715/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/elfield_park"],
+      "social:views": ["211"],
+      "dc:date": ["Thu Jan 08 16:24:41 GMT 2015"],
+      "dc:identifier": ["16232423715"],
+      "dc:title": ["Underpass"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/fluffydragon/16164512121/"],
+      "geo:long": ["-0.794014"],
+      "geo:lat": ["52.0306"],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["96552023@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/elfield_park"],
+      "social:views": ["107"],
+      "dc:date": ["Thu Jan 01 09:49:26 GMT 2015"],
+      "dc:identifier": ["16164512121"],
+      "global:thumbnail": ["https://farm9.static.flickr.com/8608/16164512121_a77be11924_t.jpg"],
+      "dc:title": [""]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/fluffydragon/15610016064/"],
+      "geo:long": ["-0.794175"],
+      "geo:lat": ["52.03069"],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["96552023@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/elfield_park"],
+      "social:views": ["153"],
+      "dc:date": ["Thu Jan 08 16:25:33 GMT 2015"],
+      "dc:identifier": ["15610016064"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7547/15610016064_e0c62c78a8_t.jpg"],
+      "dc:title": ["Twilight over the bridge"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/jaytilston/15483434953/"],
+      "geo:long": ["-0.786599"],
+      "geo:lat": ["52.02489"],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["9187766@N05"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/elfield_park"],
+      "social:views": ["245"],
+      "dc:date": ["Thu Dec 25 15:26:16 GMT 2014"],
+      "dc:identifier": ["15483434953"],
+      "global:thumbnail": ["https://farm9.static.flickr.com/8651/15483434953_254f51afe2_t.jpg"],
+      "dc:title": ["Alison & Alex \"Waiting For The Starters\", Toby Carvery, Shenley"]
+    },
+    {
+      "global:isRelatedTo": [
+        "kp63 tej",
+        "arriva the shires",
+        "5005",
+        "sse",
+        "streetlite",
+        "arriva shires & essex",
+        "wrightbus"
+      ],
+      "geo:lat": ["52.024605"],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["64795622@N04"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5706/21553732056_f4e09dbbbb_t.jpg"],
+      "dc:description": [
+        "Here in this photograph we have this Arriva Shires &amp; Essex Wrightbus 'Battery powered' Streetlite WF seen here heading along Burchard Crescent, Shenley Church End, Milton Keynes with a Service 7 bound for Furzton then Bletchley. \n",
+        "Here in this photograph we have this Arriva Shires &amp; Essex Wrightbus 'Battery powered' Streetlite WF registered KP63TEJ with the fleet number of 5005 seen here heading along Burchard Crescent, Shenley Church End, Milton Keynes with a Service 7 bound for Furzton then Bletchley. \n\nThis vehicle was new to Arriva the Shires as 5005 in November 2013.\n"
+      ],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.786899"],
+      "social:url": ["https://www.flickr.com/photos/arrivanorthwestwaleswrexhamdepotfleet/21553732056/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/elfield_park"],
+      "social:views": [
+        "93",
+        "350",
+        "395",
+        "297"
+      ],
+      "dc:date": ["Fri Sep 18 10:35:31 BST 2015"],
+      "dc:identifier": ["21553732056"],
+      "dc:title": ["Arriva Shires & Essex - KP63TEJ, 5005"]
+    }
+  ],
+  "global:numberOfBurglaries": [{
+    "year:2006/7": ["0"],
+    "year:2011/12": ["0"],
+    "year:2005/6": ["0"],
+    "year:2007/8": ["0"],
+    "year:2009/10": ["0"],
+    "year:2013/14": ["0"],
+    "year:2012/13": ["0"],
+    "year:2010/11": ["0"],
+    "year:2008/9": ["0"]
+  }],
+  "global:numberOfRobberies": [{
+    "year:2006/7": ["0"],
+    "year:2011/12": ["0"],
+    "year:2005/6": ["0"],
+    "year:2007/8": ["0"],
+    "year:2009/10": ["0"],
+    "year:2013/14": ["0"],
+    "year:2012/13": ["0"],
+    "year:2010/11": ["0"],
+    "year:2008/9": ["0"]
+  }],
+  "global:tenure": [
+    {"year:2008": [{
+      "global:total_stock": ["0"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["0"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2014": [{
+      "global:total_stock": ["0"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["0"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2006": [{
+      "global:total_stock": ["0"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["0"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2012": [{
+      "global:total_stock": ["0"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["0"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2005": [{
+      "global:total_stock": ["0"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["0"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2011": [{
+      "global:total_stock": ["0"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["0"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2004": [{
+      "global:total_stock": ["0"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["0"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2007": [{
+      "global:total_stock": ["0"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["0"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2013": [{
+      "global:total_stock": ["0"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["0"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2009": [{
+      "global:total_stock": ["0"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["0"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2010": [{
+      "global:total_stock": ["0"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["0"],
+      "global:rsl_rented": ["0"]
+    }]}
+  ],
+  "global:nbCrimes": [{
+    "year:2006/7": ["0"],
+    "year:2011/12": ["0"],
+    "year:2005/6": ["0"],
+    "year:2007/8": ["0"],
+    "year:2009/10": ["0"],
+    "year:2013/14": ["2"],
+    "year:2012/13": ["3"],
+    "year:2010/11": ["0"],
+    "year:2008/9": ["0"]
+  }],
+  "global:numberOfArsonFires": [{
+    "year:2003/4": ["1"],
+    "year:2001/2": ["17"],
+    "year:2006/7": ["2"],
+    "year:2011/12": ["0"],
+    "year:2005/6": ["3"],
+    "year:2002/3": ["10"],
+    "year:2007/8": ["2"],
+    "year:2009/10": ["0"],
+    "year:2004/5": ["0"],
+    "year:2012/13": ["0"],
+    "year:2010/11": ["0"],
+    "year:2008/9": ["0"]
+  }],
+  "global:numberOfViolencesAgainstThePerson": [{
+    "year:2006/7": ["0"],
+    "year:2011/12": ["0"],
+    "year:2005/6": ["0"],
+    "year:2007/8": ["0"],
+    "year:2009/10": ["0"],
+    "year:2013/14": ["0"],
+    "year:2012/13": ["0"],
+    "year:2010/11": ["0"],
+    "year:2008/9": ["0"]
+  }]
+}

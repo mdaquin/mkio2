@@ -1,0 +1,276 @@
+{
+  "global:numberOfCriminalDamages": [{
+    "year:2006/7": ["17"],
+    "year:2011/12": ["7"],
+    "year:2005/6": ["8"],
+    "year:2007/8": ["5"],
+    "year:2009/10": ["12"],
+    "year:2013/14": ["5"],
+    "year:2012/13": ["4"],
+    "year:2010/11": ["13"],
+    "year:2008/9": ["14"]
+  }],
+  "demographics:male-population-2011": ["424"],
+  "global:location": ["http://data.beta.mksmart.org/entity/place/blakelands"],
+  "global:numberOfRobberies": [{
+    "year:2006/7": ["2"],
+    "year:2011/12": ["1"],
+    "year:2005/6": ["3"],
+    "year:2007/8": ["0"],
+    "year:2009/10": ["1"],
+    "year:2013/14": ["1"],
+    "year:2012/13": ["1"],
+    "year:2010/11": ["1"],
+    "year:2008/9": ["2"]
+  }],
+  "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/linked-data/cube#Observation"],
+  "global:nbCrimes": [{
+    "year:2006/7": ["116"],
+    "year:2011/12": ["65"],
+    "year:2005/6": ["71"],
+    "year:2007/8": ["111"],
+    "year:2009/10": ["117"],
+    "year:2013/14": ["66"],
+    "year:2012/13": ["67"],
+    "year:2010/11": ["104"],
+    "year:2008/9": ["153"]
+  }],
+  "demographics:female-population-2011": ["449"],
+  "global:numberOfViolencesAgainstThePerson": [{
+    "year:2006/7": ["8"],
+    "year:2011/12": ["6"],
+    "year:2005/6": ["9"],
+    "year:2007/8": ["6"],
+    "year:2009/10": ["11"],
+    "year:2013/14": ["3"],
+    "year:2012/13": ["2"],
+    "year:2010/11": ["8"],
+    "year:2008/9": ["17"]
+  }],
+  "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/linked-data/cube#Observation"],
+  "imd:imd-2010": ["4.1"],
+  "global:populationProjection": [{
+    "year:2012": ["850"],
+    "year:2013": ["900"],
+    "year:2014": ["900"],
+    "year:2015": ["900"],
+    "year:2016": ["900"],
+    "year:2017": ["900"],
+    "year:2018": ["900"],
+    "year:2011": ["850"],
+    "year:2019": ["900"],
+    "year:2020": ["900"],
+    "year:2021": ["900"]
+  }],
+  "global:photoLocatedIn": [
+    {
+      "global:isRelatedTo": [
+        "elise",
+        "type",
+        "25",
+        "wheeler",
+        "lotus",
+        "dealer",
+        "tv"
+      ],
+      "geo:lat": ["52.07856"],
+      "dc:creator": [{
+        "global:name": ["Darren Teagles"],
+        "dc:identifier": ["33719770@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "global:thumbnail": ["https://farm9.static.flickr.com/8642/15684335660_63d3346984_t.jpg"],
+      "dc:description": ["I spotted this on TV the other night, Wheeler Dealers were looking for an E36 M3 and went to BHP Motorsport......this must have been just before I bought the car in 2009 (the Elise Type 25)...."],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.731267"],
+      "social:url": ["https://www.flickr.com/photos/estoril/15684335660/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/blakelands"],
+      "social:views": ["94"],
+      "dc:date": ["Mon Nov 24 20:12:31 GMT 2014"],
+      "dc:identifier": ["15684335660"],
+      "dc:title": [""]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:isRelatedTo": [
+        "square",
+        "square format",
+        "instagram app",
+        "uploaded:by=instagram",
+        "iphoneography"
+      ],
+      "social:url": ["https://www.flickr.com/photos/vectisphoto/17314577891/"],
+      "geo:long": ["-0.72951"],
+      "geo:lat": ["52.07783"],
+      "dc:creator": [{
+        "global:name": ["Tim Bolton-Gowling"],
+        "dc:identifier": ["94922415@N08"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/blakelands"],
+      "social:views": [
+        "21",
+        "14",
+        "19",
+        "1",
+        "20",
+        "15"
+      ],
+      "dc:date": ["Wed Apr 29 21:20:53 BST 2015"],
+      "dc:identifier": ["17314577891"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7695/17314577891_88c66e6c17_t.jpg"],
+      "dc:title": ["Kermit #practising for #movember"]
+    }
+  ],
+  "global:numberOfBurglaries": [{
+    "year:2006/7": ["1"],
+    "year:2011/12": ["1"],
+    "year:2005/6": ["0"],
+    "year:2007/8": ["4"],
+    "year:2009/10": ["3"],
+    "year:2013/14": ["1"],
+    "year:2012/13": ["1"],
+    "year:2010/11": ["6"],
+    "year:2008/9": ["3"]
+  }],
+  "global:ethnicity": [{
+    "global:white:_gypsy_or_irish_traveller": ["0"],
+    "global:white:_irish": ["6"],
+    "global:black_and_minority_ethnic_group:_total": ["130"],
+    "global:multiple_ethnic_group:_other_mixed": ["5"],
+    "global:multiple_ethnic_group:_white_and_black_african": ["3"],
+    "global:multiple_ethnic_group:_white_and_asian": ["7"],
+    "global:other_ethnic_group:_arab": ["0"],
+    "global:asian_british:_chinese": ["14"],
+    "global:asian_british:_other_asian": ["19"],
+    "global:black_british:_caribbean": ["6"],
+    "global:all_usual_residents": ["873"],
+    "global:asian_british:_bangladeshi": ["0"],
+    "global:asian_british:_pakistani": ["0"],
+    "global:asian_british:_indian": ["20"],
+    "global:multiple_ethnic_group:_white_and_black_caribbean": ["7"],
+    "global:black_british:_other_black": ["0"],
+    "global:british": ["744"],
+    "global:other_ethnic_group:_any_other_ethnic_group": ["4"],
+    "global:white:_other_white": ["31"],
+    "global:black_british:_african": ["8"]
+  }],
+  "global:tenure": [
+    {"year:2008": [{
+      "global:total_stock": ["387"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["21"],
+      "global:mkc_shared_ownership": ["64"],
+      "global:owner_occupied_and_private_rented": ["302"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2010": [{
+      "global:total_stock": ["387"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["21"],
+      "global:mkc_shared_ownership": ["64"],
+      "global:owner_occupied_and_private_rented": ["302"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2014": [{
+      "global:total_stock": ["396"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["21"],
+      "global:mkc_shared_ownership": ["61"],
+      "global:owner_occupied_and_private_rented": ["314"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2004": [{
+      "global:total_stock": ["387"],
+      "global:rsl_reduced_cost_sale": ["21"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["67"],
+      "global:owner_occupied_and_private_rented": ["299"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2009": [{
+      "global:total_stock": ["387"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["21"],
+      "global:mkc_shared_ownership": ["64"],
+      "global:owner_occupied_and_private_rented": ["302"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2012": [{
+      "global:total_stock": ["388"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["21"],
+      "global:mkc_shared_ownership": ["64"],
+      "global:owner_occupied_and_private_rented": ["303"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2011": [{
+      "global:total_stock": ["387"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["21"],
+      "global:mkc_shared_ownership": ["64"],
+      "global:owner_occupied_and_private_rented": ["302"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2013": [{
+      "global:total_stock": ["390"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["21"],
+      "global:mkc_shared_ownership": ["63"],
+      "global:owner_occupied_and_private_rented": ["306"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2007": [{
+      "global:total_stock": ["387"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["21"],
+      "global:mkc_shared_ownership": ["65"],
+      "global:owner_occupied_and_private_rented": ["301"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2006": [{
+      "global:total_stock": ["387"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["21"],
+      "global:mkc_shared_ownership": ["65"],
+      "global:owner_occupied_and_private_rented": ["301"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2005": [{
+      "global:total_stock": ["387"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["21"],
+      "global:mkc_shared_ownership": ["65"],
+      "global:owner_occupied_and_private_rented": ["301"],
+      "global:rsl_rented": ["0"]
+    }]}
+  ],
+  "imd:imd-2004": ["4.2"],
+  "global:numberOfArsonFires": [{
+    "year:2003/4": ["14"],
+    "year:2001/2": ["13"],
+    "year:2006/7": ["2"],
+    "year:2011/12": ["0"],
+    "year:2005/6": ["2"],
+    "year:2002/3": ["3"],
+    "year:2007/8": ["3"],
+    "year:2009/10": ["2"],
+    "year:2004/5": ["3"],
+    "year:2012/13": ["0"],
+    "year:2010/11": ["1"],
+    "year:2008/9": ["4"]
+  }],
+  "demographics:population-2011": ["873"],
+  "imd:imd-2007": ["3.8"]
+}

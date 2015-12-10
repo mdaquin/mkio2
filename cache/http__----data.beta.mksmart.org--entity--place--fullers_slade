@@ -1,0 +1,472 @@
+{
+  "global:numberOfCriminalDamages": [{
+    "year:2006/7": ["100"],
+    "year:2011/12": ["30"],
+    "year:2005/6": ["116"],
+    "year:2007/8": ["74"],
+    "year:2009/10": ["51"],
+    "year:2013/14": ["26"],
+    "year:2012/13": ["27"],
+    "year:2010/11": ["30"],
+    "year:2008/9": ["61"]
+  }],
+  "demographics:male-population-2011": ["873"],
+  "global:location": ["http://data.beta.mksmart.org/entity/place/fullers_slade"],
+  "global:numberOfRobberies": [{
+    "year:2006/7": ["3"],
+    "year:2011/12": ["6"],
+    "year:2005/6": ["4"],
+    "year:2007/8": ["5"],
+    "year:2009/10": ["4"],
+    "year:2013/14": ["2"],
+    "year:2012/13": ["2"],
+    "year:2010/11": ["1"],
+    "year:2008/9": ["4"]
+  }],
+  "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/linked-data/cube#Observation"],
+  "global:nbCrimes": [{
+    "year:2006/7": ["279"],
+    "year:2011/12": ["123"],
+    "year:2005/6": ["337"],
+    "year:2007/8": ["205"],
+    "year:2009/10": ["203"],
+    "year:2013/14": ["131"],
+    "year:2012/13": ["131"],
+    "year:2010/11": ["133"],
+    "year:2008/9": ["217"]
+  }],
+  "demographics:female-population-2011": ["900"],
+  "global:numberOfViolencesAgainstThePerson": [{
+    "year:2006/7": ["72"],
+    "year:2011/12": ["27"],
+    "year:2005/6": ["72"],
+    "year:2007/8": ["60"],
+    "year:2009/10": ["69"],
+    "year:2013/14": ["45"],
+    "year:2012/13": ["44"],
+    "year:2010/11": ["43"],
+    "year:2008/9": ["64"]
+  }],
+  "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/linked-data/cube#Observation"],
+  "imd:imd-2010": ["39"],
+  "global:populationProjection": [{
+    "year:2012": ["1800"],
+    "year:2013": ["1800"],
+    "year:2014": ["1800"],
+    "year:2015": ["1800"],
+    "year:2016": ["1800"],
+    "year:2017": ["1850"],
+    "year:2018": ["1900"],
+    "year:2011": ["1800"],
+    "year:2019": ["1900"],
+    "year:2020": ["1850"],
+    "year:2021": ["1850"]
+  }],
+  "global:photoLocatedIn": [
+    {
+      "global:isRelatedTo": [
+        "nature - flowers/blossoms",
+        "nature - closeup/details",
+        "nature"
+      ],
+      "dc:creator": [{
+        "global:name": ["Markus Wanninger"],
+        "dc:identifier": ["37252914@N03"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.058033"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5798/22745804144_34d7a79a7c_t.jpg"],
+      "dc:description": ["walking around Stony Stratford, Fall 2012"],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.843887"],
+      "social:url": ["https://www.flickr.com/photos/photonopticum/22745804144/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/fullers_slade"],
+      "social:views": [
+        "9",
+        "4",
+        "8",
+        "7"
+      ],
+      "dc:date": ["Sat Sep 29 00:46:10 BST 2012"],
+      "dc:identifier": ["22745804144"],
+      "dc:title": ["_DSC0674"]
+    },
+    {
+      "global:isRelatedTo": [
+        "instagram app",
+        "square format",
+        "square",
+        "uploaded:by=instagram",
+        "iphoneography",
+        "x-pro ii"
+      ],
+      "dc:creator": [{
+        "global:name": ["Colin Mill"],
+        "dc:identifier": ["38892719@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.053486"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:thumbnail": ["https://farm4.static.flickr.com/3947/15444187068_1267b15d5f_t.jpg"],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.833455"],
+      "social:url": ["https://www.flickr.com/photos/38892719@N00/15444187068/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/fullers_slade"],
+      "social:views": ["16"],
+      "dc:date": ["Sun Oct 26 09:05:28 GMT 2014"],
+      "dc:identifier": ["15444187068"],
+      "dc:title": ["Expanding! #miltonkeynes is #expanding on the eastern flank. More #beautiful #countryside ripped up in the name of #development and #progress. Like we've not got plenty of #brownfield site that could be developed!"]
+    },
+    {
+      "global:isRelatedTo": [
+        "buckinghamshire",
+        "stony stratford",
+        "autumn",
+        "milton keynes",
+        "uk",
+        "england"
+      ],
+      "dc:creator": [{
+        "global:name": ["Gary Walton"],
+        "dc:identifier": ["40079941@N04"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.05144"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:thumbnail": ["https://farm4.static.flickr.com/3935/14962957064_7d3ba15eb5_t.jpg"],
+      "dc:description": ["Galley Hill underpass"],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.842299"],
+      "social:url": ["https://www.flickr.com/photos/trackside/14962957064/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/fullers_slade"],
+      "social:views": ["99"],
+      "dc:date": ["Sun Oct 19 18:19:07 BST 2014"],
+      "dc:identifier": ["14962957064"],
+      "dc:title": ["Graffiti"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/watterbug/16594380358/"],
+      "geo:long": ["-0.832756"],
+      "dc:creator": [{
+        "global:name": [
+          "",
+          "Janis Smith"
+        ],
+        "dc:identifier": ["9324806@N02"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.057945"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/fullers_slade"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:views": [
+        "49",
+        "46",
+        "50",
+        "47"
+      ],
+      "dc:date": ["Mon Mar 09 15:10:50 GMT 2015"],
+      "dc:identifier": ["16594380358"],
+      "global:thumbnail": ["https://farm9.static.flickr.com/8726/16594380358_646bd9bdd0_t.jpg"],
+      "dc:title": ["Cake"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/ms_scarlett/15957218011/"],
+      "geo:long": ["-0.847953"],
+      "dc:creator": [{
+        "global:name": ["Sarah"],
+        "dc:identifier": ["34403721@N05"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.05473"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/fullers_slade"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:views": ["110"],
+      "dc:date": ["Sat Dec 06 13:56:00 GMT 2014"],
+      "dc:identifier": ["15957218011"],
+      "global:thumbnail": ["https://farm9.static.flickr.com/8665/15957218011_3c9ac5a90a_t.jpg"],
+      "dc:title": ["345/365"]
+    },
+    {
+      "global:isRelatedTo": ["milton keynes"],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["117095635@N06"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.055553"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:thumbnail": ["https://farm1.static.flickr.com/648/21471573554_d92267cc18_t.jpg"],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.835756"],
+      "social:url": ["https://www.flickr.com/photos/owczarczaks/21471573554/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/fullers_slade"],
+      "social:views": [
+        "5",
+        "3",
+        "4"
+      ],
+      "dc:date": ["Thu Jan 01 01:00:00 GMT 1970"],
+      "dc:identifier": ["21471573554"],
+      "dc:title": ["IMG_20150524_105917"]
+    },
+    {
+      "global:isRelatedTo": [
+        "foursquare:venue=4cdfd6c4aba88cfa1ab64bd7",
+        "instagram app",
+        "square format",
+        "square",
+        "uploaded:by=instagram",
+        "iphoneography"
+      ],
+      "dc:creator": [{
+        "global:name": ["Colin Mill"],
+        "dc:identifier": ["38892719@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.05467"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5745/21401663172_daf34a71cd_t.jpg"],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.847923"],
+      "social:url": ["https://www.flickr.com/photos/38892719@N00/21401663172/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/fullers_slade"],
+      "social:views": [
+        "134",
+        "61",
+        "18",
+        "163",
+        "187",
+        "118",
+        "148",
+        "200",
+        "174",
+        "90"
+      ],
+      "dc:date": ["Mon Sep 14 15:23:49 BST 2015"],
+      "dc:identifier": ["21401663172"],
+      "dc:title": ["It's a bit tight!!! This is the space we have for tonight's gig at the Cock & Bull beer festival in Stony Stratford. If you can get along then please do. It's free to get in and they've got a great selection of beers. #uke #gigs #ukulele #LiveMusic #KeepM"]
+    },
+    {
+      "global:isRelatedTo": ["milton keynes"],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["117095635@N06"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.055553"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:thumbnail": ["https://farm1.static.flickr.com/648/21471573554_d92267cc18_t.jpg"],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.835756"],
+      "social:url": ["https://www.flickr.com/photos/owczarczaks/21471573554/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/fullers_slade"],
+      "social:views": [
+        "5",
+        "3",
+        "4",
+        "6"
+      ],
+      "dc:date": ["Thu Jan 01 01:00:00 GMT 1970"],
+      "dc:identifier": ["21471573554"],
+      "dc:title": ["IMG_20150524_105917"]
+    },
+    {
+      "global:isRelatedTo": [
+        "buckinghamshire",
+        "stony stratford",
+        "autumn",
+        "milton keynes",
+        "uk",
+        "england"
+      ],
+      "dc:creator": [{
+        "global:name": ["Gary Walton"],
+        "dc:identifier": ["40079941@N04"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.05144"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:thumbnail": ["https://farm4.static.flickr.com/3956/15397561818_b7fca7df2e_t.jpg"],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.842299"],
+      "social:url": ["https://www.flickr.com/photos/trackside/15397561818/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/fullers_slade"],
+      "social:views": ["72"],
+      "dc:date": ["Sun Oct 19 18:22:17 BST 2014"],
+      "dc:identifier": ["15397561818"],
+      "dc:title": ["Autumn leaves"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/nigpig/14950802559/"],
+      "geo:long": ["-0.842856"],
+      "dc:creator": [{
+        "global:name": ["Gillian and Nigel Pigott"],
+        "dc:identifier": ["7150382@N06"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.050385"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/fullers_slade"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:views": ["40"],
+      "dc:date": ["Tue Oct 15 10:01:25 BST 2013"],
+      "dc:identifier": ["14950802559"],
+      "global:thumbnail": ["https://farm4.static.flickr.com/3903/14950802559_68e9641b9f_t.jpg"],
+      "dc:title": ["The sidecar body after some experimental paint removal"]
+    }
+  ],
+  "global:numberOfBurglaries": [{
+    "year:2006/7": ["21"],
+    "year:2011/12": ["7"],
+    "year:2005/6": ["22"],
+    "year:2007/8": ["13"],
+    "year:2009/10": ["12"],
+    "year:2013/14": ["2"],
+    "year:2012/13": ["4"],
+    "year:2010/11": ["8"],
+    "year:2008/9": ["11"]
+  }],
+  "global:ethnicity": [{
+    "global:white:_gypsy_or_irish_traveller": ["0"],
+    "global:white:_irish": ["18"],
+    "global:black_and_minority_ethnic_group:_total": ["406"],
+    "global:multiple_ethnic_group:_other_mixed": ["11"],
+    "global:multiple_ethnic_group:_white_and_black_african": ["28"],
+    "global:multiple_ethnic_group:_white_and_asian": ["12"],
+    "global:other_ethnic_group:_arab": ["4"],
+    "global:asian_british:_chinese": ["7"],
+    "global:asian_british:_other_asian": ["23"],
+    "global:black_british:_caribbean": ["18"],
+    "global:all_usual_residents": ["1773"],
+    "global:asian_british:_bangladeshi": ["16"],
+    "global:asian_british:_pakistani": ["42"],
+    "global:asian_british:_indian": ["22"],
+    "global:multiple_ethnic_group:_white_and_black_caribbean": ["23"],
+    "global:black_british:_other_black": ["15"],
+    "global:british": ["1368"],
+    "global:other_ethnic_group:_any_other_ethnic_group": ["11"],
+    "global:white:_other_white": ["34"],
+    "global:black_british:_african": ["122"]
+  }],
+  "global:tenure": [
+    {"year:2012": [{
+      "global:total_stock": ["607"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["287"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["1"],
+      "global:owner_occupied_and_private_rented": ["308"],
+      "global:rsl_rented": ["11"]
+    }]},
+    {"year:2014": [{
+      "global:total_stock": ["607"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["284"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["1"],
+      "global:owner_occupied_and_private_rented": ["311"],
+      "global:rsl_rented": ["11"]
+    }]},
+    {"year:2004": [{
+      "global:total_stock": ["607"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["318"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["1"],
+      "global:owner_occupied_and_private_rented": ["277"],
+      "global:rsl_rented": ["11"]
+    }]},
+    {"year:2007": [{
+      "global:total_stock": ["607"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["293"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["1"],
+      "global:owner_occupied_and_private_rented": ["302"],
+      "global:rsl_rented": ["11"]
+    }]},
+    {"year:2011": [{
+      "global:total_stock": ["607"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["288"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["1"],
+      "global:owner_occupied_and_private_rented": ["307"],
+      "global:rsl_rented": ["11"]
+    }]},
+    {"year:2006": [{
+      "global:total_stock": ["607"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["299"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["1"],
+      "global:owner_occupied_and_private_rented": ["296"],
+      "global:rsl_rented": ["11"]
+    }]},
+    {"year:2008": [{
+      "global:total_stock": ["607"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["287"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["1"],
+      "global:owner_occupied_and_private_rented": ["308"],
+      "global:rsl_rented": ["11"]
+    }]},
+    {"year:2010": [{
+      "global:total_stock": ["607"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["288"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["1"],
+      "global:owner_occupied_and_private_rented": ["307"],
+      "global:rsl_rented": ["11"]
+    }]},
+    {"year:2009": [{
+      "global:total_stock": ["607"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["288"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["1"],
+      "global:owner_occupied_and_private_rented": ["307"],
+      "global:rsl_rented": ["11"]
+    }]},
+    {"year:2005": [{
+      "global:total_stock": ["607"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["312"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["1"],
+      "global:owner_occupied_and_private_rented": ["283"],
+      "global:rsl_rented": ["11"]
+    }]},
+    {"year:2013": [{
+      "global:total_stock": ["607"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["287"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["1"],
+      "global:owner_occupied_and_private_rented": ["308"],
+      "global:rsl_rented": ["11"]
+    }]}
+  ],
+  "imd:imd-2004": ["31.5"],
+  "global:numberOfArsonFires": [{
+    "year:2003/4": ["17"],
+    "year:2001/2": ["17"],
+    "year:2006/7": ["16"],
+    "year:2011/12": ["6"],
+    "year:2005/6": ["26"],
+    "year:2002/3": ["14"],
+    "year:2007/8": ["11"],
+    "year:2009/10": ["7"],
+    "year:2004/5": ["15"],
+    "year:2012/13": ["3"],
+    "year:2010/11": ["9"],
+    "year:2008/9": ["8"]
+  }],
+  "demographics:population-2011": ["1773"],
+  "imd:imd-2007": ["34.7"]
+}

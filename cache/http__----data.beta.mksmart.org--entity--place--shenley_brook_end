@@ -1,0 +1,587 @@
+{
+  "global:numberOfCriminalDamages": [{
+    "year:2006/7": ["46"],
+    "year:2011/12": ["15"],
+    "year:2005/6": ["28"],
+    "year:2007/8": ["58"],
+    "year:2009/10": ["26"],
+    "year:2013/14": ["15"],
+    "year:2012/13": ["15"],
+    "year:2010/11": ["22"],
+    "year:2008/9": ["29"]
+  }],
+  "demographics:male-population-2011": ["1745"],
+  "global:location": ["http://data.beta.mksmart.org/entity/place/shenley_brook_end"],
+  "global:numberOfRobberies": [{
+    "year:2006/7": ["0"],
+    "year:2011/12": ["2"],
+    "year:2005/6": ["2"],
+    "year:2007/8": ["0"],
+    "year:2009/10": ["2"],
+    "year:2013/14": ["1"],
+    "year:2012/13": ["0"],
+    "year:2010/11": ["1"],
+    "year:2008/9": ["1"]
+  }],
+  "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/linked-data/cube#Observation"],
+  "global:nbCrimes": [{
+    "year:2006/7": ["170"],
+    "year:2011/12": ["131"],
+    "year:2005/6": ["155"],
+    "year:2007/8": ["192"],
+    "year:2009/10": ["157"],
+    "year:2013/14": ["124"],
+    "year:2012/13": ["139"],
+    "year:2010/11": ["155"],
+    "year:2008/9": ["177"]
+  }],
+  "demographics:female-population-2011": ["1840"],
+  "global:numberOfViolencesAgainstThePerson": [{
+    "year:2006/7": ["44"],
+    "year:2011/12": ["25"],
+    "year:2005/6": ["52"],
+    "year:2007/8": ["57"],
+    "year:2009/10": ["46"],
+    "year:2013/14": ["22"],
+    "year:2012/13": ["33"],
+    "year:2010/11": ["43"],
+    "year:2008/9": ["59"]
+  }],
+  "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/linked-data/cube#Observation"],
+  "imd:imd-2010": ["7.9"],
+  "global:populationProjection": [{
+    "year:2012": ["3550"],
+    "year:2013": ["3550"],
+    "year:2014": ["3550"],
+    "year:2015": ["3600"],
+    "year:2016": ["3600"],
+    "year:2017": ["3550"],
+    "year:2018": ["3550"],
+    "year:2011": ["3600"],
+    "year:2019": ["3550"],
+    "year:2020": ["3500"],
+    "year:2021": ["3500"]
+  }],
+  "global:photoLocatedIn": [
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:isRelatedTo": [
+        "walk",
+        "nature",
+        "firefighter0793"
+      ],
+      "social:url": ["https://www.flickr.com/photos/firefighter0793/17124820314/"],
+      "geo:long": ["-0.785413"],
+      "geo:lat": ["52.0027"],
+      "dc:creator": [{
+        "global:name": ["Steve Cook"],
+        "dc:identifier": ["91006258@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/shenley_brook_end"],
+      "social:views": [
+        "12",
+        "9",
+        "13"
+      ],
+      "dc:date": ["Sat May 16 19:34:15 BST 2015"],
+      "dc:identifier": ["17124820314"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7664/17124820314_4e241038a9_t.jpg"],
+      "dc:title": ["Tattenhoe Walk (122 of 129)"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:isRelatedTo": [
+        "walk",
+        "nature",
+        "firefighter0793"
+      ],
+      "social:url": ["https://www.flickr.com/photos/firefighter0793/17746587925/"],
+      "geo:long": ["-0.787073"],
+      "geo:lat": ["52.006107"],
+      "dc:creator": [{
+        "global:name": ["Steve Cook"],
+        "dc:identifier": ["91006258@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/shenley_brook_end"],
+      "social:views": [
+        "7",
+        "10"
+      ],
+      "dc:date": ["Sat May 16 17:04:03 BST 2015"],
+      "dc:identifier": ["17746587925"],
+      "global:thumbnail": ["https://farm9.static.flickr.com/8850/17746587925_45a3b4e149_t.jpg"],
+      "dc:title": ["Tattenhoe Walk (14 of 129)"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:isRelatedTo": [
+        "firefighter0793",
+        "local walks",
+        "imported keyword tags"
+      ],
+      "social:url": ["https://www.flickr.com/photos/firefighter0793/18781077736/"],
+      "geo:long": ["-0.788321"],
+      "geo:lat": ["52.00405"],
+      "dc:creator": [{
+        "global:name": ["Steve Cook"],
+        "dc:identifier": ["91006258@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/shenley_brook_end"],
+      "social:views": [
+        "6",
+        "12",
+        "11",
+        "5",
+        "9",
+        "7",
+        "8",
+        "3",
+        "13",
+        "17",
+        "16",
+        "15"
+      ],
+      "dc:date": ["Sun Jun 14 14:11:07 BST 2015"],
+      "dc:identifier": ["18781077736"],
+      "global:thumbnail": ["https://farm1.static.flickr.com/279/18781077736_3723ea89c1_t.jpg"],
+      "dc:title": ["local walk-018"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:isRelatedTo": [
+        "walk",
+        "nature",
+        "firefighter0793"
+      ],
+      "social:url": ["https://www.flickr.com/photos/firefighter0793/17805162266/"],
+      "geo:long": ["-0.784873"],
+      "geo:lat": ["52.007767"],
+      "dc:creator": [{
+        "global:name": ["Steve Cook"],
+        "dc:identifier": ["91006258@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/shenley_brook_end"],
+      "social:views": [
+        "11",
+        "26",
+        "5",
+        "24",
+        "22",
+        "10",
+        "27",
+        "18",
+        "32",
+        "14",
+        "29",
+        "30"
+      ],
+      "dc:date": ["Sat May 16 19:48:11 BST 2015"],
+      "dc:identifier": ["17805162266"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7738/17805162266_bd045293cd_t.jpg"],
+      "dc:title": ["Tattenhoe Walk (129 of 129)"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:isRelatedTo": [
+        "walk",
+        "nature",
+        "firefighter0793"
+      ],
+      "social:url": ["https://www.flickr.com/photos/firefighter0793/17720236416/"],
+      "geo:long": ["-0.787073"],
+      "geo:lat": ["52.007732"],
+      "dc:creator": [{
+        "global:name": ["Steve Cook"],
+        "dc:identifier": ["91006258@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/shenley_brook_end"],
+      "social:views": [
+        "12",
+        "9"
+      ],
+      "dc:date": ["Sat May 16 16:58:40 BST 2015"],
+      "dc:identifier": ["17720236416"],
+      "global:thumbnail": ["https://farm9.static.flickr.com/8866/17720236416_af5053a79b_t.jpg"],
+      "dc:title": ["Tattenhoe Walk (9 of 129)"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:isRelatedTo": [
+        "firefighter0793",
+        "local walks",
+        "imported keyword tags"
+      ],
+      "social:url": ["https://www.flickr.com/photos/firefighter0793/18186801623/"],
+      "geo:long": ["-0.788222"],
+      "geo:lat": ["52.00548"],
+      "dc:creator": [{
+        "global:name": ["Steve Cook"],
+        "dc:identifier": ["91006258@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/shenley_brook_end"],
+      "social:views": [
+        "11",
+        "24",
+        "21",
+        "18",
+        "17",
+        "16",
+        "20",
+        "15",
+        "6",
+        "36",
+        "25",
+        "28",
+        "37",
+        "34",
+        "32",
+        "38",
+        "29"
+      ],
+      "dc:date": ["Sun Jun 14 15:35:14 BST 2015"],
+      "dc:identifier": ["18186801623"],
+      "global:thumbnail": ["https://farm1.static.flickr.com/292/18186801623_7222b9dda4_t.jpg"],
+      "dc:title": ["local walk-047"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:isRelatedTo": [
+        "firefighter0793",
+        "local walks",
+        "imported keyword tags"
+      ],
+      "social:url": ["https://www.flickr.com/photos/firefighter0793/18802428462/"],
+      "geo:long": ["-0.786643"],
+      "geo:lat": ["52.00645"],
+      "dc:creator": [{
+        "global:name": ["Steve Cook"],
+        "dc:identifier": ["91006258@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/shenley_brook_end"],
+      "social:views": [
+        "24",
+        "21",
+        "10",
+        "18",
+        "17",
+        "16",
+        "19",
+        "15",
+        "6",
+        "36",
+        "25",
+        "28",
+        "37",
+        "34",
+        "32",
+        "38",
+        "29"
+      ],
+      "dc:date": ["Sun Jun 14 15:37:13 BST 2015"],
+      "dc:identifier": ["18802428462"],
+      "global:thumbnail": ["https://farm1.static.flickr.com/546/18802428462_844ea20df4_t.jpg"],
+      "dc:title": ["local walk-048"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/firefighter0793/15489003550/"],
+      "geo:long": ["-0.789703"],
+      "geo:lat": ["52.009155"],
+      "dc:creator": [{
+        "global:name": ["Steve Cook"],
+        "dc:identifier": ["91006258@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/shenley_brook_end"],
+      "social:views": ["63"],
+      "dc:date": ["Fri Oct 31 14:32:09 GMT 2014"],
+      "dc:identifier": ["15489003550"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7535/15489003550_10599a2409_t.jpg"],
+      "dc:title": ["Sleepy Harris"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:isRelatedTo": [
+        "firefighter0793",
+        "local walks",
+        "imported keyword tags"
+      ],
+      "social:url": ["https://www.flickr.com/photos/firefighter0793/18619588400/"],
+      "geo:long": ["-0.786738"],
+      "geo:lat": ["52.007282"],
+      "dc:creator": [{
+        "global:name": ["Steve Cook"],
+        "dc:identifier": ["91006258@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/shenley_brook_end"],
+      "social:views": [
+        "23",
+        "12",
+        "11",
+        "9",
+        "21",
+        "18",
+        "14",
+        "17",
+        "19",
+        "15",
+        "6",
+        "5",
+        "7",
+        "8",
+        "4"
+      ],
+      "dc:date": ["Sun Jun 14 13:58:38 BST 2015"],
+      "dc:identifier": ["18619588400"],
+      "global:thumbnail": ["https://farm1.static.flickr.com/343/18619588400_534a6e9a9f_t.jpg"],
+      "dc:title": ["Shenley Brook End School (1 of 1)"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:isRelatedTo": [
+        "walk",
+        "nature",
+        "firefighter0793"
+      ],
+      "social:url": ["https://www.flickr.com/photos/firefighter0793/21546111125/"],
+      "geo:long": ["-0.784873"],
+      "geo:lat": ["52.007767"],
+      "dc:creator": [{
+        "global:name": ["Steve Cook"],
+        "dc:identifier": ["91006258@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/shenley_brook_end"],
+      "social:views": [
+        "6",
+        "5"
+      ],
+      "dc:date": ["Sat May 16 19:48:05 BST 2015"],
+      "dc:identifier": ["21546111125"],
+      "global:thumbnail": ["https://farm1.static.flickr.com/742/21546111125_6e705b18b2_t.jpg"],
+      "dc:title": ["Tattenhoe Walk (128 of 129)"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:isRelatedTo": [
+        "firefighter0793",
+        "local walks",
+        "imported keyword tags"
+      ],
+      "social:url": ["https://www.flickr.com/photos/firefighter0793/18621292959/"],
+      "geo:long": ["-0.786319"],
+      "geo:lat": ["52.00703"],
+      "dc:creator": [{
+        "global:name": ["Steve Cook"],
+        "dc:identifier": ["91006258@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/shenley_brook_end"],
+      "social:views": [
+        "23",
+        "53",
+        "51",
+        "24",
+        "52",
+        "9",
+        "22",
+        "48",
+        "33",
+        "44",
+        "17",
+        "54",
+        "41",
+        "25",
+        "28",
+        "35",
+        "27",
+        "39"
+      ],
+      "dc:date": ["Sun Jun 14 15:38:53 BST 2015"],
+      "dc:identifier": ["18621292959"],
+      "global:thumbnail": ["https://farm1.static.flickr.com/309/18621292959_c1fca71c26_t.jpg"],
+      "dc:title": ["local walk-049"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:isRelatedTo": [
+        "loftus lens",
+        "blanko noir film",
+        "hipstamatic"
+      ],
+      "social:url": ["https://www.flickr.com/photos/38708096@N08/15614285175/"],
+      "geo:long": ["-0.784773"],
+      "geo:lat": ["52.014854"],
+      "dc:creator": [{
+        "global:name": ["Andra Alexander"],
+        "dc:identifier": ["38708096@N08"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/shenley_brook_end"],
+      "social:views": ["7"],
+      "dc:date": ["Fri Oct 24 09:37:19 BST 2014"],
+      "dc:identifier": ["15614285175"],
+      "global:thumbnail": ["https://farm4.static.flickr.com/3940/15614285175_a2693cebe0_t.jpg"],
+      "dc:title": ["HipstaPrint"]
+    }
+  ],
+  "global:numberOfBurglaries": [{
+    "year:2006/7": ["2"],
+    "year:2011/12": ["9"],
+    "year:2005/6": ["8"],
+    "year:2007/8": ["9"],
+    "year:2009/10": ["6"],
+    "year:2013/14": ["5"],
+    "year:2012/13": ["8"],
+    "year:2010/11": ["9"],
+    "year:2008/9": ["12"]
+  }],
+  "global:ethnicity": [{
+    "global:white:_gypsy_or_irish_traveller": ["0"],
+    "global:white:_irish": ["28"],
+    "global:black_and_minority_ethnic_group:_total": ["1138"],
+    "global:multiple_ethnic_group:_other_mixed": ["34"],
+    "global:multiple_ethnic_group:_white_and_black_african": ["22"],
+    "global:multiple_ethnic_group:_white_and_asian": ["27"],
+    "global:other_ethnic_group:_arab": ["9"],
+    "global:asian_british:_chinese": ["56"],
+    "global:asian_british:_other_asian": ["83"],
+    "global:black_british:_caribbean": ["67"],
+    "global:all_usual_residents": ["3585"],
+    "global:asian_british:_bangladeshi": ["9"],
+    "global:asian_british:_pakistani": ["65"],
+    "global:asian_british:_indian": ["269"],
+    "global:multiple_ethnic_group:_white_and_black_caribbean": ["53"],
+    "global:black_british:_other_black": ["29"],
+    "global:british": ["2448"],
+    "global:other_ethnic_group:_any_other_ethnic_group": ["21"],
+    "global:white:_other_white": ["168"],
+    "global:black_british:_african": ["198"]
+  }],
+  "global:tenure": [
+    {"year:2010": [{
+      "global:total_stock": ["1222"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["7"],
+      "global:rsl_shared_ownership": ["36"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["899"],
+      "global:rsl_rented": ["280"]
+    }]},
+    {"year:2006": [{
+      "global:total_stock": ["1220"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["7"],
+      "global:rsl_shared_ownership": ["36"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["897"],
+      "global:rsl_rented": ["280"]
+    }]},
+    {"year:2007": [{
+      "global:total_stock": ["1221"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["7"],
+      "global:rsl_shared_ownership": ["36"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["898"],
+      "global:rsl_rented": ["280"]
+    }]},
+    {"year:2004": [{
+      "global:total_stock": ["1214"],
+      "global:rsl_reduced_cost_sale": ["36"],
+      "global:mkc_rented": ["8"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["890"],
+      "global:rsl_rented": ["280"]
+    }]},
+    {"year:2013": [{
+      "global:total_stock": ["1224"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["7"],
+      "global:rsl_shared_ownership": ["36"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["901"],
+      "global:rsl_rented": ["280"]
+    }]},
+    {"year:2008": [{
+      "global:total_stock": ["1221"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["7"],
+      "global:rsl_shared_ownership": ["36"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["898"],
+      "global:rsl_rented": ["280"]
+    }]},
+    {"year:2014": [{
+      "global:total_stock": ["1224"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["7"],
+      "global:rsl_shared_ownership": ["36"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["901"],
+      "global:rsl_rented": ["280"]
+    }]},
+    {"year:2012": [{
+      "global:total_stock": ["1222"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["7"],
+      "global:rsl_shared_ownership": ["36"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["899"],
+      "global:rsl_rented": ["280"]
+    }]},
+    {"year:2005": [{
+      "global:total_stock": ["1220"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["7"],
+      "global:rsl_shared_ownership": ["36"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["897"],
+      "global:rsl_rented": ["280"]
+    }]},
+    {"year:2011": [{
+      "global:total_stock": ["1222"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["7"],
+      "global:rsl_shared_ownership": ["36"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["899"],
+      "global:rsl_rented": ["280"]
+    }]},
+    {"year:2009": [{
+      "global:total_stock": ["1221"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["7"],
+      "global:rsl_shared_ownership": ["36"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["898"],
+      "global:rsl_rented": ["280"]
+    }]}
+  ],
+  "imd:imd-2004": ["10.7"],
+  "global:numberOfArsonFires": [{
+    "year:2003/4": ["4"],
+    "year:2001/2": ["2"],
+    "year:2006/7": ["9"],
+    "year:2011/12": ["1"],
+    "year:2005/6": ["2"],
+    "year:2002/3": ["4"],
+    "year:2007/8": ["4"],
+    "year:2009/10": ["2"],
+    "year:2004/5": ["3"],
+    "year:2012/13": ["2"],
+    "year:2010/11": ["2"],
+    "year:2008/9": ["5"]
+  }],
+  "demographics:population-2011": ["3585"],
+  "imd:imd-2007": ["8.3"]
+}

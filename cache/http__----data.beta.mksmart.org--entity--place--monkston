@@ -1,0 +1,735 @@
+{
+  "global:numberOfCriminalDamages": [{
+    "year:2006/7": ["70"],
+    "year:2011/12": ["33"],
+    "year:2005/6": ["48"],
+    "year:2007/8": ["33"],
+    "year:2009/10": ["49"],
+    "year:2013/14": ["31"],
+    "year:2012/13": ["15"],
+    "year:2010/11": ["24"],
+    "year:2008/9": ["44"]
+  }],
+  "demographics:male-population-2011": ["2042"],
+  "global:location": ["http://data.beta.mksmart.org/entity/place/monkston"],
+  "global:numberOfRobberies": [{
+    "year:2006/7": ["0"],
+    "year:2011/12": ["1"],
+    "year:2005/6": ["0"],
+    "year:2007/8": ["0"],
+    "year:2009/10": ["1"],
+    "year:2013/14": ["1"],
+    "year:2012/13": ["1"],
+    "year:2010/11": ["2"],
+    "year:2008/9": ["2"]
+  }],
+  "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/linked-data/cube#Observation"],
+  "global:nbCrimes": [{
+    "year:2006/7": ["256"],
+    "year:2011/12": ["118"],
+    "year:2005/6": ["203"],
+    "year:2007/8": ["182"],
+    "year:2009/10": ["198"],
+    "year:2013/14": ["142"],
+    "year:2012/13": ["128"],
+    "year:2010/11": ["195"],
+    "year:2008/9": ["170"]
+  }],
+  "demographics:female-population-2011": ["2045"],
+  "global:numberOfViolencesAgainstThePerson": [{
+    "year:2006/7": ["67"],
+    "year:2011/12": ["15"],
+    "year:2005/6": ["61"],
+    "year:2007/8": ["50"],
+    "year:2009/10": ["55"],
+    "year:2013/14": ["25"],
+    "year:2012/13": ["27"],
+    "year:2010/11": ["61"],
+    "year:2008/9": ["38"]
+  }],
+  "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/linked-data/cube#Observation"],
+  "imd:imd-2010": ["9.3"],
+  "global:populationProjection": [{
+    "year:2012": ["4050"],
+    "year:2013": ["4050"],
+    "year:2014": ["4050"],
+    "year:2015": ["4050"],
+    "year:2016": ["4100"],
+    "year:2017": ["4100"],
+    "year:2018": ["4100"],
+    "year:2011": ["4100"],
+    "year:2019": ["4100"],
+    "year:2020": ["4050"],
+    "year:2021": ["4050"]
+  }],
+  "global:photoLocatedIn": [
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:isRelatedTo": [
+        "square",
+        "square format",
+        "instagram app",
+        "uploaded:by=instagram",
+        "iphoneography"
+      ],
+      "social:url": ["https://www.flickr.com/photos/23873086@N03/15042981249/"],
+      "geo:long": ["-0.705095"],
+      "geo:lat": ["52.03466"],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["23873086@N03"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/monkston"],
+      "social:views": ["4"],
+      "dc:date": ["Sat Sep 13 16:23:45 BST 2014"],
+      "dc:identifier": ["15042981249"],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5553/15042981249_6954913669_t.jpg"],
+      "dc:title": ["East along the Ridgeway taken at midnight, West Isley"]
+    },
+    {
+      "global:isRelatedTo": [
+        "b&w",
+        "bcc072014",
+        "products",
+        "patterns",
+        "coke",
+        "can",
+        "coca-cola",
+        "studio",
+        "ring pull",
+        "home"
+      ],
+      "geo:lat": ["52.03568"],
+      "dc:creator": [{
+        "global:name": ["Adrian Court"],
+        "dc:identifier": ["44948268@N02"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5561/15054410008_d0ea151d26_t.jpg"],
+      "dc:description": ["I've revisited the Coke cans shot in preparation for next months &quot;Patterns&quot; competition. The ring pulls are now all facing north, and I tried shooting using just the modeling lights in the softboxes with white reflectors either side to make the light more even. The open can istwisted through 90� to break the pattern further. I like this one more. MUCH more.\n\n<i>Please also visit my <a href=\"http://www.eatshootfly.com\" rel=\"nofollow\">website<\/a> and follow me on <a href=\"http://facebook.com/eatshootfly\" rel=\"nofollow\">Facebook<\/a> and <a href=\"http://twitter.com/eatshootfly\" rel=\"nofollow\">Twitter<\/a>!<\/i>  "],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.7136"],
+      "social:url": ["https://www.flickr.com/photos/adriancourt/15054410008/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/monkston"],
+      "social:views": ["1257"],
+      "dc:date": ["Thu Sep 11 09:47:28 BST 2014"],
+      "dc:identifier": ["15054410008"],
+      "dc:title": ["Popped and Turned"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:isRelatedTo": [
+        "square",
+        "square format",
+        "instagram app",
+        "uploaded:by=instagram",
+        "iphoneography"
+      ],
+      "social:url": ["https://www.flickr.com/photos/23873086@N03/15043295998/"],
+      "geo:long": ["-0.705023"],
+      "geo:lat": ["52.034767"],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["23873086@N03"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/monkston"],
+      "social:views": ["11"],
+      "dc:date": ["Sat Sep 13 16:40:32 BST 2014"],
+      "dc:identifier": ["15043295998"],
+      "global:thumbnail": ["https://farm4.static.flickr.com/3843/15043295998_11f4310440_t.jpg"],
+      "dc:title": ["Heading to London"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:isRelatedTo": [
+        "square",
+        "square format",
+        "instagram app",
+        "uploaded:by=instagram",
+        "iphoneography"
+      ],
+      "social:url": ["https://www.flickr.com/photos/23873086@N03/15229522732/"],
+      "geo:long": ["-0.705023"],
+      "geo:lat": ["52.034767"],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["23873086@N03"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/monkston"],
+      "social:views": ["11"],
+      "dc:date": ["Sat Sep 13 16:42:32 BST 2014"],
+      "dc:identifier": ["15229522732"],
+      "global:thumbnail": ["https://farm4.static.flickr.com/3926/15229522732_e11f41b5a3_t.jpg"],
+      "dc:title": ["Get me home, westbound on the M4"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:isRelatedTo": [
+        "square",
+        "square format",
+        "instagram app",
+        "uploaded:by=instagram",
+        "iphoneography"
+      ],
+      "social:url": ["https://www.flickr.com/photos/23873086@N03/15206696846/"],
+      "geo:long": ["-0.705095"],
+      "geo:lat": ["52.03466"],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["23873086@N03"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/monkston"],
+      "social:views": ["7"],
+      "dc:date": ["Sat Sep 13 16:20:17 BST 2014"],
+      "dc:identifier": ["15206696846"],
+      "global:thumbnail": ["https://farm4.static.flickr.com/3842/15206696846_f6054b8c9b_t.jpg"],
+      "dc:title": ["East along the Ridgeway taken at midnight, West Isley"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:isRelatedTo": [
+        "square",
+        "square format",
+        "instagram app",
+        "uploaded:by=instagram",
+        "iphoneography"
+      ],
+      "social:url": ["https://www.flickr.com/photos/23873086@N03/15229418362/"],
+      "geo:long": ["-0.705123"],
+      "geo:lat": ["52.03465"],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["23873086@N03"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/monkston"],
+      "social:views": ["73"],
+      "dc:date": ["Sat Sep 13 16:28:12 BST 2014"],
+      "dc:identifier": ["15229418362"],
+      "global:thumbnail": ["https://farm4.static.flickr.com/3853/15229418362_f145ce1bb1_t.jpg"],
+      "dc:title": ["Donnington Castle near Newbury"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:isRelatedTo": [
+        "square",
+        "square format",
+        "instagram app",
+        "uploaded:by=instagram",
+        "iphoneography"
+      ],
+      "social:url": ["https://www.flickr.com/photos/23873086@N03/15043351978/"],
+      "geo:long": ["-0.705076"],
+      "geo:lat": ["52.034668"],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["23873086@N03"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/monkston"],
+      "social:views": ["9"],
+      "dc:date": ["Sat Sep 13 16:48:00 BST 2014"],
+      "dc:identifier": ["15043351978"],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5591/15043351978_bafb6a8e7d_t.jpg"],
+      "dc:title": ["Hiring Bridge at night"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:isRelatedTo": [
+        "square",
+        "square format",
+        "instagram app",
+        "uploaded:by=instagram",
+        "iphoneography"
+      ],
+      "social:url": ["https://www.flickr.com/photos/23873086@N03/15043125797/"],
+      "geo:long": ["-0.705095"],
+      "geo:lat": ["52.03466"],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["23873086@N03"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/monkston"],
+      "social:views": ["10"],
+      "dc:date": ["Sat Sep 13 16:16:44 BST 2014"],
+      "dc:identifier": ["15043125797"],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5563/15043125797_c02770b410_t.jpg"],
+      "dc:title": ["West along the Ridgeway taken at midnight, West Isley"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:isRelatedTo": [
+        "square",
+        "square format",
+        "instagram app",
+        "uploaded:by=instagram",
+        "iphoneography"
+      ],
+      "social:url": ["https://www.flickr.com/photos/23873086@N03/15229799665/"],
+      "geo:long": ["-0.705123"],
+      "geo:lat": ["52.03465"],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["23873086@N03"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/monkston"],
+      "social:views": ["66"],
+      "dc:date": ["Sat Sep 13 16:30:28 BST 2014"],
+      "dc:identifier": ["15229799665"],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5579/15229799665_3d8cf9aa03_t.jpg"],
+      "dc:title": ["Donnington Castle near Newbury"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:isRelatedTo": [
+        "square",
+        "square format",
+        "instagram app",
+        "uploaded:by=instagram",
+        "iphoneography"
+      ],
+      "social:url": ["https://www.flickr.com/photos/23873086@N03/15043243428/"],
+      "geo:long": ["-0.705123"],
+      "geo:lat": ["52.03465"],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["23873086@N03"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/monkston"],
+      "social:views": ["66"],
+      "dc:date": ["Sat Sep 13 16:33:24 BST 2014"],
+      "dc:identifier": ["15043243428"],
+      "global:thumbnail": ["https://farm4.static.flickr.com/3845/15043243428_fc1608583b_t.jpg"],
+      "dc:title": ["Donnington Castle near Newbury"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:isRelatedTo": [
+        "square",
+        "square format",
+        "instagram app",
+        "uploaded:by=instagram",
+        "iphoneography"
+      ],
+      "social:url": ["https://www.flickr.com/photos/23873086@N03/15043164620/"],
+      "geo:long": ["-0.705236"],
+      "geo:lat": ["52.034794"],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["23873086@N03"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/monkston"],
+      "social:views": ["7"],
+      "dc:date": ["Sat Sep 13 16:37:21 BST 2014"],
+      "dc:identifier": ["15043164620"],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5568/15043164620_bf442f0812_t.jpg"],
+      "dc:title": ["Shaw Church, near Newbury"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:isRelatedTo": [
+        "square",
+        "square format",
+        "instagram app",
+        "uploaded:by=instagram",
+        "iphoneography"
+      ],
+      "social:url": ["https://www.flickr.com/photos/23873086@N03/15206736076/"],
+      "geo:long": ["-0.705095"],
+      "geo:lat": ["52.03466"],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["23873086@N03"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/monkston"],
+      "social:views": ["16"],
+      "dc:date": ["Sat Sep 13 16:25:45 BST 2014"],
+      "dc:identifier": ["15206736076"],
+      "global:thumbnail": ["https://farm4.static.flickr.com/3912/15206736076_155973359b_t.jpg"],
+      "dc:title": ["Didcot Power Station from the Ridgeway taken at midnight, West Isley"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:isRelatedTo": [
+        "square",
+        "square format",
+        "instagram app",
+        "uploaded:by=instagram",
+        "iphoneography"
+      ],
+      "social:url": ["https://www.flickr.com/photos/23873086@N03/15226827471/"],
+      "geo:long": ["-0.705076"],
+      "geo:lat": ["52.034668"],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["23873086@N03"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/monkston"],
+      "social:views": ["8"],
+      "dc:date": ["Sat Sep 13 16:46:37 BST 2014"],
+      "dc:identifier": ["15226827471"],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5577/15226827471_44d849437f_t.jpg"],
+      "dc:title": ["Cars crossing Goring Bridge at night"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:isRelatedTo": [
+        "square",
+        "square format",
+        "instagram app",
+        "uploaded:by=instagram",
+        "iphoneography"
+      ],
+      "social:url": ["https://www.flickr.com/photos/23873086@N03/15226866931/"],
+      "geo:long": ["-0.704991"],
+      "geo:lat": ["52.034695"],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["23873086@N03"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/monkston"],
+      "social:views": ["12"],
+      "dc:date": ["Sat Sep 13 16:52:13 BST 2014"],
+      "dc:identifier": ["15226866931"],
+      "global:thumbnail": ["https://farm4.static.flickr.com/3890/15226866931_ca27a56e45_t.jpg"],
+      "dc:title": ["Milky Way and Cassiopeia over Linksdown"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:isRelatedTo": [
+        "square",
+        "square format",
+        "instagram app",
+        "uploaded:by=instagram",
+        "iphoneography"
+      ],
+      "social:url": ["https://www.flickr.com/photos/23873086@N03/15043216317/"],
+      "geo:long": ["-0.705123"],
+      "geo:lat": ["52.03465"],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["23873086@N03"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/monkston"],
+      "social:views": ["67"],
+      "dc:date": ["Sat Sep 13 16:29:12 BST 2014"],
+      "dc:identifier": ["15043216317"],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5555/15043216317_37b7f8b119_t.jpg"],
+      "dc:title": ["Donnington Castle near Newbury"]
+    },
+    {
+      "global:isRelatedTo": [
+        "gears",
+        "flash",
+        "mini",
+        "dials",
+        "logo",
+        "light",
+        "dashboard",
+        "car",
+        "garage",
+        "home",
+        "steering wheel"
+      ],
+      "geo:lat": ["52.035763"],
+      "dc:creator": [{
+        "global:name": ["Adrian Court"],
+        "dc:identifier": ["44948268@N02"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "global:thumbnail": ["https://farm4.static.flickr.com/3898/14884185219_108cf9cda0_t.jpg"],
+      "dc:description": ["Interior shot of the Mini showing the dashboard and the details in the Mini. It is a cool little driving place. Taken in the garage with all the doors OPEN surprisingly!\n\nStrobist Info: One D-Lite RX-One at full power through a long focus reflector with grid. Light positioned above wing mirror and reflecting from a large piece of polystyrene on the seats!\n\n<i>Please also visit my <a href=\"http://www.eatshootfly.com\" rel=\"nofollow\">website<\/a> and follow me on <a href=\"http://facebook.com/eatshootfly\" rel=\"nofollow\">Facebook<\/a> and <a href=\"http://twitter.com/eatshootfly\" rel=\"nofollow\">Twitter<\/a>!<\/i>"],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.713692"],
+      "social:url": ["https://www.flickr.com/photos/adriancourt/14884185219/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/monkston"],
+      "social:views": ["1928"],
+      "dc:date": ["Wed Aug 27 15:44:25 BST 2014"],
+      "dc:identifier": ["14884185219"],
+      "dc:title": ["Driving Position"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:isRelatedTo": [
+        "square",
+        "square format",
+        "instagram app",
+        "uploaded:by=instagram",
+        "iphoneography"
+      ],
+      "social:url": ["https://www.flickr.com/photos/23873086@N03/15043039069/"],
+      "geo:long": ["-0.705123"],
+      "geo:lat": ["52.03465"],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["23873086@N03"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/monkston"],
+      "social:views": ["12"],
+      "dc:date": ["Sat Sep 13 16:31:45 BST 2014"],
+      "dc:identifier": ["15043039069"],
+      "global:thumbnail": ["https://farm4.static.flickr.com/3843/15043039069_e0b945a4f1_t.jpg"],
+      "dc:title": ["Donnington Castle near Newbury"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:isRelatedTo": [
+        "square",
+        "square format",
+        "instagram app",
+        "uploaded:by=instagram",
+        "iphoneography"
+      ],
+      "social:url": ["https://www.flickr.com/photos/23873086@N03/15226856561/"],
+      "geo:long": ["-0.704991"],
+      "geo:lat": ["52.034695"],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["23873086@N03"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/monkston"],
+      "social:views": ["13"],
+      "dc:date": ["Sat Sep 13 16:50:40 BST 2014"],
+      "dc:identifier": ["15226856561"],
+      "global:thumbnail": ["https://farm4.static.flickr.com/3862/15226856561_9630a8eb62_t.jpg"],
+      "dc:title": ["Big Supper over Linksdown"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:isRelatedTo": [
+        "square",
+        "square format",
+        "instagram app",
+        "uploaded:by=instagram",
+        "iphoneography"
+      ],
+      "social:url": ["https://www.flickr.com/photos/23873086@N03/15043301360/"],
+      "geo:long": ["-0.704991"],
+      "geo:lat": ["52.034695"],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["23873086@N03"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/monkston"],
+      "social:views": ["13"],
+      "dc:date": ["Sat Sep 13 16:56:08 BST 2014"],
+      "dc:identifier": ["15043301360"],
+      "global:thumbnail": ["https://farm4.static.flickr.com/3901/15043301360_a6ce21e40c_t.jpg"],
+      "dc:title": ["Milky Way in the Summer Triangle"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:isRelatedTo": [
+        "square",
+        "square format",
+        "instagram app",
+        "uploaded:by=instagram",
+        "iphoneography"
+      ],
+      "social:url": ["https://www.flickr.com/photos/23873086@N03/15229936505/"],
+      "geo:long": ["-0.705076"],
+      "geo:lat": ["52.034668"],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["23873086@N03"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/monkston"],
+      "social:views": ["9"],
+      "dc:date": ["Sat Sep 13 16:49:00 BST 2014"],
+      "dc:identifier": ["15229936505"],
+      "global:thumbnail": ["https://farm4.static.flickr.com/3855/15229936505_3c308f9cdd_t.jpg"],
+      "dc:title": ["Goring Bridge at night"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:isRelatedTo": [
+        "square",
+        "square format",
+        "instagram app",
+        "uploaded:by=instagram",
+        "iphoneography"
+      ],
+      "social:url": ["https://www.flickr.com/photos/23873086@N03/15206804366/"],
+      "geo:long": ["-0.705236"],
+      "geo:lat": ["52.034794"],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["23873086@N03"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/monkston"],
+      "social:views": ["8"],
+      "dc:date": ["Sat Sep 13 16:35:27 BST 2014"],
+      "dc:identifier": ["15206804366"],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5577/15206804366_dd2d06576a_t.jpg"],
+      "dc:title": ["Rushing to church, Shaw near Newbury"]
+    }
+  ],
+  "global:numberOfBurglaries": [{
+    "year:2006/7": ["10"],
+    "year:2011/12": ["4"],
+    "year:2005/6": ["18"],
+    "year:2007/8": ["20"],
+    "year:2009/10": ["14"],
+    "year:2013/14": ["8"],
+    "year:2012/13": ["7"],
+    "year:2010/11": ["14"],
+    "year:2008/9": ["14"]
+  }],
+  "global:ethnicity": [{
+    "global:white:_gypsy_or_irish_traveller": ["0"],
+    "global:white:_irish": ["23"],
+    "global:black_and_minority_ethnic_group:_total": ["1312"],
+    "global:multiple_ethnic_group:_other_mixed": ["40"],
+    "global:multiple_ethnic_group:_white_and_black_african": ["17"],
+    "global:multiple_ethnic_group:_white_and_asian": ["49"],
+    "global:other_ethnic_group:_arab": ["16"],
+    "global:asian_british:_chinese": ["61"],
+    "global:asian_british:_other_asian": ["103"],
+    "global:black_british:_caribbean": ["34"],
+    "global:all_usual_residents": ["4087"],
+    "global:asian_british:_bangladeshi": ["8"],
+    "global:asian_british:_pakistani": ["66"],
+    "global:asian_british:_indian": ["165"],
+    "global:multiple_ethnic_group:_white_and_black_caribbean": ["30"],
+    "global:black_british:_other_black": ["29"],
+    "global:british": ["2775"],
+    "global:other_ethnic_group:_any_other_ethnic_group": ["10"],
+    "global:white:_other_white": ["345"],
+    "global:black_british:_african": ["316"]
+  }],
+  "global:tenure": [
+    {"year:2013": [{
+      "global:total_stock": ["1437"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["98"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["1091"],
+      "global:rsl_rented": ["248"]
+    }]},
+    {"year:2008": [{
+      "global:total_stock": ["1437"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["98"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["1091"],
+      "global:rsl_rented": ["248"]
+    }]},
+    {"year:2007": [{
+      "global:total_stock": ["1437"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["98"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["1091"],
+      "global:rsl_rented": ["248"]
+    }]},
+    {"year:2006": [{
+      "global:total_stock": ["1437"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["98"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["1091"],
+      "global:rsl_rented": ["248"]
+    }]},
+    {"year:2004": [{
+      "global:total_stock": ["1437"],
+      "global:rsl_reduced_cost_sale": ["98"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["1091"],
+      "global:rsl_rented": ["248"]
+    }]},
+    {"year:2012": [{
+      "global:total_stock": ["1437"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["98"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["1091"],
+      "global:rsl_rented": ["248"]
+    }]},
+    {"year:2014": [{
+      "global:total_stock": ["1438"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["98"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["1092"],
+      "global:rsl_rented": ["248"]
+    }]},
+    {"year:2011": [{
+      "global:total_stock": ["1437"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["98"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["1091"],
+      "global:rsl_rented": ["248"]
+    }]},
+    {"year:2005": [{
+      "global:total_stock": ["1437"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["98"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["1091"],
+      "global:rsl_rented": ["248"]
+    }]},
+    {"year:2010": [{
+      "global:total_stock": ["1437"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["98"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["1091"],
+      "global:rsl_rented": ["248"]
+    }]},
+    {"year:2009": [{
+      "global:total_stock": ["1437"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["98"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["1091"],
+      "global:rsl_rented": ["248"]
+    }]}
+  ],
+  "imd:imd-2004": ["11.3"],
+  "global:numberOfArsonFires": [{
+    "year:2003/4": ["4"],
+    "year:2001/2": ["1"],
+    "year:2006/7": ["0"],
+    "year:2011/12": ["1"],
+    "year:2005/6": ["2"],
+    "year:2002/3": ["1"],
+    "year:2007/8": ["3"],
+    "year:2009/10": ["1"],
+    "year:2004/5": ["5"],
+    "year:2012/13": ["2"],
+    "year:2010/11": ["3"],
+    "year:2008/9": ["2"]
+  }],
+  "demographics:population-2011": ["4087"],
+  "imd:imd-2007": ["9.4"]
+}

@@ -1,0 +1,442 @@
+{
+  "global:numberOfCriminalDamages": [{
+    "year:2006/7": ["127"],
+    "year:2011/12": ["58"],
+    "year:2005/6": ["96"],
+    "year:2007/8": ["107"],
+    "year:2009/10": ["90"],
+    "year:2013/14": ["49"],
+    "year:2012/13": ["61"],
+    "year:2010/11": ["71"],
+    "year:2008/9": ["123"]
+  }],
+  "demographics:male-population-2011": ["1670"],
+  "global:location": ["http://data.beta.mksmart.org/entity/place/stantonbury"],
+  "global:numberOfRobberies": [{
+    "year:2006/7": ["5"],
+    "year:2011/12": ["9"],
+    "year:2005/6": ["11"],
+    "year:2007/8": ["7"],
+    "year:2009/10": ["5"],
+    "year:2013/14": ["3"],
+    "year:2012/13": ["5"],
+    "year:2010/11": ["5"],
+    "year:2008/9": ["16"]
+  }],
+  "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/linked-data/cube#Observation"],
+  "global:nbCrimes": [{
+    "year:2006/7": ["660"],
+    "year:2011/12": ["344"],
+    "year:2005/6": ["466"],
+    "year:2007/8": ["544"],
+    "year:2009/10": ["481"],
+    "year:2013/14": ["249"],
+    "year:2012/13": ["257"],
+    "year:2010/11": ["405"],
+    "year:2008/9": ["579"]
+  }],
+  "demographics:female-population-2011": ["1834"],
+  "global:numberOfViolencesAgainstThePerson": [{
+    "year:2006/7": ["114"],
+    "year:2011/12": ["84"],
+    "year:2005/6": ["91"],
+    "year:2007/8": ["137"],
+    "year:2009/10": ["140"],
+    "year:2013/14": ["67"],
+    "year:2012/13": ["58"],
+    "year:2010/11": ["106"],
+    "year:2008/9": ["134"]
+  }],
+  "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/linked-data/cube#Observation"],
+  "imd:imd-2010": ["25.7"],
+  "global:populationProjection": [{
+    "year:2012": ["3500"],
+    "year:2013": ["3500"],
+    "year:2014": ["3450"],
+    "year:2015": ["3450"],
+    "year:2016": ["3450"],
+    "year:2017": ["3450"],
+    "year:2018": ["3450"],
+    "year:2011": ["3500"],
+    "year:2019": ["3450"],
+    "year:2020": ["3450"],
+    "year:2021": ["3400"]
+  }],
+  "global:photoLocatedIn": [
+    {
+      "global:isRelatedTo": [
+        "housing",
+        "archhist",
+        "square",
+        "crop",
+        "monopitch",
+        "bradville",
+        "canon",
+        "concrete",
+        "tominmk",
+        "itmpa",
+        "terrace",
+        "canon 6d",
+        "triangular",
+        "from a coach window",
+        "mk",
+        "tom parnell",
+        "milton keynes",
+        "cropped",
+        "6d"
+      ],
+      "dc:creator": [{
+        "global:name": ["Tom Parnell"],
+        "dc:identifier": ["97595808@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": [
+        "52.063065",
+        "52.067997"
+      ],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:thumbnail": ["https://farm1.static.flickr.com/323/19582079904_95da477bac_t.jpg"],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": [
+        "-0.784814",
+        "-0.777792"
+      ],
+      "social:url": ["https://www.flickr.com/photos/itmpa/19582079904/"],
+      "geo:location": [
+        "http://data.beta.mksmart.org/entity/place/stantonbury",
+        "http://data.beta.mksmart.org/entity/place/milton_keynes"
+      ],
+      "social:views": [
+        "57",
+        "63",
+        "31",
+        "61",
+        "67",
+        "14",
+        "43",
+        "50"
+      ],
+      "dc:date": ["Sat Apr 18 17:34:10 BST 2015"],
+      "dc:identifier": ["19582079904"],
+      "dc:title": ["MK: Bradville"]
+    },
+    {
+      "global:isRelatedTo": [
+        "housing",
+        "archhist",
+        "square",
+        "crop",
+        "monopitch",
+        "bradville",
+        "canon",
+        "concrete",
+        "tominmk",
+        "itmpa",
+        "terrace",
+        "canon 6d",
+        "triangular",
+        "from a coach window",
+        "mk",
+        "tom parnell",
+        "milton keynes",
+        "cropped",
+        "6d"
+      ],
+      "dc:creator": [{
+        "global:name": ["Tom Parnell"],
+        "dc:identifier": ["97595808@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": [
+        "52.063065",
+        "52.067997"
+      ],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:thumbnail": ["https://farm1.static.flickr.com/323/19582079904_95da477bac_t.jpg"],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": [
+        "-0.784814",
+        "-0.777792"
+      ],
+      "social:url": ["https://www.flickr.com/photos/itmpa/19582079904/"],
+      "geo:location": [
+        "http://data.beta.mksmart.org/entity/place/stantonbury",
+        "http://data.beta.mksmart.org/entity/place/milton_keynes"
+      ],
+      "social:views": [
+        "63",
+        "61",
+        "67",
+        "14",
+        "43",
+        "69",
+        "79",
+        "90",
+        "57",
+        "84",
+        "31",
+        "77",
+        "81",
+        "50"
+      ],
+      "dc:date": ["Sat Apr 18 17:34:10 BST 2015"],
+      "dc:identifier": ["19582079904"],
+      "dc:title": ["MK: Bradville"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/smcgill1969/15774640895/"],
+      "geo:long": ["-0.77"],
+      "dc:creator": [{
+        "global:name": ["Simon McGill"],
+        "dc:identifier": ["68968740@N07"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.062"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/stantonbury"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:views": ["14"],
+      "dc:date": ["Sun Oct 30 07:37:43 GMT 2011"],
+      "dc:identifier": ["15774640895"],
+      "global:thumbnail": ["https://farm9.static.flickr.com/8608/15774640895_3b9d332828_t.jpg"],
+      "dc:title": ["20111030_073743"]
+    },
+    {
+      "dc:creator": [{
+        "global:name": ["Paul Brunt"],
+        "dc:identifier": ["103635546@N05"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.068794"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:thumbnail": ["https://farm4.static.flickr.com/3860/15080954979_9cfba6398a_t.jpg"],
+      "dc:description": ["September 2014\n"],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.780394"],
+      "social:url": ["https://www.flickr.com/photos/103635546@N05/15080954979/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/stantonbury"],
+      "social:views": ["42"],
+      "dc:date": ["Tue Sep 09 17:50:33 BST 2014"],
+      "dc:identifier": ["15080954979"],
+      "dc:title": ["Grand Union Canal, Evening Tones"]
+    },
+    {
+      "global:isRelatedTo": [
+        "toy",
+        "vw",
+        "volks",
+        "van",
+        "wagon",
+        "campervan",
+        "volkswagon",
+        "camper",
+        "distressed",
+        "old"
+      ],
+      "dc:creator": [{
+        "global:name": ["Mike Campbell"],
+        "dc:identifier": ["78467473@N07"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.06518"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:thumbnail": ["https://farm4.static.flickr.com/3863/15197237208_a313db56ba_t.jpg"],
+      "dc:description": ["A very distressed little vw camper van toy"],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.760567"],
+      "social:url": ["https://www.flickr.com/photos/meatball85/15197237208/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/stantonbury"],
+      "social:views": ["197"],
+      "dc:date": ["Sun Sep 28 03:01:45 BST 2014"],
+      "dc:identifier": ["15197237208"],
+      "dc:title": ["Distressed volkswagon vw campervan"]
+    },
+    {
+      "global:isRelatedTo": [
+        "instagram app",
+        "square format",
+        "square",
+        "uploaded:by=instagram",
+        "iphoneography",
+        "foursquare:venue=4e2314ad7d8b71715bbba5d7"
+      ],
+      "dc:creator": [{
+        "global:name": ["Colin Mill"],
+        "dc:identifier": ["38892719@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.068"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7789/18205708295_6d7b8d7a77_t.jpg"],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.7637"],
+      "social:url": ["https://www.flickr.com/photos/38892719@N00/18205708295/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/stantonbury"],
+      "social:views": [
+        "30",
+        "31",
+        "2",
+        "20",
+        "26",
+        "29",
+        "16",
+        "24",
+        "15"
+      ],
+      "dc:date": ["Thu May 28 20:22:12 BST 2015"],
+      "dc:identifier": ["18205708295"],
+      "dc:title": ["Hidden Datum. Almost hidden by the undergrowth is what at first appears to be a private cemetery, but in fact it's an @OrdnanceSurvey #DatumLevel #HiddenMiltonKeynes @MiltonKeynes"]
+    }
+  ],
+  "global:numberOfBurglaries": [{
+    "year:2006/7": ["31"],
+    "year:2011/12": ["14"],
+    "year:2005/6": ["11"],
+    "year:2007/8": ["13"],
+    "year:2009/10": ["26"],
+    "year:2013/14": ["10"],
+    "year:2012/13": ["16"],
+    "year:2010/11": ["19"],
+    "year:2008/9": ["14"]
+  }],
+  "global:ethnicity": [{
+    "global:white:_gypsy_or_irish_traveller": ["0"],
+    "global:white:_irish": ["41"],
+    "global:black_and_minority_ethnic_group:_total": ["1157"],
+    "global:multiple_ethnic_group:_other_mixed": ["37"],
+    "global:multiple_ethnic_group:_white_and_black_african": ["32"],
+    "global:multiple_ethnic_group:_white_and_asian": ["23"],
+    "global:other_ethnic_group:_arab": ["5"],
+    "global:asian_british:_chinese": ["20"],
+    "global:asian_british:_other_asian": ["160"],
+    "global:black_british:_caribbean": ["52"],
+    "global:all_usual_residents": ["3504"],
+    "global:asian_british:_bangladeshi": ["26"],
+    "global:asian_british:_pakistani": ["98"],
+    "global:asian_british:_indian": ["71"],
+    "global:multiple_ethnic_group:_white_and_black_caribbean": ["48"],
+    "global:black_british:_other_black": ["29"],
+    "global:british": ["2346"],
+    "global:other_ethnic_group:_any_other_ethnic_group": ["20"],
+    "global:white:_other_white": ["168"],
+    "global:black_british:_african": ["327"]
+  }],
+  "global:tenure": [
+    {"year:2011": [{
+      "global:total_stock": ["1465"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["255"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["1052"],
+      "global:rsl_rented": ["158"]
+    }]},
+    {"year:2012": [{
+      "global:total_stock": ["1465"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["255"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["1052"],
+      "global:rsl_rented": ["158"]
+    }]},
+    {"year:2004": [{
+      "global:total_stock": ["1468"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["269"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["1041"],
+      "global:rsl_rented": ["158"]
+    }]},
+    {"year:2005": [{
+      "global:total_stock": ["1468"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["264"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["1046"],
+      "global:rsl_rented": ["158"]
+    }]},
+    {"year:2008": [{
+      "global:total_stock": ["1464"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["256"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["1050"],
+      "global:rsl_rented": ["158"]
+    }]},
+    {"year:2006": [{
+      "global:total_stock": ["1463"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["260"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["1045"],
+      "global:rsl_rented": ["158"]
+    }]},
+    {"year:2010": [{
+      "global:total_stock": ["1465"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["256"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["1051"],
+      "global:rsl_rented": ["158"]
+    }]},
+    {"year:2009": [{
+      "global:total_stock": ["1464"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["256"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["1050"],
+      "global:rsl_rented": ["158"]
+    }]},
+    {"year:2014": [{
+      "global:total_stock": ["1465"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["253"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["1054"],
+      "global:rsl_rented": ["158"]
+    }]},
+    {"year:2013": [{
+      "global:total_stock": ["1465"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["255"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["1052"],
+      "global:rsl_rented": ["158"]
+    }]},
+    {"year:2007": [{
+      "global:total_stock": ["1464"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["257"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["1049"],
+      "global:rsl_rented": ["158"]
+    }]}
+  ],
+  "imd:imd-2004": ["25"],
+  "global:numberOfArsonFires": [{
+    "year:2003/4": ["41"],
+    "year:2001/2": ["47"],
+    "year:2006/7": ["21"],
+    "year:2011/12": ["9"],
+    "year:2005/6": ["32"],
+    "year:2002/3": ["36"],
+    "year:2007/8": ["20"],
+    "year:2009/10": ["11"],
+    "year:2004/5": ["33"],
+    "year:2012/13": ["7"],
+    "year:2010/11": ["18"],
+    "year:2008/9": ["14"]
+  }],
+  "demographics:population-2011": ["3504"],
+  "imd:imd-2007": ["24.8"]
+}

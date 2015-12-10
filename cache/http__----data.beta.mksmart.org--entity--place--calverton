@@ -1,0 +1,235 @@
+{
+  "global:numberOfCriminalDamages": [{
+    "year:2006/7": ["1"],
+    "year:2011/12": ["2"],
+    "year:2005/6": ["2"],
+    "year:2007/8": ["3"],
+    "year:2009/10": ["2"],
+    "year:2013/14": ["0"],
+    "year:2012/13": ["4"],
+    "year:2010/11": ["1"],
+    "year:2008/9": ["3"]
+  }],
+  "demographics:male-population-2011": ["80"],
+  "global:location": ["http://data.beta.mksmart.org/entity/place/calverton"],
+  "global:numberOfRobberies": [{
+    "year:2006/7": ["0"],
+    "year:2011/12": ["0"],
+    "year:2005/6": ["0"],
+    "year:2007/8": ["0"],
+    "year:2009/10": ["0"],
+    "year:2013/14": ["0"],
+    "year:2012/13": ["0"],
+    "year:2010/11": ["0"],
+    "year:2008/9": ["0"]
+  }],
+  "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/linked-data/cube#Observation"],
+  "global:nbCrimes": [{
+    "year:2006/7": ["12"],
+    "year:2011/12": ["8"],
+    "year:2005/6": ["20"],
+    "year:2007/8": ["19"],
+    "year:2009/10": ["16"],
+    "year:2013/14": ["8"],
+    "year:2012/13": ["9"],
+    "year:2010/11": ["9"],
+    "year:2008/9": ["12"]
+  }],
+  "demographics:female-population-2011": ["78"],
+  "global:numberOfViolencesAgainstThePerson": [{
+    "year:2006/7": ["1"],
+    "year:2011/12": ["0"],
+    "year:2005/6": ["3"],
+    "year:2007/8": ["1"],
+    "year:2009/10": ["5"],
+    "year:2013/14": ["0"],
+    "year:2012/13": ["3"],
+    "year:2010/11": ["0"],
+    "year:2008/9": ["2"]
+  }],
+  "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/linked-data/cube#Observation"],
+  "imd:imd-2010": ["7.7"],
+  "global:populationProjection": [{
+    "year:2012": ["150"],
+    "year:2013": ["150"],
+    "year:2014": ["150"],
+    "year:2015": ["150"],
+    "year:2016": ["150"],
+    "year:2017": ["150"],
+    "year:2018": ["150"],
+    "year:2011": ["150"],
+    "year:2019": ["150"],
+    "year:2020": ["150"],
+    "year:2021": ["150"]
+  }],
+  "global:photoLocatedIn": [{
+    "dc:creator": [{
+      "global:name": ["Paul Capewell"],
+      "dc:identifier": ["13182127@N00"],
+      "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+    }],
+    "geo:lat": ["52.0362"],
+    "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+    "global:thumbnail": ["https://farm6.static.flickr.com/5585/15169597662_0cfd124deb_t.jpg"],
+    "dc:description": ["Processed with VSCOcam with f2 preset"],
+    "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+    "geo:long": ["-0.840539"],
+    "social:url": ["https://www.flickr.com/photos/paulcapewell/15169597662/"],
+    "geo:location": ["http://data.beta.mksmart.org/entity/place/calverton"],
+    "social:views": ["48"],
+    "dc:date": ["Sun Sep 07 19:21:28 BST 2014"],
+    "dc:identifier": ["15169597662"],
+    "dc:title": ["Golden hour ride"]
+  }],
+  "global:numberOfBurglaries": [{
+    "year:2006/7": ["2"],
+    "year:2011/12": ["0"],
+    "year:2005/6": ["2"],
+    "year:2007/8": ["0"],
+    "year:2009/10": ["0"],
+    "year:2013/14": ["1"],
+    "year:2012/13": ["0"],
+    "year:2010/11": ["0"],
+    "year:2008/9": ["0"]
+  }],
+  "global:ethnicity": [{
+    "global:white:_gypsy_or_irish_traveller": ["0"],
+    "global:white:_irish": ["2"],
+    "global:black_and_minority_ethnic_group:_total": ["21"],
+    "global:multiple_ethnic_group:_other_mixed": ["1"],
+    "global:multiple_ethnic_group:_white_and_black_african": ["2"],
+    "global:multiple_ethnic_group:_white_and_asian": ["0"],
+    "global:other_ethnic_group:_arab": ["0"],
+    "global:asian_british:_chinese": ["0"],
+    "global:asian_british:_other_asian": ["2"],
+    "global:black_british:_caribbean": ["2"],
+    "global:all_usual_residents": ["157"],
+    "global:asian_british:_bangladeshi": ["0"],
+    "global:asian_british:_pakistani": ["0"],
+    "global:asian_british:_indian": ["0"],
+    "global:multiple_ethnic_group:_white_and_black_caribbean": ["2"],
+    "global:black_british:_other_black": ["1"],
+    "global:british": ["138"],
+    "global:other_ethnic_group:_any_other_ethnic_group": ["2"],
+    "global:white:_other_white": ["6"],
+    "global:black_british:_african": ["1"]
+  }],
+  "global:tenure": [
+    {"year:2011": [{
+      "global:total_stock": ["106"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["103"],
+      "global:rsl_rented": ["3"]
+    }]},
+    {"year:2008": [{
+      "global:total_stock": ["103"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["100"],
+      "global:rsl_rented": ["3"]
+    }]},
+    {"year:2005": [{
+      "global:total_stock": ["102"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["99"],
+      "global:rsl_rented": ["3"]
+    }]},
+    {"year:2012": [{
+      "global:total_stock": ["106"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["103"],
+      "global:rsl_rented": ["3"]
+    }]},
+    {"year:2010": [{
+      "global:total_stock": ["106"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["103"],
+      "global:rsl_rented": ["3"]
+    }]},
+    {"year:2013": [{
+      "global:total_stock": ["106"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["103"],
+      "global:rsl_rented": ["3"]
+    }]},
+    {"year:2014": [{
+      "global:total_stock": ["107"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["104"],
+      "global:rsl_rented": ["3"]
+    }]},
+    {"year:2006": [{
+      "global:total_stock": ["103"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["100"],
+      "global:rsl_rented": ["3"]
+    }]},
+    {"year:2009": [{
+      "global:total_stock": ["104"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["101"],
+      "global:rsl_rented": ["3"]
+    }]},
+    {"year:2007": [{
+      "global:total_stock": ["103"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["100"],
+      "global:rsl_rented": ["3"]
+    }]},
+    {"year:2004": [{
+      "global:total_stock": ["102"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["99"],
+      "global:rsl_rented": ["3"]
+    }]}
+  ],
+  "imd:imd-2004": ["6"],
+  "global:numberOfArsonFires": [{
+    "year:2003/4": ["3"],
+    "year:2001/2": ["2"],
+    "year:2006/7": ["1"],
+    "year:2011/12": ["0"],
+    "year:2005/6": ["1"],
+    "year:2002/3": ["4"],
+    "year:2007/8": ["0"],
+    "year:2009/10": ["1"],
+    "year:2004/5": ["1"],
+    "year:2012/13": ["1"],
+    "year:2010/11": ["3"],
+    "year:2008/9": ["0"]
+  }],
+  "demographics:population-2011": ["157"],
+  "imd:imd-2007": ["5.7"]
+}

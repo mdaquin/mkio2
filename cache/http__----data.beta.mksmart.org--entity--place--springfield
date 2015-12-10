@@ -1,0 +1,1004 @@
+{
+  "global:numberOfCriminalDamages": [{
+    "year:2006/7": ["76"],
+    "year:2011/12": ["17"],
+    "year:2005/6": ["90"],
+    "year:2007/8": ["34"],
+    "year:2009/10": ["46"],
+    "year:2013/14": ["14"],
+    "year:2012/13": ["16"],
+    "year:2010/11": ["30"],
+    "year:2008/9": ["35"]
+  }],
+  "demographics:male-population-2011": ["1176"],
+  "global:location": ["http://data.beta.mksmart.org/entity/place/springfield"],
+  "global:numberOfRobberies": [{
+    "year:2006/7": ["8"],
+    "year:2011/12": ["3"],
+    "year:2005/6": ["2"],
+    "year:2007/8": ["3"],
+    "year:2009/10": ["5"],
+    "year:2013/14": ["2"],
+    "year:2012/13": ["2"],
+    "year:2010/11": ["11"],
+    "year:2008/9": ["5"]
+  }],
+  "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/linked-data/cube#Observation"],
+  "global:nbCrimes": [{
+    "year:2006/7": ["300"],
+    "year:2011/12": ["154"],
+    "year:2005/6": ["248"],
+    "year:2007/8": ["182"],
+    "year:2009/10": ["238"],
+    "year:2013/14": ["94"],
+    "year:2012/13": ["97"],
+    "year:2010/11": ["227"],
+    "year:2008/9": ["188"]
+  }],
+  "demographics:female-population-2011": ["1231"],
+  "global:numberOfViolencesAgainstThePerson": [{
+    "year:2006/7": ["54"],
+    "year:2011/12": ["30"],
+    "year:2005/6": ["44"],
+    "year:2007/8": ["48"],
+    "year:2009/10": ["53"],
+    "year:2013/14": ["24"],
+    "year:2012/13": ["21"],
+    "year:2010/11": ["56"],
+    "year:2008/9": ["41"]
+  }],
+  "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/linked-data/cube#Observation"],
+  "imd:imd-2010": ["17.8"],
+  "global:populationProjection": [{
+    "year:2012": ["2400"],
+    "year:2013": ["2400"],
+    "year:2014": ["2400"],
+    "year:2015": ["2400"],
+    "year:2016": ["2400"],
+    "year:2017": ["2400"],
+    "year:2018": ["2400"],
+    "year:2011": ["2450"],
+    "year:2019": ["2400"],
+    "year:2020": ["2400"],
+    "year:2021": ["2400"]
+  }],
+  "global:photoLocatedIn": [
+    {
+      "global:isRelatedTo": [
+        "woolstone",
+        "eye",
+        "horse",
+        "milton keynes"
+      ],
+      "geo:lat": ["52.03532"],
+      "dc:creator": [{
+        "global:name": ["Steven Green"],
+        "dc:identifier": ["65015502@N07"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "global:thumbnail": ["https://farm1.static.flickr.com/691/21440892536_0343a77eca_t.jpg"],
+      "dc:description": ["Horse, Woolstone, Milton Keynes"],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.727286"],
+      "social:url": ["https://www.flickr.com/photos/65015502@N07/21440892536/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/springfield"],
+      "social:views": [
+        "28",
+        "35",
+        "10",
+        "17",
+        "40"
+      ],
+      "dc:date": ["Tue Sep 08 13:08:34 BST 2015"],
+      "dc:identifier": ["21440892536"],
+      "dc:title": ["Horse, Woolstone, Milton Keynes"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:isRelatedTo": [
+        "nest",
+        "wasp",
+        "insect",
+        "allotment"
+      ],
+      "social:url": ["https://www.flickr.com/photos/-jer-/18090948176/"],
+      "geo:long": ["-0.725909"],
+      "geo:lat": ["52.04087"],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["16564057@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/springfield"],
+      "social:views": [
+        "6",
+        "5",
+        "7",
+        "8",
+        "3",
+        "4",
+        "1"
+      ],
+      "dc:date": ["Tue May 26 09:34:27 BST 2015"],
+      "dc:identifier": ["18090948176"],
+      "global:thumbnail": ["https://farm9.static.flickr.com/8771/18090948176_9e7cb508d3_t.jpg"],
+      "dc:title": ["P1070408"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/smcgill1969/15775749175/"],
+      "geo:long": ["-0.735"],
+      "geo:lat": ["52.044"],
+      "dc:creator": [{
+        "global:name": ["Simon McGill"],
+        "dc:identifier": ["68968740@N07"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/springfield"],
+      "social:views": ["11"],
+      "dc:date": ["Sun Feb 13 19:53:22 GMT 2011"],
+      "dc:identifier": ["15775749175"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7521/15775749175_f645682a80_t.jpg"],
+      "dc:title": ["20110213_195322"]
+    },
+    {
+      "global:isRelatedTo": [
+        "narrow boat",
+        "barge",
+        "canal",
+        "boat",
+        "milton keynes",
+        "grand union canal",
+        "woolstoe",
+        "water"
+      ],
+      "geo:lat": ["52.03231"],
+      "dc:creator": [{
+        "global:name": ["Steven Green"],
+        "dc:identifier": ["65015502@N07"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5760/21278800088_9478593a6c_t.jpg"],
+      "dc:description": ["Narrow Boat on Grand Union Canal, Woolstone, Milton Keynes"],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.731395"],
+      "social:url": ["https://www.flickr.com/photos/65015502@N07/21278800088/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/springfield"],
+      "social:views": [
+        "23",
+        "46",
+        "53",
+        "57",
+        "33"
+      ],
+      "dc:date": ["Tue Sep 08 13:15:00 BST 2015"],
+      "dc:identifier": ["21278800088"],
+      "dc:title": ["Narrow Boat on Grand Union Canal, Woolstone, Milton Keynes"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/-jer-/17219965022/"],
+      "geo:long": ["-0.72637"],
+      "geo:lat": ["52.03747"],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["16564057@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/springfield"],
+      "social:views": [
+        "0",
+        "5",
+        "3"
+      ],
+      "dc:date": ["Sat Apr 18 17:07:23 BST 2015"],
+      "dc:identifier": ["17219965022"],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5348/17219965022_7653b2eab5_t.jpg"],
+      "dc:title": ["P1070363"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:isRelatedTo": ["photo stream"],
+      "social:url": ["https://www.flickr.com/photos/johnweed/15485209415/"],
+      "geo:long": ["-0.731513"],
+      "geo:lat": ["52.039513"],
+      "dc:creator": [{
+        "global:name": ["John Weed"],
+        "dc:identifier": ["42801288@N05"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/springfield"],
+      "social:views": ["20"],
+      "dc:date": ["Sun Jul 06 14:52:42 BST 2014"],
+      "dc:identifier": ["15485209415"],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5603/15485209415_658ba0ed2a_t.jpg"],
+      "dc:title": [""]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/97261695@N07/17167204450/"],
+      "geo:long": ["-0.731289"],
+      "geo:lat": ["52.035114"],
+      "dc:creator": [{
+        "global:name": ["Kazzy Ricci"],
+        "dc:identifier": ["97261695@N07"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/springfield"],
+      "social:views": [
+        "308",
+        "143",
+        "283",
+        "250"
+      ],
+      "dc:date": ["Sun May 03 15:30:21 BST 2015"],
+      "dc:identifier": ["17167204450"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7662/17167204450_4db8491725_t.jpg"],
+      "dc:title": ["The obligatory kitchen hug"]
+    },
+    {
+      "global:isRelatedTo": [
+        "woolstone",
+        "eye",
+        "horse",
+        "milton keynes"
+      ],
+      "geo:lat": ["52.03532"],
+      "dc:creator": [{
+        "global:name": ["Steven Green"],
+        "dc:identifier": ["65015502@N07"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "global:thumbnail": ["https://farm1.static.flickr.com/691/21440892536_0343a77eca_t.jpg"],
+      "dc:description": ["Horse, Woolstone, Milton Keynes"],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.727286"],
+      "social:url": ["https://www.flickr.com/photos/65015502@N07/21440892536/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/springfield"],
+      "social:views": [
+        "28",
+        "35",
+        "48",
+        "10",
+        "17",
+        "40",
+        "60",
+        "54"
+      ],
+      "dc:date": ["Tue Sep 08 13:08:34 BST 2015"],
+      "dc:identifier": ["21440892536"],
+      "dc:title": ["Horse, Woolstone, Milton Keynes"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/smcgill1969/15589945320/"],
+      "geo:long": ["-0.743"],
+      "geo:lat": ["52.040665"],
+      "dc:creator": [{
+        "global:name": ["Simon McGill"],
+        "dc:identifier": ["68968740@N07"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/springfield"],
+      "social:views": ["12"],
+      "dc:date": ["Fri Feb 24 07:31:42 GMT 2012"],
+      "dc:identifier": ["15589945320"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7486/15589945320_fe5a1e09ea_t.jpg"],
+      "dc:title": ["20120224_073142"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/smcgill1969/15155356943/"],
+      "geo:long": ["-0.742834"],
+      "geo:lat": ["52.040165"],
+      "dc:creator": [{
+        "global:name": ["Simon McGill"],
+        "dc:identifier": ["68968740@N07"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/springfield"],
+      "social:views": ["12"],
+      "dc:date": ["Tue Mar 27 09:10:35 BST 2012"],
+      "dc:identifier": ["15155356943"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7480/15155356943_002060c9a0_t.jpg"],
+      "dc:title": ["20120327_091035"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:isRelatedTo": [
+        "b&w",
+        "lca",
+        "35mm",
+        "film",
+        "canal",
+        "analogue",
+        "analog",
+        "believeinfilm"
+      ],
+      "social:url": ["https://www.flickr.com/photos/johnweed/15537994781/"],
+      "geo:long": ["-0.730397"],
+      "geo:lat": ["52.0345"],
+      "dc:creator": [{
+        "global:name": ["John Weed"],
+        "dc:identifier": ["42801288@N05"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/springfield"],
+      "social:views": ["25"],
+      "dc:date": ["Sun Aug 03 15:12:23 BST 2014"],
+      "dc:identifier": ["15537994781"],
+      "global:thumbnail": ["https://farm4.static.flickr.com/3936/15537994781_53c0837606_t.jpg"],
+      "dc:title": ["LC-A+ RL Roll 57-31"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/97261695@N07/16182771374/"],
+      "geo:long": ["-0.731289"],
+      "geo:lat": ["52.035114"],
+      "dc:creator": [{
+        "global:name": ["Kazzy Ricci"],
+        "dc:identifier": ["97261695@N07"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/springfield"],
+      "social:views": [
+        "421",
+        "440",
+        "451",
+        "426",
+        "407"
+      ],
+      "dc:date": ["Sat Feb 21 22:51:35 GMT 2015"],
+      "dc:identifier": ["16182771374"],
+      "dc:description": ["I wish I was there tonight "],
+      "global:thumbnail": ["https://farm9.static.flickr.com/8676/16182771374_f16f423214_t.jpg"],
+      "dc:title": ["You will always find me in the kitchen at Sarah's"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:isRelatedTo": [
+        "flower",
+        "flour",
+        "mill"
+      ],
+      "social:url": ["https://www.flickr.com/photos/-jer-/17507864883/"],
+      "geo:long": ["-0.724889"],
+      "geo:lat": ["52.040833"],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["16564057@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/springfield"],
+      "social:views": ["1"],
+      "dc:date": ["Tue May 26 13:34:57 BST 2015"],
+      "dc:identifier": ["17507864883"],
+      "global:thumbnail": ["https://farm9.static.flickr.com/8818/17507864883_5b5f363099_t.jpg"],
+      "dc:title": ["Jordan's Mill"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/smcgill1969/15751081906/"],
+      "geo:long": ["-0.742667"],
+      "geo:lat": ["52.040165"],
+      "dc:creator": [{
+        "global:name": ["Simon McGill"],
+        "dc:identifier": ["68968740@N07"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/springfield"],
+      "social:views": ["12"],
+      "dc:date": ["Tue Mar 27 09:10:53 BST 2012"],
+      "dc:identifier": ["15751081906"],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5607/15751081906_f3822a7ab2_t.jpg"],
+      "dc:title": ["20120327_091053"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/smcgill1969/15589055587/"],
+      "geo:long": ["-0.742778"],
+      "geo:lat": ["52.040543"],
+      "dc:creator": [{
+        "global:name": ["Simon McGill"],
+        "dc:identifier": ["68968740@N07"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/springfield"],
+      "social:views": ["19"],
+      "dc:date": ["Mon Sep 03 18:49:13 BST 2012"],
+      "dc:identifier": ["15589055587"],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5609/15589055587_4ecd0ea893_t.jpg"],
+      "dc:title": ["20120903_184913"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:isRelatedTo": [
+        "nest",
+        "wasp",
+        "insect",
+        "allotment"
+      ],
+      "social:url": ["https://www.flickr.com/photos/-jer-/17931208579/"],
+      "geo:long": ["-0.724328"],
+      "geo:lat": ["52.040707"],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["16564057@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/springfield"],
+      "social:views": [
+        "6",
+        "12",
+        "5",
+        "7",
+        "3",
+        "14",
+        "4",
+        "1",
+        "15"
+      ],
+      "dc:date": ["Tue May 26 10:00:09 BST 2015"],
+      "dc:identifier": ["17931208579"],
+      "global:thumbnail": ["https://farm9.static.flickr.com/8847/17931208579_9a851be095_t.jpg"],
+      "dc:title": ["P1070425"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/smcgill1969/15589381958/"],
+      "geo:long": ["-0.743834"],
+      "geo:lat": ["52.041164"],
+      "dc:creator": [{
+        "global:name": ["Simon McGill"],
+        "dc:identifier": ["68968740@N07"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/springfield"],
+      "social:views": ["12"],
+      "dc:date": ["Sat Jun 02 11:41:30 BST 2012"],
+      "dc:identifier": ["15589381958"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7498/15589381958_6656d04769_t.jpg"],
+      "dc:title": ["20120602_114130"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/smcgill1969/15156322783/"],
+      "geo:long": ["-0.735"],
+      "geo:lat": ["52.044"],
+      "dc:creator": [{
+        "global:name": ["Simon McGill"],
+        "dc:identifier": ["68968740@N07"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/springfield"],
+      "social:views": ["15"],
+      "dc:date": ["Sun Feb 13 20:29:42 GMT 2011"],
+      "dc:identifier": ["15156322783"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7482/15156322783_7a1a978f29_t.jpg"],
+      "dc:title": ["20110213_202942"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:isRelatedTo": [
+        "nest",
+        "wasp",
+        "insect",
+        "allotment"
+      ],
+      "social:url": ["https://www.flickr.com/photos/-jer-/17929511078/"],
+      "geo:long": ["-0.725909"],
+      "geo:lat": ["52.04087"],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["16564057@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/springfield"],
+      "social:views": [
+        "6",
+        "5",
+        "3",
+        "4",
+        "2",
+        "1"
+      ],
+      "dc:date": ["Tue May 26 09:34:47 BST 2015"],
+      "dc:identifier": ["17929511078"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7796/17929511078_764e429123_t.jpg"],
+      "dc:title": ["P1070410"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/smcgill1969/15775745585/"],
+      "geo:long": ["-0.737"],
+      "geo:lat": ["52.042"],
+      "dc:creator": [{
+        "global:name": ["Simon McGill"],
+        "dc:identifier": ["68968740@N07"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/springfield"],
+      "social:views": ["13"],
+      "dc:date": ["Tue Feb 08 21:27:42 GMT 2011"],
+      "dc:identifier": ["15775745585"],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5608/15775745585_2ebfd875b6_t.jpg"],
+      "dc:title": ["20110208_212742"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:isRelatedTo": [
+        "flower",
+        "flour",
+        "mill"
+      ],
+      "social:url": ["https://www.flickr.com/photos/-jer-/17940526198/"],
+      "geo:long": ["-0.724889"],
+      "geo:lat": ["52.040833"],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["16564057@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/springfield"],
+      "social:views": ["1"],
+      "dc:date": ["Tue May 26 13:34:43 BST 2015"],
+      "dc:identifier": ["17940526198"],
+      "global:thumbnail": ["https://farm9.static.flickr.com/8883/17940526198_2204655d50_t.jpg"],
+      "dc:title": ["Jordan's Mill"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:isRelatedTo": [
+        "nest",
+        "wasp",
+        "insect",
+        "allotment"
+      ],
+      "social:url": ["https://www.flickr.com/photos/-jer-/17496866383/"],
+      "geo:long": ["-0.725909"],
+      "geo:lat": ["52.04087"],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["16564057@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/springfield"],
+      "social:views": [
+        "12",
+        "5",
+        "9",
+        "7",
+        "10",
+        "3",
+        "13",
+        "14",
+        "1",
+        "15"
+      ],
+      "dc:date": ["Tue May 26 09:39:22 BST 2015"],
+      "dc:identifier": ["17496866383"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7781/17496866383_b140f7d96f_t.jpg"],
+      "dc:title": ["P1070412"]
+    },
+    {
+      "global:isRelatedTo": [
+        "icm",
+        "abstract",
+        "blur",
+        "blurred",
+        "lines",
+        "green",
+        "trees",
+        "path"
+      ],
+      "geo:lat": ["52.033314"],
+      "dc:creator": [{
+        "global:name": ["Steven Green"],
+        "dc:identifier": ["65015502@N07"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5781/21222476476_21d37dc193_t.jpg"],
+      "dc:description": ["Abstract taken along the canal path in Woolstone, Milton Keynes. Swept camera downward as I took the shot."],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.730547"],
+      "social:url": ["https://www.flickr.com/photos/65015502@N07/21222476476/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/springfield"],
+      "social:views": [
+        "23",
+        "46",
+        "81",
+        "93",
+        "11",
+        "100",
+        "102",
+        "65",
+        "116",
+        "32",
+        "109",
+        "29",
+        "111",
+        "110"
+      ],
+      "dc:date": ["Tue Sep 08 12:59:34 BST 2015"],
+      "dc:identifier": ["21222476476"],
+      "dc:title": ["A walk in the park"]
+    },
+    {
+      "global:isRelatedTo": [
+        "narrow boat",
+        "barge",
+        "canal",
+        "boat",
+        "milton keynes",
+        "grand union canal",
+        "woolstoe",
+        "water"
+      ],
+      "geo:lat": ["52.03231"],
+      "dc:creator": [{
+        "global:name": ["Steven Green"],
+        "dc:identifier": ["65015502@N07"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5760/21278800088_9478593a6c_t.jpg"],
+      "dc:description": ["Narrow Boat on Grand Union Canal, Woolstone, Milton Keynes"],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.731395"],
+      "social:url": ["https://www.flickr.com/photos/65015502@N07/21278800088/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/springfield"],
+      "social:views": [
+        "23",
+        "46",
+        "53",
+        "72",
+        "57",
+        "33",
+        "65",
+        "69"
+      ],
+      "dc:date": ["Tue Sep 08 13:15:00 BST 2015"],
+      "dc:identifier": ["21278800088"],
+      "dc:title": ["Narrow Boat on Grand Union Canal, Woolstone, Milton Keynes"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/smcgill1969/15589406350/"],
+      "geo:long": ["-0.742806"],
+      "geo:lat": ["52.040344"],
+      "dc:creator": [{
+        "global:name": ["Simon McGill"],
+        "dc:identifier": ["68968740@N07"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/springfield"],
+      "social:views": ["15"],
+      "dc:date": ["Mon Sep 03 18:51:05 BST 2012"],
+      "dc:identifier": ["15589406350"],
+      "global:thumbnail": ["https://farm9.static.flickr.com/8265/15589406350_3d188b5022_t.jpg"],
+      "dc:title": ["20120903_185105"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/103635546@N05/15245203026/"],
+      "geo:long": ["-0.731631"],
+      "geo:lat": ["52.03938"],
+      "dc:creator": [{
+        "global:name": ["Paul Brunt"],
+        "dc:identifier": ["103635546@N05"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/springfield"],
+      "social:views": ["24"],
+      "dc:date": ["Thu Sep 04 14:43:46 BST 2014"],
+      "dc:identifier": ["15245203026"],
+      "dc:description": ["Grand Union Canal, Milton Keynes"],
+      "global:thumbnail": ["https://farm4.static.flickr.com/3854/15245203026_5f6761c3cd_t.jpg"],
+      "dc:title": ["Heron preening"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:isRelatedTo": [
+        "nest",
+        "wasp",
+        "insect",
+        "allotment"
+      ],
+      "social:url": ["https://www.flickr.com/photos/-jer-/17494817684/"],
+      "geo:long": ["-0.725909"],
+      "geo:lat": ["52.04087"],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["16564057@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/springfield"],
+      "social:views": [
+        "6",
+        "5",
+        "3",
+        "4",
+        "2",
+        "1"
+      ],
+      "dc:date": ["Tue May 26 09:34:43 BST 2015"],
+      "dc:identifier": ["17494817684"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7695/17494817684_f7f14bc61d_t.jpg"],
+      "dc:title": ["P1070409"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/smcgill1969/15774697155/"],
+      "geo:long": ["-0.7435"],
+      "geo:lat": ["52.0425"],
+      "dc:creator": [{
+        "global:name": ["Simon McGill"],
+        "dc:identifier": ["68968740@N07"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/springfield"],
+      "social:views": ["11"],
+      "dc:date": ["Tue Dec 06 11:46:13 GMT 2011"],
+      "dc:identifier": ["15774697155"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7484/15774697155_fe34064cc4_t.jpg"],
+      "dc:title": ["20111206_114613"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/smcgill1969/15154603953/"],
+      "geo:long": ["-0.742667"],
+      "geo:lat": ["52.04"],
+      "dc:creator": [{
+        "global:name": ["Simon McGill"],
+        "dc:identifier": ["68968740@N07"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/springfield"],
+      "social:views": ["12"],
+      "dc:date": ["Thu Mar 15 09:28:33 GMT 2012"],
+      "dc:identifier": ["15154603953"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7564/15154603953_1fb28e3fcb_t.jpg"],
+      "dc:title": ["20120315_092833"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/-jer-/17219964262/"],
+      "geo:long": ["-0.72637"],
+      "geo:lat": ["52.03747"],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["16564057@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/springfield"],
+      "social:views": [
+        "0",
+        "5",
+        "3"
+      ],
+      "dc:date": ["Sat Apr 18 17:09:58 BST 2015"],
+      "dc:identifier": ["17219964262"],
+      "global:thumbnail": ["https://farm9.static.flickr.com/8792/17219964262_0bd043aca5_t.jpg"],
+      "dc:title": ["P1070372"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/smcgill1969/15751158416/"],
+      "geo:long": ["-0.744834"],
+      "geo:lat": ["52.042667"],
+      "dc:creator": [{
+        "global:name": ["Simon McGill"],
+        "dc:identifier": ["68968740@N07"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/springfield"],
+      "social:views": ["13"],
+      "dc:date": ["Sun Oct 07 18:27:11 BST 2012"],
+      "dc:identifier": ["15751158416"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7467/15751158416_58718441bf_t.jpg"],
+      "dc:title": ["20121007_182711"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/smcgill1969/15588505769/"],
+      "geo:long": ["-0.744834"],
+      "geo:lat": ["52.04233"],
+      "dc:creator": [{
+        "global:name": ["Simon McGill"],
+        "dc:identifier": ["68968740@N07"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/springfield"],
+      "social:views": ["9"],
+      "dc:date": ["Sun Jan 22 12:13:29 GMT 2012"],
+      "dc:identifier": ["15588505769"],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5607/15588505769_ed91afae22_t.jpg"],
+      "dc:title": ["20120122_121329"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/smcgill1969/15776350832/"],
+      "geo:long": ["-0.743334"],
+      "geo:lat": ["52.040665"],
+      "dc:creator": [{
+        "global:name": ["Simon McGill"],
+        "dc:identifier": ["68968740@N07"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/springfield"],
+      "social:views": ["14"],
+      "dc:date": ["Sat Apr 14 16:10:15 BST 2012"],
+      "dc:identifier": ["15776350832"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7494/15776350832_64327a3593_t.jpg"],
+      "dc:title": ["20120414_161015"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/97261695@N07/16020450234/"],
+      "geo:long": ["-0.731289"],
+      "geo:lat": ["52.035114"],
+      "dc:creator": [{
+        "global:name": ["Kazzy Ricci"],
+        "dc:identifier": ["97261695@N07"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/springfield"],
+      "social:views": ["663"],
+      "dc:date": ["Sat Feb 21 22:51:43 GMT 2015"],
+      "dc:identifier": ["16020450234"],
+      "dc:description": ["First time since early November"],
+      "global:thumbnail": ["https://farm9.static.flickr.com/8594/16020450234_262cc6a507_t.jpg"],
+      "dc:title": ["At Sarah's before a night out at Pinks"]
+    }
+  ],
+  "global:numberOfBurglaries": [{
+    "year:2006/7": ["32"],
+    "year:2011/12": ["22"],
+    "year:2005/6": ["11"],
+    "year:2007/8": ["21"],
+    "year:2009/10": ["16"],
+    "year:2013/14": ["7"],
+    "year:2012/13": ["7"],
+    "year:2010/11": ["35"],
+    "year:2008/9": ["24"]
+  }],
+  "global:ethnicity": [{
+    "global:white:_gypsy_or_irish_traveller": ["0"],
+    "global:white:_irish": ["21"],
+    "global:black_and_minority_ethnic_group:_total": ["993"],
+    "global:multiple_ethnic_group:_other_mixed": ["13"],
+    "global:multiple_ethnic_group:_white_and_black_african": ["27"],
+    "global:multiple_ethnic_group:_white_and_asian": ["13"],
+    "global:other_ethnic_group:_arab": ["7"],
+    "global:asian_british:_chinese": ["12"],
+    "global:asian_british:_other_asian": ["199"],
+    "global:black_british:_caribbean": ["42"],
+    "global:all_usual_residents": ["2408"],
+    "global:asian_british:_bangladeshi": ["3"],
+    "global:asian_british:_pakistani": ["83"],
+    "global:asian_british:_indian": ["125"],
+    "global:multiple_ethnic_group:_white_and_black_caribbean": ["33"],
+    "global:black_british:_other_black": ["23"],
+    "global:british": ["1414"],
+    "global:other_ethnic_group:_any_other_ethnic_group": ["15"],
+    "global:white:_other_white": ["184"],
+    "global:black_british:_african": ["193"]
+  }],
+  "global:tenure": [
+    {"year:2005": [{
+      "global:total_stock": ["962"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["192"],
+      "global:rsl_shared_ownership": ["4"],
+      "global:mkc_shared_ownership": ["3"],
+      "global:owner_occupied_and_private_rented": ["720"],
+      "global:rsl_rented": ["43"]
+    }]},
+    {"year:2009": [{
+      "global:total_stock": ["962"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["190"],
+      "global:rsl_shared_ownership": ["4"],
+      "global:mkc_shared_ownership": ["3"],
+      "global:owner_occupied_and_private_rented": ["722"],
+      "global:rsl_rented": ["43"]
+    }]},
+    {"year:2007": [{
+      "global:total_stock": ["962"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["191"],
+      "global:rsl_shared_ownership": ["4"],
+      "global:mkc_shared_ownership": ["3"],
+      "global:owner_occupied_and_private_rented": ["721"],
+      "global:rsl_rented": ["43"]
+    }]},
+    {"year:2006": [{
+      "global:total_stock": ["962"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["191"],
+      "global:rsl_shared_ownership": ["4"],
+      "global:mkc_shared_ownership": ["3"],
+      "global:owner_occupied_and_private_rented": ["721"],
+      "global:rsl_rented": ["43"]
+    }]},
+    {"year:2012": [{
+      "global:total_stock": ["962"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["190"],
+      "global:rsl_shared_ownership": ["4"],
+      "global:mkc_shared_ownership": ["3"],
+      "global:owner_occupied_and_private_rented": ["722"],
+      "global:rsl_rented": ["43"]
+    }]},
+    {"year:2008": [{
+      "global:total_stock": ["962"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["190"],
+      "global:rsl_shared_ownership": ["4"],
+      "global:mkc_shared_ownership": ["3"],
+      "global:owner_occupied_and_private_rented": ["722"],
+      "global:rsl_rented": ["43"]
+    }]},
+    {"year:2010": [{
+      "global:total_stock": ["962"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["190"],
+      "global:rsl_shared_ownership": ["4"],
+      "global:mkc_shared_ownership": ["3"],
+      "global:owner_occupied_and_private_rented": ["722"],
+      "global:rsl_rented": ["43"]
+    }]},
+    {"year:2011": [{
+      "global:total_stock": ["962"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["190"],
+      "global:rsl_shared_ownership": ["4"],
+      "global:mkc_shared_ownership": ["3"],
+      "global:owner_occupied_and_private_rented": ["722"],
+      "global:rsl_rented": ["43"]
+    }]},
+    {"year:2014": [{
+      "global:total_stock": ["962"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["188"],
+      "global:rsl_shared_ownership": ["4"],
+      "global:mkc_shared_ownership": ["3"],
+      "global:owner_occupied_and_private_rented": ["724"],
+      "global:rsl_rented": ["43"]
+    }]},
+    {"year:2004": [{
+      "global:total_stock": ["962"],
+      "global:rsl_reduced_cost_sale": ["4"],
+      "global:mkc_rented": ["194"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["3"],
+      "global:owner_occupied_and_private_rented": ["718"],
+      "global:rsl_rented": ["43"]
+    }]},
+    {"year:2013": [{
+      "global:total_stock": ["962"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["189"],
+      "global:rsl_shared_ownership": ["4"],
+      "global:mkc_shared_ownership": ["3"],
+      "global:owner_occupied_and_private_rented": ["723"],
+      "global:rsl_rented": ["43"]
+    }]}
+  ],
+  "imd:imd-2004": ["17.4"],
+  "global:numberOfArsonFires": [{
+    "year:2003/4": ["21"],
+    "year:2001/2": ["23"],
+    "year:2006/7": ["4"],
+    "year:2011/12": ["3"],
+    "year:2005/6": ["13"],
+    "year:2002/3": ["18"],
+    "year:2007/8": ["9"],
+    "year:2009/10": ["3"],
+    "year:2004/5": ["17"],
+    "year:2012/13": ["2"],
+    "year:2010/11": ["3"],
+    "year:2008/9": ["1"]
+  }],
+  "demographics:population-2011": ["2408"],
+  "imd:imd-2007": ["20.1"]
+}

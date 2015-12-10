@@ -1,0 +1,269 @@
+{
+  "demographics:male-population-2011": ["4"],
+  "global:numberOfCriminalDamages": [{
+    "year:2006/7": ["5"],
+    "year:2011/12": ["4"],
+    "year:2005/6": ["3"],
+    "year:2007/8": ["15"],
+    "year:2009/10": ["4"],
+    "year:2013/14": ["7"],
+    "year:2012/13": ["4"],
+    "year:2010/11": ["2"],
+    "year:2008/9": ["7"]
+  }],
+  "global:numberOfRobberies": [{
+    "year:2006/7": ["0"],
+    "year:2011/12": ["0"],
+    "year:2005/6": ["0"],
+    "year:2007/8": ["0"],
+    "year:2009/10": ["0"],
+    "year:2013/14": ["0"],
+    "year:2012/13": ["0"],
+    "year:2010/11": ["1"],
+    "year:2008/9": ["0"]
+  }],
+  "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/linked-data/cube#Observation"],
+  "global:nbCrimes": [{
+    "year:2006/7": ["133"],
+    "year:2011/12": ["55"],
+    "year:2005/6": ["108"],
+    "year:2007/8": ["134"],
+    "year:2009/10": ["183"],
+    "year:2013/14": ["63"],
+    "year:2012/13": ["53"],
+    "year:2010/11": ["121"],
+    "year:2008/9": ["110"]
+  }],
+  "demographics:female-population-2011": ["4"],
+  "global:numberOfViolencesAgainstThePerson": [{
+    "year:2006/7": ["2"],
+    "year:2011/12": ["4"],
+    "year:2005/6": ["7"],
+    "year:2007/8": ["2"],
+    "year:2009/10": ["3"],
+    "year:2013/14": ["2"],
+    "year:2012/13": ["1"],
+    "year:2010/11": ["2"],
+    "year:2008/9": ["5"]
+  }],
+  "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/linked-data/cube#Observation"],
+  "global:photoLocatedIn": [
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/fluffydragon/15399674506/"],
+      "geo:long": ["-0.791928"],
+      "geo:lat": ["52.046257"],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["96552023@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/bradwell_abbey"],
+      "social:views": ["128"],
+      "dc:date": ["Thu Oct 02 17:59:41 BST 2014"],
+      "dc:identifier": ["15399674506"],
+      "global:thumbnail": ["https://farm3.static.flickr.com/2950/15399674506_a546925283_t.jpg"],
+      "dc:title": [""]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/fluffydragon/15236138988/"],
+      "geo:long": ["-0.791928"],
+      "geo:lat": ["52.046257"],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["96552023@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/bradwell_abbey"],
+      "social:views": ["122"],
+      "dc:date": ["Thu Oct 02 18:00:41 BST 2014"],
+      "dc:identifier": ["15236138988"],
+      "global:thumbnail": ["https://farm4.static.flickr.com/3927/15236138988_4ae9d7a743_t.jpg"],
+      "dc:title": [""]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/fluffydragon/15236088290/"],
+      "geo:long": ["-0.79732"],
+      "geo:lat": ["52.04673"],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["96552023@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/bradwell_abbey"],
+      "social:views": ["135"],
+      "dc:date": ["Thu Oct 02 18:07:38 BST 2014"],
+      "dc:identifier": ["15236088290"],
+      "global:thumbnail": ["https://farm4.static.flickr.com/3927/15236088290_64a4162015_t.jpg"],
+      "dc:title": ["Sunset"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/fluffydragon/15467786221/"],
+      "geo:long": ["-0.793237"],
+      "geo:lat": ["52.047558"],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["96552023@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/bradwell_abbey"],
+      "social:views": ["66"],
+      "dc:date": ["Tue Oct 07 16:29:18 BST 2014"],
+      "dc:identifier": ["15467786221"],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5612/15467786221_46a3b95986_t.jpg"],
+      "dc:title": ["Inside a tunnel"]
+    }
+  ],
+  "global:ethnicity": [{
+    "global:white:_gypsy_or_irish_traveller": ["0"],
+    "global:white:_irish": ["0"],
+    "global:black_and_minority_ethnic_group:_total": ["1"],
+    "global:multiple_ethnic_group:_other_mixed": ["0"],
+    "global:multiple_ethnic_group:_white_and_black_african": ["0"],
+    "global:multiple_ethnic_group:_white_and_asian": ["0"],
+    "global:other_ethnic_group:_arab": ["0"],
+    "global:asian_british:_chinese": ["0"],
+    "global:asian_british:_other_asian": ["0"],
+    "global:black_british:_caribbean": ["0"],
+    "global:all_usual_residents": ["9"],
+    "global:asian_british:_bangladeshi": ["0"],
+    "global:asian_british:_pakistani": ["0"],
+    "global:asian_british:_indian": ["0"],
+    "global:multiple_ethnic_group:_white_and_black_caribbean": ["0"],
+    "global:black_british:_other_black": ["0"],
+    "global:british": ["6"],
+    "global:other_ethnic_group:_any_other_ethnic_group": ["0"],
+    "global:white:_other_white": ["0"],
+    "global:black_british:_african": ["1"]
+  }],
+  "global:numberOfBurglaries": [{
+    "year:2006/7": ["0"],
+    "year:2011/12": ["0"],
+    "year:2005/6": ["0"],
+    "year:2007/8": ["0"],
+    "year:2009/10": ["0"],
+    "year:2013/14": ["0"],
+    "year:2012/13": ["0"],
+    "year:2010/11": ["0"],
+    "year:2008/9": ["0"]
+  }],
+  "global:tenure": [
+    {"year:2008": [{
+      "global:total_stock": ["2"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["2"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2014": [{
+      "global:total_stock": ["2"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["2"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2006": [{
+      "global:total_stock": ["2"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["2"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2004": [{
+      "global:total_stock": ["2"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["2"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2012": [{
+      "global:total_stock": ["2"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["2"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2010": [{
+      "global:total_stock": ["2"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["2"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2007": [{
+      "global:total_stock": ["2"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["2"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2009": [{
+      "global:total_stock": ["2"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["2"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2005": [{
+      "global:total_stock": ["2"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["2"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2011": [{
+      "global:total_stock": ["2"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["2"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2013": [{
+      "global:total_stock": ["2"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["2"],
+      "global:rsl_rented": ["0"]
+    }]}
+  ],
+  "global:numberOfArsonFires": [{
+    "year:2003/4": ["4"],
+    "year:2001/2": ["7"],
+    "year:2006/7": ["3"],
+    "year:2011/12": ["0"],
+    "year:2005/6": ["3"],
+    "year:2002/3": ["7"],
+    "year:2007/8": ["12"],
+    "year:2009/10": ["5"],
+    "year:2004/5": ["1"],
+    "year:2012/13": ["1"],
+    "year:2010/11": ["4"],
+    "year:2008/9": ["2"]
+  }],
+  "demographics:population-2011": ["9"]
+}

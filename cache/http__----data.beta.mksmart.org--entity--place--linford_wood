@@ -1,0 +1,546 @@
+{
+  "global:numberOfCriminalDamages": [{
+    "year:2006/7": ["10"],
+    "year:2011/12": ["4"],
+    "year:2005/6": ["10"],
+    "year:2007/8": ["19"],
+    "year:2009/10": ["9"],
+    "year:2013/14": ["1"],
+    "year:2012/13": ["8"],
+    "year:2010/11": ["3"],
+    "year:2008/9": ["9"]
+  }],
+  "global:photoLocatedIn": [
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/smcgill1969/15153861653/"],
+      "geo:long": ["-0.768734"],
+      "dc:creator": [{
+        "global:name": ["Simon McGill"],
+        "dc:identifier": ["68968740@N07"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.053444"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/linford_wood"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:views": ["12"],
+      "dc:date": ["Sat Jul 12 20:41:19 BST 2014"],
+      "dc:identifier": ["15153861653"],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5614/15153861653_d65d83c08c_t.jpg"],
+      "dc:title": ["20140712_204119"]
+    },
+    {
+      "global:isRelatedTo": ["linford wood"],
+      "dc:creator": [{
+        "global:name": ["Mark"],
+        "dc:identifier": ["48214987@N06"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.055656"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5594/15098443932_22d8f4f307_t.jpg"],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.765051"],
+      "social:url": ["https://www.flickr.com/photos/costermk/15098443932/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/linford_wood"],
+      "social:views": ["158"],
+      "dc:date": ["Sat Aug 30 10:45:51 BST 2014"],
+      "dc:identifier": ["15098443932"],
+      "dc:title": ["Took a walk though Linford Wood with the sole purpose of finding the Rupert the bear sculpture. Needless to see we found it and loads more beside. Excellent walk well sign posted, but a must before the weather gets bad."]
+    },
+    {
+      "global:isRelatedTo": ["linford wood"],
+      "dc:creator": [{
+        "global:name": ["Mark"],
+        "dc:identifier": ["48214987@N06"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.055656"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5566/15075825866_93a7c18996_t.jpg"],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.765051"],
+      "social:url": ["https://www.flickr.com/photos/costermk/15075825866/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/linford_wood"],
+      "social:views": ["246"],
+      "dc:date": ["Sat Aug 30 10:21:40 BST 2014"],
+      "dc:identifier": ["15075825866"],
+      "dc:title": ["Took a walk though Linford Wood with the sole purpose of finding the Rupert the bear sculpture. Needless to see we found it and loads more beside. Excellent walk well sign posted, but a must before the weather gets bad."]
+    },
+    {
+      "global:isRelatedTo": ["linford wood"],
+      "dc:creator": [{
+        "global:name": ["Mark"],
+        "dc:identifier": ["48214987@N06"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.055656"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:thumbnail": ["https://farm4.static.flickr.com/3897/14912257668_38ebdf1cd2_t.jpg"],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.765051"],
+      "social:url": ["https://www.flickr.com/photos/costermk/14912257668/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/linford_wood"],
+      "social:views": ["313"],
+      "dc:date": ["Sat Aug 30 10:29:22 BST 2014"],
+      "dc:identifier": ["14912257668"],
+      "dc:title": ["Took a walk though Linford Wood with the sole purpose of finding the Rupert the bear sculpture. Needless to see we found it and loads more beside. Excellent walk well sign posted, but a must before the weather gets bad."]
+    },
+    {
+      "global:isRelatedTo": ["linford wood"],
+      "dc:creator": [{
+        "global:name": ["Mark"],
+        "dc:identifier": ["48214987@N06"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.055656"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:thumbnail": ["https://farm4.static.flickr.com/3925/14912112469_7cf9d91504_t.jpg"],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.765051"],
+      "social:url": ["https://www.flickr.com/photos/costermk/14912112469/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/linford_wood"],
+      "social:views": ["151"],
+      "dc:date": ["Sat Aug 30 10:39:43 BST 2014"],
+      "dc:identifier": ["14912112469"],
+      "dc:title": ["Took a walk though Linford Wood with the sole purpose of finding the Rupert the bear sculpture. Needless to see we found it and loads more beside. Excellent walk well sign posted, but a must before the weather gets bad."]
+    },
+    {
+      "global:isRelatedTo": ["linford wood"],
+      "dc:creator": [{
+        "global:name": ["Mark"],
+        "dc:identifier": ["48214987@N06"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.054203"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5590/15075822116_dd05ca40a7_t.jpg"],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.765792"],
+      "social:url": ["https://www.flickr.com/photos/costermk/15075822116/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/linford_wood"],
+      "social:views": ["167"],
+      "dc:date": ["Sat Aug 30 10:31:43 BST 2014"],
+      "dc:identifier": ["15075822116"],
+      "dc:title": ["Took a walk though Linford Wood with the sole purpose of finding the Rupert the bear sculpture. Needless to see we found it and loads more beside. Excellent walk well sign posted, but a must before the weather gets bad."]
+    },
+    {
+      "global:isRelatedTo": ["linford wood"],
+      "dc:creator": [{
+        "global:name": ["Mark"],
+        "dc:identifier": ["48214987@N06"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.055656"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5594/14912255668_d556d8985b_t.jpg"],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.765051"],
+      "social:url": ["https://www.flickr.com/photos/costermk/14912255668/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/linford_wood"],
+      "social:views": ["273"],
+      "dc:date": ["Sat Aug 30 10:31:43 BST 2014"],
+      "dc:identifier": ["14912255668"],
+      "dc:title": ["Took a walk though Linford Wood with the sole purpose of finding the Rupert the bear sculpture. Needless to see we found it and loads more beside. Excellent walk well sign posted, but a must before the weather gets bad."]
+    },
+    {
+      "global:isRelatedTo": ["linford wood"],
+      "dc:creator": [{
+        "global:name": ["Mark"],
+        "dc:identifier": ["48214987@N06"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.055656"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5572/15098798695_146362b75a_t.jpg"],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.765051"],
+      "social:url": ["https://www.flickr.com/photos/costermk/15098798695/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/linford_wood"],
+      "social:views": ["177"],
+      "dc:date": ["Sat Aug 30 10:30:49 BST 2014"],
+      "dc:identifier": ["15098798695"],
+      "dc:title": ["Took a walk though Linford Wood with the sole purpose of finding the Rupert the bear sculpture. Needless to see we found it and loads more beside. Excellent walk well sign posted, but a must before the weather gets bad."]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/smcgill1969/15775015202/"],
+      "geo:long": ["-0.767262"],
+      "dc:creator": [{
+        "global:name": ["Simon McGill"],
+        "dc:identifier": ["68968740@N07"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.054028"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/linford_wood"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:views": ["7"],
+      "dc:date": ["Tue Jul 22 17:19:34 BST 2014"],
+      "dc:identifier": ["15775015202"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7492/15775015202_aca7f7afda_t.jpg"],
+      "dc:title": ["20140722_171934"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/smcgill1969/15749744636/"],
+      "geo:long": ["-0.765759"],
+      "dc:creator": [{
+        "global:name": ["Simon McGill"],
+        "dc:identifier": ["68968740@N07"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.055405"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/linford_wood"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:views": ["8"],
+      "dc:date": ["Sat Jul 12 20:31:43 BST 2014"],
+      "dc:identifier": ["15749744636"],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5606/15749744636_8b6f60a71f_t.jpg"],
+      "dc:title": ["20140712_203143"]
+    },
+    {
+      "global:isRelatedTo": ["linford wood"],
+      "dc:creator": [{
+        "global:name": ["Mark"],
+        "dc:identifier": ["48214987@N06"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.055656"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:thumbnail": ["https://farm4.static.flickr.com/3839/15098454172_e070142f9d_t.jpg"],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.765051"],
+      "social:url": ["https://www.flickr.com/photos/costermk/15098454172/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/linford_wood"],
+      "social:views": ["257"],
+      "dc:date": ["Sat Aug 30 10:30:59 BST 2014"],
+      "dc:identifier": ["15098454172"],
+      "dc:title": ["Took a walk though Linford Wood with the sole purpose of finding the Rupert the bear sculpture. Needless to see we found it and loads more beside. Excellent walk well sign posted, but a must before the weather gets bad."]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/smcgill1969/15589767197/"],
+      "geo:long": ["-0.769834"],
+      "dc:creator": [{
+        "global:name": ["Simon McGill"],
+        "dc:identifier": ["68968740@N07"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.053833"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/linford_wood"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:views": ["11"],
+      "dc:date": ["Sat Apr 20 18:17:29 BST 2013"],
+      "dc:identifier": ["15589767197"],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5602/15589767197_29aa1f17b2_t.jpg"],
+      "dc:title": ["20130420_181729"]
+    },
+    {
+      "global:isRelatedTo": ["linford wood"],
+      "dc:creator": [{
+        "global:name": ["Mark"],
+        "dc:identifier": ["48214987@N06"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.055656"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5577/14912114449_b99500a419_t.jpg"],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.765051"],
+      "social:url": ["https://www.flickr.com/photos/costermk/14912114449/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/linford_wood"],
+      "social:views": ["183"],
+      "dc:date": ["Sat Aug 30 10:45:34 BST 2014"],
+      "dc:identifier": ["14912114449"],
+      "dc:title": ["Took a walk though Linford Wood with the sole purpose of finding the Rupert the bear sculpture. Needless to see we found it and loads more beside. Excellent walk well sign posted, but a must before the weather gets bad."]
+    },
+    {
+      "global:isRelatedTo": ["linford wood"],
+      "dc:creator": [{
+        "global:name": ["Mark"],
+        "dc:identifier": ["48214987@N06"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.055656"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:thumbnail": ["https://farm4.static.flickr.com/3905/15098791045_0b385d87fb_t.jpg"],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.765051"],
+      "social:url": ["https://www.flickr.com/photos/costermk/15098791045/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/linford_wood"],
+      "social:views": ["167"],
+      "dc:date": ["Sat Aug 30 10:33:35 BST 2014"],
+      "dc:identifier": ["15098791045"],
+      "dc:title": ["Took a walk though Linford Wood with the sole purpose of finding the Rupert the bear sculpture. Needless to see we found it and loads more beside. Excellent walk well sign posted, but a must before the weather gets bad."]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/smcgill1969/15588639300/"],
+      "geo:long": ["-0.765759"],
+      "dc:creator": [{
+        "global:name": ["Simon McGill"],
+        "dc:identifier": ["68968740@N07"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.055405"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/linford_wood"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:views": ["10"],
+      "dc:date": ["Sat Jul 12 20:31:44 BST 2014"],
+      "dc:identifier": ["15588639300"],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5612/15588639300_29d77ea431_t.jpg"],
+      "dc:title": ["20140712_203144"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/smcgill1969/15588286317/"],
+      "geo:long": ["-0.765759"],
+      "dc:creator": [{
+        "global:name": ["Simon McGill"],
+        "dc:identifier": ["68968740@N07"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.055405"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/linford_wood"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:views": ["8"],
+      "dc:date": ["Sat Jul 12 20:31:48 BST 2014"],
+      "dc:identifier": ["15588286317"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7514/15588286317_ca7ff5c8c0_t.jpg"],
+      "dc:title": ["20140712_203148"]
+    },
+    {
+      "global:isRelatedTo": ["linford wood"],
+      "dc:creator": [{
+        "global:name": ["Mark"],
+        "dc:identifier": ["48214987@N06"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.055656"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:thumbnail": ["https://farm4.static.flickr.com/3901/15098457912_8bb6811ace_t.jpg"],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.765051"],
+      "social:url": ["https://www.flickr.com/photos/costermk/15098457912/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/linford_wood"],
+      "social:views": ["280"],
+      "dc:date": ["Sat Aug 30 10:27:26 BST 2014"],
+      "dc:identifier": ["15098457912"],
+      "dc:title": ["Took a walk though Linford Wood with the sole purpose of finding the Rupert the bear sculpture. Needless to see we found it and loads more beside. Excellent walk well sign posted, but a must before the weather gets bad."]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/smcgill1969/15773447615/"],
+      "geo:long": ["-0.764939"],
+      "dc:creator": [{
+        "global:name": ["Simon McGill"],
+        "dc:identifier": ["68968740@N07"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.05414"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/linford_wood"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:views": ["7"],
+      "dc:date": ["Tue Jul 22 17:15:15 BST 2014"],
+      "dc:identifier": ["15773447615"],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5610/15773447615_268670371f_t.jpg"],
+      "dc:title": ["20140722_171515"]
+    },
+    {
+      "global:isRelatedTo": ["linford wood"],
+      "dc:creator": [{
+        "global:name": ["Mark"],
+        "dc:identifier": ["48214987@N06"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.055656"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:thumbnail": ["https://farm4.static.flickr.com/3890/14912121159_20739e96cc_t.jpg"],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.765051"],
+      "social:url": ["https://www.flickr.com/photos/costermk/14912121159/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/linford_wood"],
+      "social:views": ["166"],
+      "dc:date": ["Sat Aug 30 10:30:14 BST 2014"],
+      "dc:identifier": ["14912121159"],
+      "dc:title": ["Took a walk though Linford Wood with the sole purpose of finding the Rupert the bear sculpture. Needless to see we found it and loads more beside. Excellent walk well sign posted, but a must before the weather gets bad."]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/smcgill1969/15589513928/"],
+      "geo:long": ["-0.768834"],
+      "dc:creator": [{
+        "global:name": ["Simon McGill"],
+        "dc:identifier": ["68968740@N07"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.053165"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/linford_wood"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:views": ["11"],
+      "dc:date": ["Sat Apr 20 18:22:52 BST 2013"],
+      "dc:identifier": ["15589513928"],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5613/15589513928_940ef50982_t.jpg"],
+      "dc:title": ["20130420_182252"]
+    }
+  ],
+  "global:numberOfBurglaries": [{
+    "year:2006/7": ["0"],
+    "year:2011/12": ["0"],
+    "year:2005/6": ["0"],
+    "year:2007/8": ["0"],
+    "year:2009/10": ["0"],
+    "year:2013/14": ["0"],
+    "year:2012/13": ["0"],
+    "year:2010/11": ["0"],
+    "year:2008/9": ["0"]
+  }],
+  "global:numberOfRobberies": [{
+    "year:2006/7": ["4"],
+    "year:2011/12": ["3"],
+    "year:2005/6": ["2"],
+    "year:2007/8": ["1"],
+    "year:2009/10": ["4"],
+    "year:2013/14": ["0"],
+    "year:2012/13": ["5"],
+    "year:2010/11": ["0"],
+    "year:2008/9": ["1"]
+  }],
+  "global:tenure": [
+    {"year:2005": [{
+      "global:total_stock": ["0"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["0"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2014": [{
+      "global:total_stock": ["0"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["0"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2008": [{
+      "global:total_stock": ["0"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["0"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2012": [{
+      "global:total_stock": ["0"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["0"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2006": [{
+      "global:total_stock": ["0"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["0"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2013": [{
+      "global:total_stock": ["0"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["0"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2004": [{
+      "global:total_stock": ["0"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["0"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2007": [{
+      "global:total_stock": ["0"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["0"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2009": [{
+      "global:total_stock": ["0"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["0"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2011": [{
+      "global:total_stock": ["0"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["0"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2010": [{
+      "global:total_stock": ["0"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["0"],
+      "global:rsl_rented": ["0"]
+    }]}
+  ],
+  "global:nbCrimes": [{
+    "year:2006/7": ["180"],
+    "year:2011/12": ["97"],
+    "year:2005/6": ["122"],
+    "year:2007/8": ["141"],
+    "year:2009/10": ["113"],
+    "year:2013/14": ["85"],
+    "year:2012/13": ["87"],
+    "year:2010/11": ["83"],
+    "year:2008/9": ["118"]
+  }],
+  "global:numberOfArsonFires": [{
+    "year:2003/4": ["10"],
+    "year:2001/2": ["5"],
+    "year:2006/7": ["8"],
+    "year:2011/12": ["2"],
+    "year:2005/6": ["13"],
+    "year:2002/3": ["5"],
+    "year:2007/8": ["5"],
+    "year:2009/10": ["1"],
+    "year:2004/5": ["6"],
+    "year:2012/13": ["3"],
+    "year:2010/11": ["1"],
+    "year:2008/9": ["5"]
+  }],
+  "global:numberOfViolencesAgainstThePerson": [{
+    "year:2006/7": ["4"],
+    "year:2011/12": ["14"],
+    "year:2005/6": ["9"],
+    "year:2007/8": ["9"],
+    "year:2009/10": ["8"],
+    "year:2013/14": ["2"],
+    "year:2012/13": ["2"],
+    "year:2010/11": ["8"],
+    "year:2008/9": ["15"]
+  }]
+}

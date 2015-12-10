@@ -1,0 +1,362 @@
+{
+  "global:numberOfCriminalDamages": [{
+    "year:2006/7": ["83"],
+    "year:2011/12": ["59"],
+    "year:2005/6": ["87"],
+    "year:2007/8": ["86"],
+    "year:2009/10": ["54"],
+    "year:2013/14": ["27"],
+    "year:2012/13": ["26"],
+    "year:2010/11": ["45"],
+    "year:2008/9": ["67"]
+  }],
+  "demographics:male-population-2011": ["1712"],
+  "global:location": ["http://data.beta.mksmart.org/entity/place/heelands"],
+  "global:numberOfRobberies": [{
+    "year:2006/7": ["4"],
+    "year:2011/12": ["4"],
+    "year:2005/6": ["7"],
+    "year:2007/8": ["2"],
+    "year:2009/10": ["3"],
+    "year:2013/14": ["3"],
+    "year:2012/13": ["2"],
+    "year:2010/11": ["2"],
+    "year:2008/9": ["8"]
+  }],
+  "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/linked-data/cube#Observation"],
+  "global:nbCrimes": [{
+    "year:2006/7": ["421"],
+    "year:2011/12": ["267"],
+    "year:2005/6": ["335"],
+    "year:2007/8": ["386"],
+    "year:2009/10": ["289"],
+    "year:2013/14": ["161"],
+    "year:2012/13": ["189"],
+    "year:2010/11": ["256"],
+    "year:2008/9": ["306"]
+  }],
+  "demographics:female-population-2011": ["1767"],
+  "global:numberOfViolencesAgainstThePerson": [{
+    "year:2006/7": ["80"],
+    "year:2011/12": ["42"],
+    "year:2005/6": ["64"],
+    "year:2007/8": ["86"],
+    "year:2009/10": ["66"],
+    "year:2013/14": ["29"],
+    "year:2012/13": ["39"],
+    "year:2010/11": ["79"],
+    "year:2008/9": ["73"]
+  }],
+  "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/linked-data/cube#Observation"],
+  "imd:imd-2010": ["20"],
+  "global:populationProjection": [{
+    "year:2012": ["3450"],
+    "year:2013": ["3450"],
+    "year:2014": ["3450"],
+    "year:2015": ["3450"],
+    "year:2016": ["3450"],
+    "year:2017": ["3450"],
+    "year:2018": ["3400"],
+    "year:2011": ["3500"],
+    "year:2019": ["3400"],
+    "year:2020": ["3400"],
+    "year:2021": ["3400"]
+  }],
+  "global:photoLocatedIn": [
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/gregs_birds/17146637008/"],
+      "geo:long": ["-0.763077"],
+      "geo:lat": ["52.058994"],
+      "dc:creator": [{
+        "global:name": ["Greg Tappenden"],
+        "dc:identifier": ["82371360@N05"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/heelands"],
+      "social:views": [
+        "7",
+        "8",
+        "3",
+        "14",
+        "1"
+      ],
+      "dc:date": ["Fri May 01 14:22:30 BST 2015"],
+      "dc:identifier": ["17146637008"],
+      "dc:description": ["Linford Wood, Milton Keynes"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7739/17146637008_3abffc4100_t.jpg"],
+      "dc:title": ["Treecreeper"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/gregs_birds/17336308221/"],
+      "geo:long": ["-0.763077"],
+      "geo:lat": ["52.058994"],
+      "dc:creator": [{
+        "global:name": ["Greg Tappenden"],
+        "dc:identifier": ["82371360@N05"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/heelands"],
+      "social:views": [
+        "0",
+        "7",
+        "8",
+        "3",
+        "14"
+      ],
+      "dc:date": ["Fri May 01 14:39:23 BST 2015"],
+      "dc:identifier": ["17336308221"],
+      "dc:description": ["Linford Wood, Milton Keynes"],
+      "global:thumbnail": ["https://farm9.static.flickr.com/8846/17336308221_cc979772c2_t.jpg"],
+      "dc:title": ["Treecreeper"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/gregs_birds/17148191899/"],
+      "geo:long": ["-0.763077"],
+      "geo:lat": ["52.058994"],
+      "dc:creator": [{
+        "global:name": ["Greg Tappenden"],
+        "dc:identifier": ["82371360@N05"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/heelands"],
+      "social:views": [
+        "7",
+        "8",
+        "3",
+        "14",
+        "1"
+      ],
+      "dc:date": ["Fri May 01 14:31:26 BST 2015"],
+      "dc:identifier": ["17148191899"],
+      "dc:description": ["Linford Wood, Milton Keynes"],
+      "global:thumbnail": ["https://farm9.static.flickr.com/8685/17148191899_3055b1b0d5_t.jpg"],
+      "dc:title": ["Treecreeper"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/gregs_birds/17336309911/"],
+      "geo:long": ["-0.763077"],
+      "geo:lat": ["52.058994"],
+      "dc:creator": [{
+        "global:name": ["Greg Tappenden"],
+        "dc:identifier": ["82371360@N05"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/heelands"],
+      "social:views": [
+        "0",
+        "7",
+        "8",
+        "14",
+        "2"
+      ],
+      "dc:date": ["Fri May 01 14:41:27 BST 2015"],
+      "dc:identifier": ["17336309911"],
+      "dc:description": ["Linford Wood, Milton Keynes"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7704/17336309911_724d6e3b13_t.jpg"],
+      "dc:title": ["Treecreeper"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/gregs_birds/17146853210/"],
+      "geo:long": ["-0.763077"],
+      "geo:lat": ["52.058994"],
+      "dc:creator": [{
+        "global:name": ["Greg Tappenden"],
+        "dc:identifier": ["82371360@N05"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/heelands"],
+      "social:views": [
+        "9",
+        "8",
+        "4",
+        "1",
+        "15"
+      ],
+      "dc:date": ["Fri May 01 14:32:34 BST 2015"],
+      "dc:identifier": ["17146853210"],
+      "dc:description": ["Linford Wood, Milton Keynes"],
+      "global:thumbnail": ["https://farm9.static.flickr.com/8691/17146853210_a15786e2db_t.jpg"],
+      "dc:title": ["Treecreeper"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/gregs_birds/17126982397/"],
+      "geo:long": ["-0.763077"],
+      "geo:lat": ["52.058994"],
+      "dc:creator": [{
+        "global:name": ["Greg Tappenden"],
+        "dc:identifier": ["82371360@N05"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/heelands"],
+      "social:views": [
+        "6",
+        "11",
+        "7",
+        "2",
+        "1"
+      ],
+      "dc:date": ["Fri May 01 14:19:02 BST 2015"],
+      "dc:identifier": ["17126982397"],
+      "dc:description": ["Linford Wood,  Milton Keynes"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7731/17126982397_a429bd35dd_t.jpg"],
+      "dc:title": ["Treecreeper"]
+    }
+  ],
+  "global:numberOfBurglaries": [{
+    "year:2006/7": ["16"],
+    "year:2011/12": ["10"],
+    "year:2005/6": ["22"],
+    "year:2007/8": ["21"],
+    "year:2009/10": ["14"],
+    "year:2013/14": ["11"],
+    "year:2012/13": ["7"],
+    "year:2010/11": ["10"],
+    "year:2008/9": ["10"]
+  }],
+  "global:ethnicity": [{
+    "global:white:_gypsy_or_irish_traveller": ["0"],
+    "global:white:_irish": ["52"],
+    "global:black_and_minority_ethnic_group:_total": ["958"],
+    "global:multiple_ethnic_group:_other_mixed": ["43"],
+    "global:multiple_ethnic_group:_white_and_black_african": ["55"],
+    "global:multiple_ethnic_group:_white_and_asian": ["29"],
+    "global:other_ethnic_group:_arab": ["8"],
+    "global:asian_british:_chinese": ["21"],
+    "global:asian_british:_other_asian": ["92"],
+    "global:black_british:_caribbean": ["36"],
+    "global:all_usual_residents": ["3480"],
+    "global:asian_british:_bangladeshi": ["16"],
+    "global:asian_british:_pakistani": ["62"],
+    "global:asian_british:_indian": ["77"],
+    "global:multiple_ethnic_group:_white_and_black_caribbean": ["54"],
+    "global:black_british:_other_black": ["22"],
+    "global:british": ["2521"],
+    "global:other_ethnic_group:_any_other_ethnic_group": ["12"],
+    "global:white:_other_white": ["168"],
+    "global:black_british:_african": ["211"]
+  }],
+  "global:tenure": [
+    {"year:2006": [{
+      "global:total_stock": ["1405"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["222"],
+      "global:rsl_shared_ownership": ["25"],
+      "global:mkc_shared_ownership": ["48"],
+      "global:owner_occupied_and_private_rented": ["946"],
+      "global:rsl_rented": ["164"]
+    }]},
+    {"year:2014": [{
+      "global:total_stock": ["1439"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["209"],
+      "global:rsl_shared_ownership": ["25"],
+      "global:mkc_shared_ownership": ["46"],
+      "global:owner_occupied_and_private_rented": ["963"],
+      "global:rsl_rented": ["196"]
+    }]},
+    {"year:2009": [{
+      "global:total_stock": ["1439"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["215"],
+      "global:rsl_shared_ownership": ["25"],
+      "global:mkc_shared_ownership": ["48"],
+      "global:owner_occupied_and_private_rented": ["955"],
+      "global:rsl_rented": ["196"]
+    }]},
+    {"year:2008": [{
+      "global:total_stock": ["1439"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["215"],
+      "global:rsl_shared_ownership": ["25"],
+      "global:mkc_shared_ownership": ["48"],
+      "global:owner_occupied_and_private_rented": ["955"],
+      "global:rsl_rented": ["196"]
+    }]},
+    {"year:2007": [{
+      "global:total_stock": ["1438"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["220"],
+      "global:rsl_shared_ownership": ["25"],
+      "global:mkc_shared_ownership": ["48"],
+      "global:owner_occupied_and_private_rented": ["949"],
+      "global:rsl_rented": ["196"]
+    }]},
+    {"year:2004": [{
+      "global:total_stock": ["1405"],
+      "global:rsl_reduced_cost_sale": ["25"],
+      "global:mkc_rented": ["229"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["48"],
+      "global:owner_occupied_and_private_rented": ["939"],
+      "global:rsl_rented": ["164"]
+    }]},
+    {"year:2005": [{
+      "global:total_stock": ["1405"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["225"],
+      "global:rsl_shared_ownership": ["25"],
+      "global:mkc_shared_ownership": ["48"],
+      "global:owner_occupied_and_private_rented": ["943"],
+      "global:rsl_rented": ["164"]
+    }]},
+    {"year:2012": [{
+      "global:total_stock": ["1439"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["212"],
+      "global:rsl_shared_ownership": ["25"],
+      "global:mkc_shared_ownership": ["47"],
+      "global:owner_occupied_and_private_rented": ["959"],
+      "global:rsl_rented": ["196"]
+    }]},
+    {"year:2013": [{
+      "global:total_stock": ["1439"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["212"],
+      "global:rsl_shared_ownership": ["25"],
+      "global:mkc_shared_ownership": ["47"],
+      "global:owner_occupied_and_private_rented": ["959"],
+      "global:rsl_rented": ["196"]
+    }]},
+    {"year:2011": [{
+      "global:total_stock": ["1439"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["215"],
+      "global:rsl_shared_ownership": ["25"],
+      "global:mkc_shared_ownership": ["47"],
+      "global:owner_occupied_and_private_rented": ["956"],
+      "global:rsl_rented": ["196"]
+    }]},
+    {"year:2010": [{
+      "global:total_stock": ["1439"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["215"],
+      "global:rsl_shared_ownership": ["25"],
+      "global:mkc_shared_ownership": ["47"],
+      "global:owner_occupied_and_private_rented": ["956"],
+      "global:rsl_rented": ["196"]
+    }]}
+  ],
+  "imd:imd-2004": ["16.9"],
+  "global:numberOfArsonFires": [{
+    "year:2003/4": ["30"],
+    "year:2001/2": ["18"],
+    "year:2006/7": ["6"],
+    "year:2011/12": ["11"],
+    "year:2005/6": ["13"],
+    "year:2002/3": ["10"],
+    "year:2007/8": ["9"],
+    "year:2009/10": ["4"],
+    "year:2004/5": ["7"],
+    "year:2012/13": ["2"],
+    "year:2010/11": ["2"],
+    "year:2008/9": ["3"]
+  }],
+  "demographics:population-2011": ["3480"],
+  "imd:imd-2007": ["18.5"]
+}

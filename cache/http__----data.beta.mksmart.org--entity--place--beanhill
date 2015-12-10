@@ -1,0 +1,301 @@
+{
+  "global:numberOfCriminalDamages": [{
+    "year:2006/7": ["71"],
+    "year:2011/12": ["54"],
+    "year:2005/6": ["57"],
+    "year:2007/8": ["91"],
+    "year:2009/10": ["66"],
+    "year:2013/14": ["20"],
+    "year:2012/13": ["38"],
+    "year:2010/11": ["47"],
+    "year:2008/9": ["86"]
+  }],
+  "demographics:male-population-2011": ["943"],
+  "global:location": ["http://data.beta.mksmart.org/entity/place/beanhill"],
+  "global:numberOfRobberies": [{
+    "year:2006/7": ["7"],
+    "year:2011/12": ["6"],
+    "year:2005/6": ["4"],
+    "year:2007/8": ["10"],
+    "year:2009/10": ["2"],
+    "year:2013/14": ["4"],
+    "year:2012/13": ["2"],
+    "year:2010/11": ["6"],
+    "year:2008/9": ["3"]
+  }],
+  "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/linked-data/cube#Observation"],
+  "global:nbCrimes": [{
+    "year:2006/7": ["243"],
+    "year:2011/12": ["211"],
+    "year:2005/6": ["208"],
+    "year:2007/8": ["297"],
+    "year:2009/10": ["282"],
+    "year:2013/14": ["160"],
+    "year:2012/13": ["173"],
+    "year:2010/11": ["208"],
+    "year:2008/9": ["274"]
+  }],
+  "demographics:female-population-2011": ["1020"],
+  "global:numberOfViolencesAgainstThePerson": [{
+    "year:2006/7": ["69"],
+    "year:2011/12": ["39"],
+    "year:2005/6": ["54"],
+    "year:2007/8": ["87"],
+    "year:2009/10": ["67"],
+    "year:2013/14": ["51"],
+    "year:2012/13": ["52"],
+    "year:2010/11": ["71"],
+    "year:2008/9": ["68"]
+  }],
+  "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/linked-data/cube#Observation"],
+  "imd:imd-2010": ["49.1"],
+  "global:populationProjection": [{
+    "year:2012": ["2000"],
+    "year:2013": ["2000"],
+    "year:2014": ["2000"],
+    "year:2015": ["2000"],
+    "year:2016": ["2000"],
+    "year:2017": ["2000"],
+    "year:2018": ["2000"],
+    "year:2011": ["2000"],
+    "year:2019": ["2000"],
+    "year:2020": ["2000"],
+    "year:2021": ["2000"]
+  }],
+  "global:photoLocatedIn": [
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/costermk/16292641746/"],
+      "geo:long": ["-0.73185"],
+      "dc:creator": [{
+        "global:name": ["Mark"],
+        "dc:identifier": ["48214987@N06"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.02615"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/beanhill"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:views": ["216"],
+      "dc:date": ["Mon Jan 19 08:38:58 GMT 2015"],
+      "dc:identifier": ["16292641746"],
+      "global:thumbnail": ["https://farm9.static.flickr.com/8578/16292641746_57f41a0ac0_t.jpg"],
+      "dc:title": ["BATMAN! Found in Milton Keynes."]
+    },
+    {
+      "dc:creator": [{
+        "global:name": ["Mark"],
+        "dc:identifier": ["48214987@N06"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.013145"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:thumbnail": ["https://farm1.static.flickr.com/291/19177840482_8bdb1af427_t.jpg"],
+      "dc:description": ["Found near the Stadium in Milton Keynes. There where a number of stickers all based around the same theme. "],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.751575"],
+      "social:url": ["https://www.flickr.com/photos/costermk/19177840482/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/beanhill"],
+      "social:views": [
+        "103",
+        "106",
+        "121",
+        "100",
+        "110",
+        "91",
+        "116",
+        "76",
+        "127",
+        "126",
+        "123",
+        "131",
+        "125",
+        "32",
+        "96"
+      ],
+      "dc:date": ["Fri Jun 26 17:13:30 BST 2015"],
+      "dc:identifier": ["19177840482"],
+      "dc:title": ["Make Art Not War"]
+    },
+    {
+      "global:isRelatedTo": [
+        "em-5",
+        "canal",
+        "olympus",
+        "boat",
+        "milton keynes",
+        "reflection",
+        "narrow",
+        "grand union",
+        "bridge"
+      ],
+      "dc:creator": [{
+        "global:name": ["stephen jessop"],
+        "dc:identifier": ["73811764@N04"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.027016"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7513/15279755543_4b6786b315_t.jpg"],
+      "dc:description": ["The Grand Union Canal, Milton Keynes "],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.730032"],
+      "social:url": ["https://www.flickr.com/photos/sbjessop/15279755543/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/beanhill"],
+      "social:views": ["207"],
+      "dc:date": ["Thu Nov 20 11:26:45 GMT 2014"],
+      "dc:identifier": ["15279755543"],
+      "dc:title": ["Grand Union canal"]
+    }
+  ],
+  "global:numberOfBurglaries": [{
+    "year:2006/7": ["13"],
+    "year:2011/12": ["14"],
+    "year:2005/6": ["10"],
+    "year:2007/8": ["10"],
+    "year:2009/10": ["20"],
+    "year:2013/14": ["8"],
+    "year:2012/13": ["12"],
+    "year:2010/11": ["4"],
+    "year:2008/9": ["22"]
+  }],
+  "global:ethnicity": [{
+    "global:white:_gypsy_or_irish_traveller": ["1"],
+    "global:white:_irish": ["23"],
+    "global:black_and_minority_ethnic_group:_total": ["402"],
+    "global:multiple_ethnic_group:_other_mixed": ["20"],
+    "global:multiple_ethnic_group:_white_and_black_african": ["9"],
+    "global:multiple_ethnic_group:_white_and_asian": ["6"],
+    "global:other_ethnic_group:_arab": ["17"],
+    "global:asian_british:_chinese": ["4"],
+    "global:asian_british:_other_asian": ["36"],
+    "global:black_british:_caribbean": ["9"],
+    "global:all_usual_residents": ["1963"],
+    "global:asian_british:_bangladeshi": ["7"],
+    "global:asian_british:_pakistani": ["8"],
+    "global:asian_british:_indian": ["30"],
+    "global:multiple_ethnic_group:_white_and_black_caribbean": ["10"],
+    "global:black_british:_other_black": ["19"],
+    "global:british": ["1562"],
+    "global:other_ethnic_group:_any_other_ethnic_group": ["7"],
+    "global:white:_other_white": ["46"],
+    "global:black_british:_african": ["150"]
+  }],
+  "global:tenure": [
+    {"year:2011": [{
+      "global:total_stock": ["828"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["494"],
+      "global:rsl_shared_ownership": ["51"],
+      "global:mkc_shared_ownership": ["2"],
+      "global:owner_occupied_and_private_rented": ["241"],
+      "global:rsl_rented": ["40"]
+    }]},
+    {"year:2006": [{
+      "global:total_stock": ["811"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["502"],
+      "global:rsl_shared_ownership": ["36"],
+      "global:mkc_shared_ownership": ["2"],
+      "global:owner_occupied_and_private_rented": ["231"],
+      "global:rsl_rented": ["40"]
+    }]},
+    {"year:2010": [{
+      "global:total_stock": ["824"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["496"],
+      "global:rsl_shared_ownership": ["47"],
+      "global:mkc_shared_ownership": ["2"],
+      "global:owner_occupied_and_private_rented": ["239"],
+      "global:rsl_rented": ["40"]
+    }]},
+    {"year:2012": [{
+      "global:total_stock": ["829"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["492"],
+      "global:rsl_shared_ownership": ["51"],
+      "global:mkc_shared_ownership": ["2"],
+      "global:owner_occupied_and_private_rented": ["244"],
+      "global:rsl_rented": ["40"]
+    }]},
+    {"year:2007": [{
+      "global:total_stock": ["811"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["500"],
+      "global:rsl_shared_ownership": ["36"],
+      "global:mkc_shared_ownership": ["2"],
+      "global:owner_occupied_and_private_rented": ["233"],
+      "global:rsl_rented": ["40"]
+    }]},
+    {"year:2009": [{
+      "global:total_stock": ["813"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["497"],
+      "global:rsl_shared_ownership": ["36"],
+      "global:mkc_shared_ownership": ["2"],
+      "global:owner_occupied_and_private_rented": ["238"],
+      "global:rsl_rented": ["40"]
+    }]},
+    {"year:2005": [{
+      "global:total_stock": ["811"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["509"],
+      "global:rsl_shared_ownership": ["36"],
+      "global:mkc_shared_ownership": ["2"],
+      "global:owner_occupied_and_private_rented": ["224"],
+      "global:rsl_rented": ["40"]
+    }]},
+    {"year:2008": [{
+      "global:total_stock": ["811"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["498"],
+      "global:rsl_shared_ownership": ["36"],
+      "global:mkc_shared_ownership": ["2"],
+      "global:owner_occupied_and_private_rented": ["235"],
+      "global:rsl_rented": ["40"]
+    }]},
+    {"year:2013": [{
+      "global:total_stock": ["829"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["492"],
+      "global:rsl_shared_ownership": ["51"],
+      "global:mkc_shared_ownership": ["2"],
+      "global:owner_occupied_and_private_rented": ["244"],
+      "global:rsl_rented": ["40"]
+    }]},
+    {"year:2014": [{
+      "global:total_stock": ["829"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["491"],
+      "global:rsl_shared_ownership": ["51"],
+      "global:mkc_shared_ownership": ["2"],
+      "global:owner_occupied_and_private_rented": ["245"],
+      "global:rsl_rented": ["40"]
+    }]},
+    {"year:2004": [{
+      "global:total_stock": ["811"],
+      "global:rsl_reduced_cost_sale": ["36"],
+      "global:mkc_rented": ["514"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["2"],
+      "global:owner_occupied_and_private_rented": ["219"],
+      "global:rsl_rented": ["40"]
+    }]}
+  ],
+  "imd:imd-2004": ["49.4"],
+  "global:numberOfArsonFires": [{
+    "year:2003/4": ["16"],
+    "year:2001/2": ["21"],
+    "year:2006/7": ["14"],
+    "year:2011/12": ["6"],
+    "year:2005/6": ["15"],
+    "year:2002/3": ["23"],
+    "year:2007/8": ["22"],
+    "year:2009/10": ["13"],
+    "year:2004/5": ["18"],
+    "year:2012/13": ["4"],
+    "year:2010/11": ["10"],
+    "year:2008/9": ["16"]
+  }],
+  "demographics:population-2011": ["1963"],
+  "imd:imd-2007": ["47.5"]
+}

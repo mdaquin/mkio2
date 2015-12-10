@@ -1,0 +1,250 @@
+{
+  "global:numberOfCriminalDamages": [{
+    "year:2006/7": ["7"],
+    "year:2011/12": ["3"],
+    "year:2005/6": ["4"],
+    "year:2007/8": ["4"],
+    "year:2009/10": ["3"],
+    "year:2013/14": ["0"],
+    "year:2012/13": ["2"],
+    "year:2010/11": ["7"],
+    "year:2008/9": ["5"]
+  }],
+  "demographics:male-population-2011": ["206"],
+  "global:location": ["http://data.beta.mksmart.org/entity/place/little_brickhill"],
+  "global:numberOfRobberies": [{
+    "year:2006/7": ["1"],
+    "year:2011/12": ["0"],
+    "year:2005/6": ["0"],
+    "year:2007/8": ["0"],
+    "year:2009/10": ["0"],
+    "year:2013/14": ["0"],
+    "year:2012/13": ["0"],
+    "year:2010/11": ["0"],
+    "year:2008/9": ["0"]
+  }],
+  "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/linked-data/cube#Observation"],
+  "global:nbCrimes": [{
+    "year:2006/7": ["73"],
+    "year:2011/12": ["18"],
+    "year:2005/6": ["40"],
+    "year:2007/8": ["49"],
+    "year:2009/10": ["47"],
+    "year:2013/14": ["59"],
+    "year:2012/13": ["32"],
+    "year:2010/11": ["47"],
+    "year:2008/9": ["73"]
+  }],
+  "demographics:female-population-2011": ["201"],
+  "global:numberOfViolencesAgainstThePerson": [{
+    "year:2006/7": ["4"],
+    "year:2011/12": ["3"],
+    "year:2005/6": ["4"],
+    "year:2007/8": ["7"],
+    "year:2009/10": ["4"],
+    "year:2013/14": ["3"],
+    "year:2012/13": ["7"],
+    "year:2010/11": ["3"],
+    "year:2008/9": ["5"]
+  }],
+  "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/linked-data/cube#Observation"],
+  "imd:imd-2010": ["8.7"],
+  "global:populationProjection": [{
+    "year:2012": ["400"],
+    "year:2013": ["400"],
+    "year:2014": ["400"],
+    "year:2015": ["400"],
+    "year:2016": ["400"],
+    "year:2017": ["400"],
+    "year:2018": ["400"],
+    "year:2011": ["400"],
+    "year:2019": ["400"],
+    "year:2020": ["400"],
+    "year:2021": ["450"]
+  }],
+  "global:photoLocatedIn": [{
+    "global:isRelatedTo": [
+      "instagram app",
+      "square format",
+      "square",
+      "uploaded:by=instagram",
+      "iphoneography"
+    ],
+    "dc:creator": [{
+      "global:name": ["Colin Mill"],
+      "dc:identifier": ["38892719@N00"],
+      "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+    }],
+    "geo:lat": ["51.982964"],
+    "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+    "global:thumbnail": ["https://farm8.static.flickr.com/7722/17321350464_7448a92b6d_t.jpg"],
+    "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+    "geo:long": ["-0.676662"],
+    "social:url": ["https://www.flickr.com/photos/38892719@N00/17321350464/"],
+    "geo:location": ["http://data.beta.mksmart.org/entity/place/little_brickhill"],
+    "social:views": [
+      "12",
+      "9",
+      "17",
+      "0",
+      "13",
+      "14",
+      "16",
+      "10"
+    ],
+    "dc:date": ["Thu May 21 21:20:37 BST 2015"],
+    "dc:identifier": ["17321350464"],
+    "dc:title": ["Sunset over Little Brickhill. Stepped outside during the break at camera club tonight just in time to catch the sunset. #sunset #Brickhill #LaCollina #CameraClub"]
+  }],
+  "global:numberOfBurglaries": [{
+    "year:2006/7": ["1"],
+    "year:2011/12": ["0"],
+    "year:2005/6": ["0"],
+    "year:2007/8": ["3"],
+    "year:2009/10": ["4"],
+    "year:2013/14": ["1"],
+    "year:2012/13": ["1"],
+    "year:2010/11": ["0"],
+    "year:2008/9": ["2"]
+  }],
+  "global:ethnicity": [{
+    "global:white:_gypsy_or_irish_traveller": ["0"],
+    "global:white:_irish": ["7"],
+    "global:black_and_minority_ethnic_group:_total": ["19"],
+    "global:multiple_ethnic_group:_other_mixed": ["0"],
+    "global:multiple_ethnic_group:_white_and_black_african": ["0"],
+    "global:multiple_ethnic_group:_white_and_asian": ["0"],
+    "global:other_ethnic_group:_arab": ["0"],
+    "global:asian_british:_chinese": ["1"],
+    "global:asian_british:_other_asian": ["0"],
+    "global:black_british:_caribbean": ["0"],
+    "global:all_usual_residents": ["407"],
+    "global:asian_british:_bangladeshi": ["0"],
+    "global:asian_british:_pakistani": ["0"],
+    "global:asian_british:_indian": ["1"],
+    "global:multiple_ethnic_group:_white_and_black_caribbean": ["4"],
+    "global:black_british:_other_black": ["0"],
+    "global:british": ["388"],
+    "global:other_ethnic_group:_any_other_ethnic_group": ["0"],
+    "global:white:_other_white": ["6"],
+    "global:black_british:_african": ["0"]
+  }],
+  "global:tenure": [
+    {"year:2008": [{
+      "global:total_stock": ["177"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["28"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["141"],
+      "global:rsl_rented": ["8"]
+    }]},
+    {"year:2007": [{
+      "global:total_stock": ["176"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["28"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["140"],
+      "global:rsl_rented": ["8"]
+    }]},
+    {"year:2005": [{
+      "global:total_stock": ["176"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["29"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["139"],
+      "global:rsl_rented": ["8"]
+    }]},
+    {"year:2004": [{
+      "global:total_stock": ["176"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["29"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["139"],
+      "global:rsl_rented": ["8"]
+    }]},
+    {"year:2009": [{
+      "global:total_stock": ["177"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["28"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["141"],
+      "global:rsl_rented": ["8"]
+    }]},
+    {"year:2012": [{
+      "global:total_stock": ["177"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["28"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["141"],
+      "global:rsl_rented": ["8"]
+    }]},
+    {"year:2014": [{
+      "global:total_stock": ["177"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["28"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["141"],
+      "global:rsl_rented": ["8"]
+    }]},
+    {"year:2006": [{
+      "global:total_stock": ["176"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["28"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["140"],
+      "global:rsl_rented": ["8"]
+    }]},
+    {"year:2010": [{
+      "global:total_stock": ["177"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["28"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["141"],
+      "global:rsl_rented": ["8"]
+    }]},
+    {"year:2011": [{
+      "global:total_stock": ["177"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["28"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["141"],
+      "global:rsl_rented": ["8"]
+    }]},
+    {"year:2013": [{
+      "global:total_stock": ["175"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["28"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["139"],
+      "global:rsl_rented": ["8"]
+    }]}
+  ],
+  "imd:imd-2004": ["11"],
+  "global:numberOfArsonFires": [{
+    "year:2003/4": ["3"],
+    "year:2001/2": ["7"],
+    "year:2006/7": ["1"],
+    "year:2011/12": ["1"],
+    "year:2005/6": ["4"],
+    "year:2002/3": ["1"],
+    "year:2007/8": ["2"],
+    "year:2009/10": ["0"],
+    "year:2004/5": ["1"],
+    "year:2012/13": ["2"],
+    "year:2010/11": ["1"],
+    "year:2008/9": ["1"]
+  }],
+  "demographics:population-2011": ["407"],
+  "imd:imd-2007": ["9.4"]
+}

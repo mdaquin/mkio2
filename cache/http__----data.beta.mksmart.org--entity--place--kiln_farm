@@ -1,0 +1,189 @@
+{
+  "global:numberOfCriminalDamages": [{
+    "year:2006/7": ["21"],
+    "year:2011/12": ["7"],
+    "year:2005/6": ["25"],
+    "year:2007/8": ["17"],
+    "year:2009/10": ["10"],
+    "year:2013/14": ["7"],
+    "year:2012/13": ["7"],
+    "year:2010/11": ["3"],
+    "year:2008/9": ["8"]
+  }],
+  "global:photoLocatedIn": [{
+    "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+    "social:url": ["https://www.flickr.com/photos/smcgill1969/15594118898/"],
+    "geo:long": ["-0.819167"],
+    "geo:lat": ["52.043167"],
+    "dc:creator": [{
+      "global:name": ["Simon McGill"],
+      "dc:identifier": ["68968740@N07"],
+      "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+    }],
+    "geo:location": ["http://data.beta.mksmart.org/entity/place/kiln_farm"],
+    "social:views": ["5"],
+    "dc:date": ["Fri Jun 24 16:45:36 BST 2011"],
+    "dc:identifier": ["15594118898"],
+    "global:thumbnail": ["https://farm6.static.flickr.com/5607/15594118898_233c8bb838_t.jpg"],
+    "dc:title": ["20110624_164536"]
+  }],
+  "global:numberOfBurglaries": [{
+    "year:2006/7": ["0"],
+    "year:2011/12": ["2"],
+    "year:2005/6": ["0"],
+    "year:2007/8": ["0"],
+    "year:2009/10": ["0"],
+    "year:2013/14": ["0"],
+    "year:2012/13": ["0"],
+    "year:2010/11": ["1"],
+    "year:2008/9": ["0"]
+  }],
+  "global:numberOfRobberies": [{
+    "year:2006/7": ["0"],
+    "year:2011/12": ["1"],
+    "year:2005/6": ["1"],
+    "year:2007/8": ["0"],
+    "year:2009/10": ["0"],
+    "year:2013/14": ["0"],
+    "year:2012/13": ["0"],
+    "year:2010/11": ["0"],
+    "year:2008/9": ["1"]
+  }],
+  "global:tenure": [
+    {"year:2013": [{
+      "global:total_stock": ["1"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["1"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2008": [{
+      "global:total_stock": ["1"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["1"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2005": [{
+      "global:total_stock": ["1"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["1"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2014": [{
+      "global:total_stock": ["1"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["1"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2004": [{
+      "global:total_stock": ["1"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["1"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2006": [{
+      "global:total_stock": ["1"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["1"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2009": [{
+      "global:total_stock": ["1"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["1"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2007": [{
+      "global:total_stock": ["1"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["1"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2012": [{
+      "global:total_stock": ["1"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["1"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2010": [{
+      "global:total_stock": ["1"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["1"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2011": [{
+      "global:total_stock": ["1"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["1"],
+      "global:rsl_rented": ["0"]
+    }]}
+  ],
+  "global:nbCrimes": [{
+    "year:2006/7": ["80"],
+    "year:2011/12": ["62"],
+    "year:2005/6": ["117"],
+    "year:2007/8": ["88"],
+    "year:2009/10": ["77"],
+    "year:2013/14": ["75"],
+    "year:2012/13": ["45"],
+    "year:2010/11": ["55"],
+    "year:2008/9": ["83"]
+  }],
+  "global:numberOfArsonFires": [{
+    "year:2003/4": ["11"],
+    "year:2001/2": ["20"],
+    "year:2006/7": ["7"],
+    "year:2011/12": ["5"],
+    "year:2005/6": ["5"],
+    "year:2002/3": ["13"],
+    "year:2007/8": ["4"],
+    "year:2009/10": ["6"],
+    "year:2004/5": ["14"],
+    "year:2012/13": ["3"],
+    "year:2010/11": ["1"],
+    "year:2008/9": ["4"]
+  }],
+  "global:numberOfViolencesAgainstThePerson": [{
+    "year:2006/7": ["8"],
+    "year:2011/12": ["4"],
+    "year:2005/6": ["3"],
+    "year:2007/8": ["5"],
+    "year:2009/10": ["4"],
+    "year:2013/14": ["4"],
+    "year:2012/13": ["2"],
+    "year:2010/11": ["3"],
+    "year:2008/9": ["2"]
+  }]
+}

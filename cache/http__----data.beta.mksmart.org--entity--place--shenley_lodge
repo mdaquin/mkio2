@@ -1,0 +1,468 @@
+{
+  "global:numberOfCriminalDamages": [{
+    "year:2006/7": ["45"],
+    "year:2011/12": ["20"],
+    "year:2005/6": ["46"],
+    "year:2007/8": ["54"],
+    "year:2009/10": ["58"],
+    "year:2013/14": ["12"],
+    "year:2012/13": ["21"],
+    "year:2010/11": ["26"],
+    "year:2008/9": ["56"]
+  }],
+  "demographics:male-population-2011": ["1605"],
+  "global:location": ["http://data.beta.mksmart.org/entity/place/shenley_lodge"],
+  "global:numberOfRobberies": [{
+    "year:2006/7": ["1"],
+    "year:2011/12": ["2"],
+    "year:2005/6": ["1"],
+    "year:2007/8": ["0"],
+    "year:2009/10": ["1"],
+    "year:2013/14": ["1"],
+    "year:2012/13": ["0"],
+    "year:2010/11": ["3"],
+    "year:2008/9": ["2"]
+  }],
+  "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/linked-data/cube#Observation"],
+  "global:nbCrimes": [{
+    "year:2006/7": ["181"],
+    "year:2011/12": ["123"],
+    "year:2005/6": ["126"],
+    "year:2007/8": ["163"],
+    "year:2009/10": ["199"],
+    "year:2013/14": ["100"],
+    "year:2012/13": ["112"],
+    "year:2010/11": ["150"],
+    "year:2008/9": ["167"]
+  }],
+  "demographics:female-population-2011": ["1724"],
+  "global:numberOfViolencesAgainstThePerson": [{
+    "year:2006/7": ["49"],
+    "year:2011/12": ["25"],
+    "year:2005/6": ["24"],
+    "year:2007/8": ["40"],
+    "year:2009/10": ["28"],
+    "year:2013/14": ["23"],
+    "year:2012/13": ["23"],
+    "year:2010/11": ["29"],
+    "year:2008/9": ["59"]
+  }],
+  "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/linked-data/cube#Observation"],
+  "imd:imd-2010": ["11.6"],
+  "global:populationProjection": [{
+    "year:2012": ["3300"],
+    "year:2013": ["3300"],
+    "year:2014": ["3300"],
+    "year:2015": ["3300"],
+    "year:2016": ["3300"],
+    "year:2017": ["3300"],
+    "year:2018": ["3250"],
+    "year:2011": ["3350"],
+    "year:2019": ["3250"],
+    "year:2020": ["3250"],
+    "year:2021": ["3200"]
+  }],
+  "global:photoLocatedIn": [
+    {
+      "global:isRelatedTo": [
+        "united kingdom",
+        "shenley sunset",
+        "shenley church end",
+        "firefighter0793",
+        "england"
+      ],
+      "dc:creator": [{
+        "global:name": ["Steve Cook"],
+        "dc:identifier": ["91006258@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.0176"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7466/16083710486_7df035843f_t.jpg"],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.786295"],
+      "social:url": ["https://www.flickr.com/photos/firefighter0793/16083710486/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/shenley_lodge"],
+      "social:views": ["44"],
+      "dc:date": ["Wed Dec 24 15:48:58 GMT 2014"],
+      "dc:identifier": ["16083710486"],
+      "dc:title": ["Shenley Sunset-27.jpg"]
+    },
+    {
+      "global:isRelatedTo": [
+        "united kingdom",
+        "shenley sunset",
+        "shenley church end",
+        "firefighter0793",
+        "england"
+      ],
+      "dc:creator": [{
+        "global:name": ["Steve Cook"],
+        "dc:identifier": ["91006258@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.0176"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7494/15922071418_feeec2b000_t.jpg"],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.786295"],
+      "social:url": ["https://www.flickr.com/photos/firefighter0793/15922071418/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/shenley_lodge"],
+      "social:views": ["46"],
+      "dc:date": ["Wed Dec 24 15:51:17 GMT 2014"],
+      "dc:identifier": ["15922071418"],
+      "dc:title": ["Shenley Sunset-33.jpg"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/costermk/21095525145/"],
+      "geo:long": ["-0.775087"],
+      "dc:creator": [{
+        "global:name": ["Mark"],
+        "dc:identifier": ["48214987@N06"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.011906"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/shenley_lodge"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:views": [
+        "12",
+        "134",
+        "111",
+        "104",
+        "76",
+        "127",
+        "117",
+        "119",
+        "98",
+        "123",
+        "139",
+        "88"
+      ],
+      "dc:date": ["Mon Aug 31 14:49:48 BST 2015"],
+      "dc:identifier": ["21095525145"],
+      "global:thumbnail": ["https://farm1.static.flickr.com/774/21095525145_b67f3efd81_t.jpg"],
+      "dc:title": ["Another grass path..."]
+    },
+    {
+      "global:isRelatedTo": [
+        "united kingdom",
+        "shenley sunset",
+        "shenley church end",
+        "firefighter0793",
+        "england"
+      ],
+      "dc:creator": [{
+        "global:name": ["Steve Cook"],
+        "dc:identifier": ["91006258@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.0176"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7467/15489795493_52d013f1fc_t.jpg"],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.786295"],
+      "social:url": ["https://www.flickr.com/photos/firefighter0793/15489795493/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/shenley_lodge"],
+      "social:views": ["96"],
+      "dc:date": ["Wed Dec 24 15:43:11 GMT 2014"],
+      "dc:identifier": ["15489795493"],
+      "dc:title": ["Shenley Sunset-15.jpg"]
+    },
+    {
+      "global:isRelatedTo": [
+        "apple",
+        "tree",
+        "milton keynes",
+        "rotten"
+      ],
+      "dc:creator": [{
+        "global:name": ["Mark"],
+        "dc:identifier": ["48214987@N06"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.016438"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:thumbnail": ["https://farm1.static.flickr.com/757/21042974555_cb4e5caae7_t.jpg"],
+      "dc:description": ["While out exploring my local area I discovered a hidden orchard. The surrounding trees and bushes have engulfed what I'm guessing was once just a row of apple trees of various types."],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.781995"],
+      "social:url": ["https://www.flickr.com/photos/costermk/21042974555/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/shenley_lodge"],
+      "social:views": [
+        "89",
+        "22",
+        "94",
+        "67",
+        "76",
+        "59",
+        "82",
+        "102"
+      ],
+      "dc:date": ["Mon Aug 31 15:20:55 BST 2015"],
+      "dc:identifier": ["21042974555"],
+      "dc:title": ["A rotten apple spoils the barrel."]
+    },
+    {
+      "global:isRelatedTo": [
+        "instagram app",
+        "square format",
+        "square",
+        "uploaded:by=instagram",
+        "iphoneography"
+      ],
+      "dc:creator": [{
+        "global:name": ["Colin Mill"],
+        "dc:identifier": ["38892719@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.014725"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:thumbnail": ["https://farm9.static.flickr.com/8793/18196771572_7940d0667b_t.jpg"],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.78211"],
+      "social:url": ["https://www.flickr.com/photos/38892719@N00/18196771572/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/shenley_lodge"],
+      "social:views": [
+        "3",
+        "19",
+        "21",
+        "17",
+        "20",
+        "14",
+        "15"
+      ],
+      "dc:date": ["Thu May 28 17:06:22 BST 2015"],
+      "dc:identifier": ["18196771572"],
+      "dc:title": ["Half Moonrise over Half Dome, Yosemite. Here's part of an another image from my second day in Yosemite National Park last month. To see the whole image, and many more, then head to on.fb.me/1AhbeG2  @yosemitenps #YosemiteNation #landscape #photography #Ha"]
+    },
+    {
+      "global:isRelatedTo": [
+        "apple",
+        "tree",
+        "milton keynes",
+        "rotten"
+      ],
+      "dc:creator": [{
+        "global:name": ["Mark"],
+        "dc:identifier": ["48214987@N06"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.016438"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:thumbnail": ["https://farm1.static.flickr.com/757/21042974555_cb4e5caae7_t.jpg"],
+      "dc:description": ["While out exploring my local area I discovered a hidden orchard. The surrounding trees and bushes have engulfed what I'm guessing was once just a row of apple trees of various types."],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.781995"],
+      "social:url": ["https://www.flickr.com/photos/costermk/21042974555/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/shenley_lodge"],
+      "social:views": [
+        "133",
+        "111",
+        "67",
+        "113",
+        "117",
+        "102",
+        "89",
+        "129",
+        "136",
+        "137",
+        "22",
+        "94",
+        "59",
+        "76",
+        "124",
+        "107",
+        "82"
+      ],
+      "dc:date": ["Mon Aug 31 15:20:55 BST 2015"],
+      "dc:identifier": ["21042974555"],
+      "dc:title": ["A rotten apple spoils the barrel."]
+    },
+    {
+      "global:isRelatedTo": [
+        "instagram app",
+        "square format",
+        "square",
+        "uploaded:by=instagram",
+        "iphoneography"
+      ],
+      "dc:creator": [{
+        "global:name": ["Colin Mill"],
+        "dc:identifier": ["38892719@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.014725"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7763/17308974764_b68e66880e_t.jpg"],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.78211"],
+      "social:url": ["https://www.flickr.com/photos/38892719@N00/17308974764/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/shenley_lodge"],
+      "social:views": [
+        "12",
+        "30",
+        "25",
+        "18",
+        "27",
+        "26",
+        "29",
+        "23"
+      ],
+      "dc:date": ["Thu May 21 13:57:02 BST 2015"],
+      "dc:identifier": ["17308974764"],
+      "dc:title": ["Back in April I went to @Yosemite for the first time & this is part of one of the first shots I took on my first morning in the valley. If you want to see the whole picture then go to http://on.fb.me/1AhbeG2  @viewcalifornia #Yosemite #Park #Landscape #tr"]
+    }
+  ],
+  "global:numberOfBurglaries": [{
+    "year:2006/7": ["15"],
+    "year:2011/12": ["10"],
+    "year:2005/6": ["11"],
+    "year:2007/8": ["7"],
+    "year:2009/10": ["29"],
+    "year:2013/14": ["6"],
+    "year:2012/13": ["10"],
+    "year:2010/11": ["11"],
+    "year:2008/9": ["5"]
+  }],
+  "global:ethnicity": [{
+    "global:white:_gypsy_or_irish_traveller": ["0"],
+    "global:white:_irish": ["19"],
+    "global:black_and_minority_ethnic_group:_total": ["1070"],
+    "global:multiple_ethnic_group:_other_mixed": ["22"],
+    "global:multiple_ethnic_group:_white_and_black_african": ["22"],
+    "global:multiple_ethnic_group:_white_and_asian": ["18"],
+    "global:other_ethnic_group:_arab": ["6"],
+    "global:asian_british:_chinese": ["64"],
+    "global:asian_british:_other_asian": ["53"],
+    "global:black_british:_caribbean": ["32"],
+    "global:all_usual_residents": ["3330"],
+    "global:asian_british:_bangladeshi": ["17"],
+    "global:asian_british:_pakistani": ["84"],
+    "global:asian_british:_indian": ["243"],
+    "global:multiple_ethnic_group:_white_and_black_caribbean": ["45"],
+    "global:black_british:_other_black": ["31"],
+    "global:british": ["2262"],
+    "global:other_ethnic_group:_any_other_ethnic_group": ["25"],
+    "global:white:_other_white": ["192"],
+    "global:black_british:_african": ["197"]
+  }],
+  "global:tenure": [
+    {"year:2014": [{
+      "global:total_stock": ["1320"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["45"],
+      "global:rsl_shared_ownership": ["174"],
+      "global:mkc_shared_ownership": ["57"],
+      "global:owner_occupied_and_private_rented": ["733"],
+      "global:rsl_rented": ["311"]
+    }]},
+    {"year:2005": [{
+      "global:total_stock": ["1312"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["45"],
+      "global:rsl_shared_ownership": ["169"],
+      "global:mkc_shared_ownership": ["63"],
+      "global:owner_occupied_and_private_rented": ["724"],
+      "global:rsl_rented": ["311"]
+    }]},
+    {"year:2008": [{
+      "global:total_stock": ["1318"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["45"],
+      "global:rsl_shared_ownership": ["174"],
+      "global:mkc_shared_ownership": ["57"],
+      "global:owner_occupied_and_private_rented": ["731"],
+      "global:rsl_rented": ["311"]
+    }]},
+    {"year:2009": [{
+      "global:total_stock": ["1318"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["45"],
+      "global:rsl_shared_ownership": ["174"],
+      "global:mkc_shared_ownership": ["57"],
+      "global:owner_occupied_and_private_rented": ["731"],
+      "global:rsl_rented": ["311"]
+    }]},
+    {"year:2007": [{
+      "global:total_stock": ["1318"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["45"],
+      "global:rsl_shared_ownership": ["174"],
+      "global:mkc_shared_ownership": ["61"],
+      "global:owner_occupied_and_private_rented": ["727"],
+      "global:rsl_rented": ["311"]
+    }]},
+    {"year:2013": [{
+      "global:total_stock": ["1320"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["45"],
+      "global:rsl_shared_ownership": ["174"],
+      "global:mkc_shared_ownership": ["57"],
+      "global:owner_occupied_and_private_rented": ["733"],
+      "global:rsl_rented": ["311"]
+    }]},
+    {"year:2012": [{
+      "global:total_stock": ["1319"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["45"],
+      "global:rsl_shared_ownership": ["174"],
+      "global:mkc_shared_ownership": ["57"],
+      "global:owner_occupied_and_private_rented": ["732"],
+      "global:rsl_rented": ["311"]
+    }]},
+    {"year:2011": [{
+      "global:total_stock": ["1319"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["45"],
+      "global:rsl_shared_ownership": ["174"],
+      "global:mkc_shared_ownership": ["57"],
+      "global:owner_occupied_and_private_rented": ["732"],
+      "global:rsl_rented": ["311"]
+    }]},
+    {"year:2010": [{
+      "global:total_stock": ["1318"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["45"],
+      "global:rsl_shared_ownership": ["174"],
+      "global:mkc_shared_ownership": ["57"],
+      "global:owner_occupied_and_private_rented": ["731"],
+      "global:rsl_rented": ["311"]
+    }]},
+    {"year:2006": [{
+      "global:total_stock": ["1313"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["45"],
+      "global:rsl_shared_ownership": ["169"],
+      "global:mkc_shared_ownership": ["63"],
+      "global:owner_occupied_and_private_rented": ["725"],
+      "global:rsl_rented": ["311"]
+    }]},
+    {"year:2004": [{
+      "global:total_stock": ["1295"],
+      "global:rsl_reduced_cost_sale": ["169"],
+      "global:mkc_rented": ["45"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["68"],
+      "global:owner_occupied_and_private_rented": ["702"],
+      "global:rsl_rented": ["311"]
+    }]}
+  ],
+  "imd:imd-2004": ["14.5"],
+  "global:numberOfArsonFires": [{
+    "year:2003/4": ["5"],
+    "year:2001/2": ["8"],
+    "year:2006/7": ["5"],
+    "year:2011/12": ["4"],
+    "year:2005/6": ["7"],
+    "year:2002/3": ["6"],
+    "year:2007/8": ["7"],
+    "year:2009/10": ["2"],
+    "year:2004/5": ["2"],
+    "year:2012/13": ["3"],
+    "year:2010/11": ["3"],
+    "year:2008/9": ["1"]
+  }],
+  "demographics:population-2011": ["3330"],
+  "imd:imd-2007": ["12.7"]
+}

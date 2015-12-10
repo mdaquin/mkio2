@@ -1,0 +1,365 @@
+{
+  "global:numberOfCriminalDamages": [{
+    "year:2006/7": ["14"],
+    "year:2011/12": ["9"],
+    "year:2005/6": ["4"],
+    "year:2007/8": ["7"],
+    "year:2009/10": ["9"],
+    "year:2013/14": ["6"],
+    "year:2012/13": ["14"],
+    "year:2010/11": ["10"],
+    "year:2008/9": ["13"]
+  }],
+  "demographics:male-population-2011": ["697"],
+  "global:location": ["http://data.beta.mksmart.org/entity/place/caldecotte"],
+  "global:numberOfRobberies": [{
+    "year:2006/7": ["0"],
+    "year:2011/12": ["0"],
+    "year:2005/6": ["0"],
+    "year:2007/8": ["0"],
+    "year:2009/10": ["0"],
+    "year:2013/14": ["2"],
+    "year:2012/13": ["0"],
+    "year:2010/11": ["1"],
+    "year:2008/9": ["0"]
+  }],
+  "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/linked-data/cube#Observation"],
+  "global:nbCrimes": [{
+    "year:2006/7": ["73"],
+    "year:2011/12": ["60"],
+    "year:2005/6": ["45"],
+    "year:2007/8": ["41"],
+    "year:2009/10": ["66"],
+    "year:2013/14": ["52"],
+    "year:2012/13": ["70"],
+    "year:2010/11": ["72"],
+    "year:2008/9": ["60"]
+  }],
+  "demographics:female-population-2011": ["705"],
+  "global:numberOfViolencesAgainstThePerson": [{
+    "year:2006/7": ["6"],
+    "year:2011/12": ["12"],
+    "year:2005/6": ["8"],
+    "year:2007/8": ["7"],
+    "year:2009/10": ["24"],
+    "year:2013/14": ["6"],
+    "year:2012/13": ["5"],
+    "year:2010/11": ["15"],
+    "year:2008/9": ["13"]
+  }],
+  "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/linked-data/cube#Observation"],
+  "imd:imd-2010": ["7.4"],
+  "global:populationProjection": [{
+    "year:2012": ["1400"],
+    "year:2013": ["1400"],
+    "year:2014": ["1400"],
+    "year:2015": ["1400"],
+    "year:2016": ["1400"],
+    "year:2017": ["1350"],
+    "year:2018": ["1350"],
+    "year:2011": ["1400"],
+    "year:2019": ["1350"],
+    "year:2020": ["1350"],
+    "year:2021": ["1350"]
+  }],
+  "global:photoLocatedIn": [
+    {
+      "global:isRelatedTo": ["grey heron"],
+      "dc:creator": [{
+        "global:name": ["Keith"],
+        "dc:identifier": ["10966094@N03"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.002796"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7558/16027797797_6b2d5d6379_t.jpg"],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.70693"],
+      "social:url": ["https://www.flickr.com/photos/swamplife56/16027797797/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/caldecotte"],
+      "social:views": ["76"],
+      "dc:date": ["Tue Dec 30 10:46:09 GMT 2014"],
+      "dc:identifier": ["16027797797"],
+      "dc:title": ["Grey Heron"]
+    },
+    {
+      "global:isRelatedTo": [
+        "chiel",
+        "fietsen rond london",
+        "caldecotte",
+        "verenigd koninkrijk",
+        "engeland",
+        "theo",
+        "hans"
+      ],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["7882754@N06"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.00445"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7340/16394432547_e9f6f1a7ed_t.jpg"],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.709003"],
+      "social:url": ["https://www.flickr.com/photos/wessels/16394432547/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/caldecotte"],
+      "social:views": ["12"],
+      "dc:date": ["Mon Jul 14 17:19:38 BST 2014"],
+      "dc:identifier": ["16394432547"],
+      "dc:title": ["Milton Keynes"]
+    },
+    {
+      "global:isRelatedTo": [
+        "great crested grebe",
+        "caldecotte lake"
+      ],
+      "dc:creator": [{
+        "global:name": ["Keith"],
+        "dc:identifier": ["10966094@N03"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.00242"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:thumbnail": ["https://farm1.static.flickr.com/502/18931094314_beb0b79f05_t.jpg"],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.705649"],
+      "social:url": ["https://www.flickr.com/photos/swamplife56/18931094314/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/caldecotte"],
+      "social:views": [
+        "12",
+        "22",
+        "18",
+        "28",
+        "27",
+        "24"
+      ],
+      "dc:date": ["Thu Jul 09 08:27:37 BST 2015"],
+      "dc:identifier": ["18931094314"],
+      "dc:title": ["Great Crested Grebe"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/lokraj/16364309832/"],
+      "geo:long": ["-0.70792"],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["93854531@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.002136"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/caldecotte"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:views": ["11"],
+      "dc:date": ["Thu Dec 25 14:20:03 GMT 2014"],
+      "dc:identifier": ["16364309832"],
+      "global:thumbnail": ["https://farm9.static.flickr.com/8640/16364309832_a36c216154_t.jpg"],
+      "dc:title": ["Caldecotte Lake, Milton Keynes"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/lokraj/15745227803/"],
+      "geo:long": ["-0.707164"],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["93854531@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.001884"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/caldecotte"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:views": ["12"],
+      "dc:date": ["Thu Dec 25 14:24:01 GMT 2014"],
+      "dc:identifier": ["15745227803"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7291/15745227803_ccfea7d77e_t.jpg"],
+      "dc:title": ["Caldecotte Lake, Milton Keynes"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/lokraj/16363478691/"],
+      "geo:long": ["-0.70842"],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["93854531@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.00315"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/caldecotte"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:views": ["13"],
+      "dc:date": ["Thu Dec 25 14:15:31 GMT 2014"],
+      "dc:identifier": ["16363478691"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7379/16363478691_96f1f22c09_t.jpg"],
+      "dc:title": ["River Ouzel, Milton Keynes"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/lokraj/15742776984/"],
+      "geo:long": ["-0.707653"],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["93854531@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.003906"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/caldecotte"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:views": ["10"],
+      "dc:date": ["Thu Dec 25 14:14:04 GMT 2014"],
+      "dc:identifier": ["15742776984"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7324/15742776984_89d1dafd1e_t.jpg"],
+      "dc:title": [""]
+    }
+  ],
+  "global:numberOfBurglaries": [{
+    "year:2006/7": ["1"],
+    "year:2011/12": ["4"],
+    "year:2005/6": ["3"],
+    "year:2007/8": ["1"],
+    "year:2009/10": ["1"],
+    "year:2013/14": ["5"],
+    "year:2012/13": ["3"],
+    "year:2010/11": ["3"],
+    "year:2008/9": ["5"]
+  }],
+  "global:ethnicity": [{
+    "global:white:_gypsy_or_irish_traveller": ["0"],
+    "global:white:_irish": ["17"],
+    "global:black_and_minority_ethnic_group:_total": ["321"],
+    "global:multiple_ethnic_group:_other_mixed": ["7"],
+    "global:multiple_ethnic_group:_white_and_black_african": ["5"],
+    "global:multiple_ethnic_group:_white_and_asian": ["18"],
+    "global:other_ethnic_group:_arab": ["2"],
+    "global:asian_british:_chinese": ["38"],
+    "global:asian_british:_other_asian": ["29"],
+    "global:black_british:_caribbean": ["8"],
+    "global:all_usual_residents": ["1402"],
+    "global:asian_british:_bangladeshi": ["1"],
+    "global:asian_british:_pakistani": ["17"],
+    "global:asian_british:_indian": ["57"],
+    "global:multiple_ethnic_group:_white_and_black_caribbean": ["10"],
+    "global:black_british:_other_black": ["3"],
+    "global:british": ["1083"],
+    "global:other_ethnic_group:_any_other_ethnic_group": ["10"],
+    "global:white:_other_white": ["59"],
+    "global:black_british:_african": ["40"]
+  }],
+  "global:tenure": [
+    {"year:2010": [{
+      "global:total_stock": ["594"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["55"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["506"],
+      "global:rsl_rented": ["33"]
+    }]},
+    {"year:2009": [{
+      "global:total_stock": ["594"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["55"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["506"],
+      "global:rsl_rented": ["33"]
+    }]},
+    {"year:2004": [{
+      "global:total_stock": ["476"],
+      "global:rsl_reduced_cost_sale": ["30"],
+      "global:mkc_rented": ["1"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["420"],
+      "global:rsl_rented": ["25"]
+    }]},
+    {"year:2014": [{
+      "global:total_stock": ["594"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["55"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["506"],
+      "global:rsl_rented": ["33"]
+    }]},
+    {"year:2008": [{
+      "global:total_stock": ["505"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["1"],
+      "global:rsl_shared_ownership": ["30"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["449"],
+      "global:rsl_rented": ["25"]
+    }]},
+    {"year:2007": [{
+      "global:total_stock": ["477"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["1"],
+      "global:rsl_shared_ownership": ["30"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["421"],
+      "global:rsl_rented": ["25"]
+    }]},
+    {"year:2012": [{
+      "global:total_stock": ["594"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["55"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["506"],
+      "global:rsl_rented": ["33"]
+    }]},
+    {"year:2011": [{
+      "global:total_stock": ["594"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["55"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["506"],
+      "global:rsl_rented": ["33"]
+    }]},
+    {"year:2005": [{
+      "global:total_stock": ["477"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["1"],
+      "global:rsl_shared_ownership": ["30"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["421"],
+      "global:rsl_rented": ["25"]
+    }]},
+    {"year:2013": [{
+      "global:total_stock": ["594"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["55"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["506"],
+      "global:rsl_rented": ["33"]
+    }]},
+    {"year:2006": [{
+      "global:total_stock": ["477"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["1"],
+      "global:rsl_shared_ownership": ["30"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["421"],
+      "global:rsl_rented": ["25"]
+    }]}
+  ],
+  "imd:imd-2004": ["8.1"],
+  "global:numberOfArsonFires": [{
+    "year:2003/4": ["7"],
+    "year:2001/2": ["0"],
+    "year:2006/7": ["3"],
+    "year:2011/12": ["1"],
+    "year:2005/6": ["4"],
+    "year:2002/3": ["3"],
+    "year:2007/8": ["1"],
+    "year:2009/10": ["1"],
+    "year:2004/5": ["1"],
+    "year:2012/13": ["0"],
+    "year:2010/11": ["1"],
+    "year:2008/9": ["1"]
+  }],
+  "demographics:population-2011": ["1402"],
+  "imd:imd-2007": ["6.8"]
+}

@@ -1,0 +1,212 @@
+{
+  "demographics:male-population-2011": ["216"],
+  "global:numberOfCriminalDamages": [{
+    "year:2006/7": ["0"],
+    "year:2011/12": ["3"],
+    "year:2005/6": ["0"],
+    "year:2007/8": ["0"],
+    "year:2009/10": ["0"],
+    "year:2013/14": ["11"],
+    "year:2012/13": ["2"],
+    "year:2010/11": ["1"],
+    "year:2008/9": ["0"]
+  }],
+  "global:numberOfRobberies": [{
+    "year:2006/7": ["0"],
+    "year:2011/12": ["0"],
+    "year:2005/6": ["0"],
+    "year:2007/8": ["0"],
+    "year:2009/10": ["0"],
+    "year:2013/14": ["0"],
+    "year:2012/13": ["0"],
+    "year:2010/11": ["0"],
+    "year:2008/9": ["0"]
+  }],
+  "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/linked-data/cube#Observation"],
+  "global:nbCrimes": [{
+    "year:2006/7": ["0"],
+    "year:2011/12": ["43"],
+    "year:2005/6": ["0"],
+    "year:2007/8": ["0"],
+    "year:2009/10": ["0"],
+    "year:2013/14": ["49"],
+    "year:2012/13": ["38"],
+    "year:2010/11": ["33"],
+    "year:2008/9": ["0"]
+  }],
+  "demographics:female-population-2011": ["207"],
+  "global:numberOfViolencesAgainstThePerson": [{
+    "year:2006/7": ["0"],
+    "year:2011/12": ["2"],
+    "year:2005/6": ["0"],
+    "year:2007/8": ["0"],
+    "year:2009/10": ["0"],
+    "year:2013/14": ["8"],
+    "year:2012/13": ["6"],
+    "year:2010/11": ["5"],
+    "year:2008/9": ["0"]
+  }],
+  "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/linked-data/cube#Observation"],
+  "global:populationProjection": [{
+    "year:2012": ["550"],
+    "year:2013": ["700"],
+    "year:2014": ["900"],
+    "year:2015": ["1050"],
+    "year:2016": ["1150"],
+    "year:2017": ["1150"],
+    "year:2018": ["1150"],
+    "year:2011": ["450"],
+    "year:2019": ["1200"],
+    "year:2020": ["1200"],
+    "year:2021": ["1200"]
+  }],
+  "global:numberOfBurglaries": [{
+    "year:2006/7": ["0"],
+    "year:2011/12": ["0"],
+    "year:2005/6": ["0"],
+    "year:2007/8": ["0"],
+    "year:2009/10": ["0"],
+    "year:2013/14": ["2"],
+    "year:2012/13": ["2"],
+    "year:2010/11": ["0"],
+    "year:2008/9": ["0"]
+  }],
+  "global:ethnicity": [{
+    "global:white:_gypsy_or_irish_traveller": ["3"],
+    "global:white:_irish": ["1"],
+    "global:black_and_minority_ethnic_group:_total": ["94"],
+    "global:multiple_ethnic_group:_other_mixed": ["3"],
+    "global:multiple_ethnic_group:_white_and_black_african": ["4"],
+    "global:multiple_ethnic_group:_white_and_asian": ["3"],
+    "global:other_ethnic_group:_arab": ["0"],
+    "global:asian_british:_chinese": ["1"],
+    "global:asian_british:_other_asian": ["2"],
+    "global:black_british:_caribbean": ["7"],
+    "global:all_usual_residents": ["424"],
+    "global:asian_british:_bangladeshi": ["0"],
+    "global:asian_british:_pakistani": ["5"],
+    "global:asian_british:_indian": ["4"],
+    "global:multiple_ethnic_group:_white_and_black_caribbean": ["7"],
+    "global:black_british:_other_black": ["2"],
+    "global:british": ["329"],
+    "global:other_ethnic_group:_any_other_ethnic_group": ["1"],
+    "global:white:_other_white": ["14"],
+    "global:black_british:_african": ["37"]
+  }],
+  "global:tenure": [
+    {"year:2009": [{
+      "global:total_stock": ["53"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["17"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["30"],
+      "global:rsl_rented": ["6"]
+    }]},
+    {"year:2005": [{
+      "global:total_stock": ["0"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["0"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2006": [{
+      "global:total_stock": ["0"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["0"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2012": [{
+      "global:total_stock": ["272"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["27"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["171"],
+      "global:rsl_rented": ["74"]
+    }]},
+    {"year:2014": [{
+      "global:total_stock": ["393"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["40"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["269"],
+      "global:rsl_rented": ["84"]
+    }]},
+    {"year:2007": [{
+      "global:total_stock": ["0"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["0"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2010": [{
+      "global:total_stock": ["84"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["25"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["51"],
+      "global:rsl_rented": ["8"]
+    }]},
+    {"year:2004": [{
+      "global:total_stock": ["7"],
+      "global:rsl_reduced_cost_sale": ["4"],
+      "global:mkc_rented": ["5"],
+      "global:rsl_shared_ownership": ["3"],
+      "global:mkc_shared_ownership": ["6"],
+      "global:owner_occupied_and_private_rented": ["1"],
+      "global:rsl_rented": ["2"]
+    }]},
+    {"year:2011": [{
+      "global:total_stock": ["205"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["27"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["121"],
+      "global:rsl_rented": ["57"]
+    }]},
+    {"year:2008": [{
+      "global:total_stock": ["21"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["8"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["9"],
+      "global:rsl_rented": ["4"]
+    }]},
+    {"year:2013": [{
+      "global:total_stock": ["333"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["39"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["210"],
+      "global:rsl_rented": ["84"]
+    }]}
+  ],
+  "global:numberOfArsonFires": [{
+    "year:2003/4": ["1"],
+    "year:2001/2": ["0"],
+    "year:2006/7": ["0"],
+    "year:2011/12": ["0"],
+    "year:2005/6": ["0"],
+    "year:2002/3": ["0"],
+    "year:2007/8": ["1"],
+    "year:2009/10": ["0"],
+    "year:2004/5": ["0"],
+    "year:2012/13": ["0"],
+    "year:2010/11": ["1"],
+    "year:2008/9": ["0"]
+  }],
+  "demographics:population-2011": ["424"]
+}

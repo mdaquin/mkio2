@@ -1,0 +1,268 @@
+{
+  "global:numberOfCriminalDamages": [{
+    "year:2006/7": ["5"],
+    "year:2011/12": ["8"],
+    "year:2005/6": ["8"],
+    "year:2007/8": ["4"],
+    "year:2009/10": ["1"],
+    "year:2013/14": ["3"],
+    "year:2012/13": ["0"],
+    "year:2010/11": ["8"],
+    "year:2008/9": ["6"]
+  }],
+  "demographics:male-population-2011": ["328"],
+  "global:location": ["http://data.beta.mksmart.org/entity/place/walton_park"],
+  "global:numberOfRobberies": [{
+    "year:2006/7": ["0"],
+    "year:2011/12": ["1"],
+    "year:2005/6": ["1"],
+    "year:2007/8": ["0"],
+    "year:2009/10": ["0"],
+    "year:2013/14": ["0"],
+    "year:2012/13": ["0"],
+    "year:2010/11": ["0"],
+    "year:2008/9": ["2"]
+  }],
+  "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/linked-data/cube#Observation"],
+  "global:nbCrimes": [{
+    "year:2006/7": ["44"],
+    "year:2011/12": ["43"],
+    "year:2005/6": ["48"],
+    "year:2007/8": ["29"],
+    "year:2009/10": ["30"],
+    "year:2013/14": ["19"],
+    "year:2012/13": ["18"],
+    "year:2010/11": ["41"],
+    "year:2008/9": ["40"]
+  }],
+  "demographics:female-population-2011": ["336"],
+  "global:numberOfViolencesAgainstThePerson": [{
+    "year:2006/7": ["10"],
+    "year:2011/12": ["10"],
+    "year:2005/6": ["8"],
+    "year:2007/8": ["4"],
+    "year:2009/10": ["3"],
+    "year:2013/14": ["0"],
+    "year:2012/13": ["2"],
+    "year:2010/11": ["6"],
+    "year:2008/9": ["6"]
+  }],
+  "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/linked-data/cube#Observation"],
+  "imd:imd-2010": ["6.9"],
+  "global:populationProjection": [{
+    "year:2012": ["650"],
+    "year:2013": ["650"],
+    "year:2014": ["650"],
+    "year:2015": ["650"],
+    "year:2016": ["650"],
+    "year:2017": ["650"],
+    "year:2018": ["650"],
+    "year:2011": ["650"],
+    "year:2019": ["650"],
+    "year:2020": ["650"],
+    "year:2021": ["650"]
+  }],
+  "global:photoLocatedIn": [
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/stephenlamb/21350533459/"],
+      "geo:long": ["-0.707089"],
+      "geo:lat": ["52.00917"],
+      "dc:creator": [{
+        "global:name": ["Stephen Lamb"],
+        "dc:identifier": ["12901658@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/walton_park"],
+      "social:views": [
+        "12",
+        "10",
+        "18",
+        "16",
+        "15"
+      ],
+      "dc:date": ["Fri Sep 18 16:13:25 BST 2015"],
+      "dc:identifier": ["21350533459"],
+      "dc:description": ["Image created by Assistant in Google Photos."],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5653/21350533459_1140dd70eb_t.jpg"],
+      "dc:title": ["Caldecotte Lake Milton Keynes"]
+    },
+    {
+      "global:isRelatedTo": [
+        "sony",
+        "milton keynes rowing club",
+        "lake",
+        "clouds",
+        "milton keynes",
+        "rowing",
+        "water",
+        "zeiss",
+        "british rowing",
+        "milton keynes regatta"
+      ],
+      "geo:lat": ["52.00605"],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["16773460@N05"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5641/21379659008_7fc9f4d49a_t.jpg"],
+      "dc:description": ["Women's 8 at Milton Keynes Regatta"],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.704753"],
+      "social:url": ["https://www.flickr.com/photos/kubrick_kb/21379659008/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/walton_park"],
+      "social:views": [
+        "303",
+        "177",
+        "87",
+        "259"
+      ],
+      "dc:date": ["Fri Sep 19 17:29:07 BST 2014"],
+      "dc:identifier": ["21379659008"],
+      "dc:title": ["Ladies Of The Lake"]
+    },
+    {
+      "global:isRelatedTo": [
+        "lake",
+        "milton keynes",
+        "caldecotte lake"
+      ],
+      "geo:lat": ["52.0095"],
+      "dc:creator": [{
+        "global:name": ["Stephen Lamb"],
+        "dc:identifier": ["12901658@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "global:thumbnail": ["https://farm1.static.flickr.com/727/21349372718_347644f2e3_t.jpg"],
+      "dc:description": ["This is an HDR image created by Assistant in Google Photos.  The original bracketed shots were taken with a Microsoft Lumia 640 mobile phone."],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.706848"],
+      "social:url": ["https://www.flickr.com/photos/stephenlamb/21349372718/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/walton_park"],
+      "social:views": [
+        "26",
+        "21",
+        "27",
+        "18",
+        "16"
+      ],
+      "dc:date": ["Fri Sep 18 16:11:46 BST 2015"],
+      "dc:identifier": ["21349372718"],
+      "dc:title": ["Caldecotte Lake Milton Keynes"]
+    },
+    {
+      "global:isRelatedTo": [
+        "sony",
+        "milton keynes rowing club",
+        "lake",
+        "clouds",
+        "milton keynes",
+        "rowing",
+        "water",
+        "zeiss",
+        "british rowing",
+        "milton keynes regatta"
+      ],
+      "geo:lat": ["52.00605"],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["16773460@N05"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5641/21379659008_7fc9f4d49a_t.jpg"],
+      "dc:description": ["Women's 8 at Milton Keynes Regatta"],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.704753"],
+      "social:url": ["https://www.flickr.com/photos/kubrick_kb/21379659008/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/walton_park"],
+      "social:views": [
+        "303",
+        "177",
+        "259"
+      ],
+      "dc:date": ["Fri Sep 19 17:29:07 BST 2014"],
+      "dc:identifier": ["21379659008"],
+      "dc:title": ["Ladies Of The Lake"]
+    },
+    {
+      "global:isRelatedTo": [
+        "lake",
+        "milton keynes",
+        "caldecotte lake"
+      ],
+      "geo:lat": ["52.0095"],
+      "dc:creator": [{
+        "global:name": ["Stephen Lamb"],
+        "dc:identifier": ["12901658@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "global:thumbnail": ["https://farm1.static.flickr.com/727/21349372718_347644f2e3_t.jpg"],
+      "dc:description": ["This is an HDR image created by Assistant in Google Photos.  The original bracketed shots were taken with a Microsoft Lumia 640 mobile phone."],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.706848"],
+      "social:url": ["https://www.flickr.com/photos/stephenlamb/21349372718/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/walton_park"],
+      "social:views": [
+        "26",
+        "21",
+        "27",
+        "18",
+        "16"
+      ],
+      "dc:date": ["Fri Sep 18 16:11:46 BST 2015"],
+      "dc:identifier": ["21349372718"],
+      "dc:title": ["Caldecotte Lake Milton Keynes"]
+    }
+  ],
+  "global:numberOfBurglaries": [{
+    "year:2006/7": ["1"],
+    "year:2011/12": ["2"],
+    "year:2005/6": ["2"],
+    "year:2007/8": ["5"],
+    "year:2009/10": ["7"],
+    "year:2013/14": ["0"],
+    "year:2012/13": ["0"],
+    "year:2010/11": ["3"],
+    "year:2008/9": ["2"]
+  }],
+  "global:ethnicity": [{
+    "global:white:_gypsy_or_irish_traveller": ["0"],
+    "global:white:_irish": ["12"],
+    "global:black_and_minority_ethnic_group:_total": ["175"],
+    "global:multiple_ethnic_group:_other_mixed": ["5"],
+    "global:multiple_ethnic_group:_white_and_black_african": ["3"],
+    "global:multiple_ethnic_group:_white_and_asian": ["7"],
+    "global:other_ethnic_group:_arab": ["3"],
+    "global:asian_british:_chinese": ["6"],
+    "global:asian_british:_other_asian": ["19"],
+    "global:black_british:_caribbean": ["6"],
+    "global:all_usual_residents": ["664"],
+    "global:asian_british:_bangladeshi": ["1"],
+    "global:asian_british:_pakistani": ["10"],
+    "global:asian_british:_indian": ["44"],
+    "global:multiple_ethnic_group:_white_and_black_caribbean": ["5"],
+    "global:black_british:_other_black": ["4"],
+    "global:british": ["490"],
+    "global:other_ethnic_group:_any_other_ethnic_group": ["6"],
+    "global:white:_other_white": ["28"],
+    "global:black_british:_african": ["16"]
+  }],
+  "imd:imd-2004": ["6.8"],
+  "global:numberOfArsonFires": [{
+    "year:2003/4": ["3"],
+    "year:2001/2": ["2"],
+    "year:2006/7": ["0"],
+    "year:2011/12": ["0"],
+    "year:2005/6": ["0"],
+    "year:2002/3": ["1"],
+    "year:2007/8": ["1"],
+    "year:2009/10": ["0"],
+    "year:2004/5": ["3"],
+    "year:2012/13": ["1"],
+    "year:2010/11": ["1"],
+    "year:2008/9": ["3"]
+  }],
+  "demographics:population-2011": ["664"],
+  "imd:imd-2007": ["5.5"]
+}

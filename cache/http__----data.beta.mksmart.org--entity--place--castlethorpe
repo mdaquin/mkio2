@@ -1,0 +1,312 @@
+{
+  "global:numberOfCriminalDamages": [{
+    "year:2006/7": ["9"],
+    "year:2011/12": ["4"],
+    "year:2005/6": ["6"],
+    "year:2007/8": ["3"],
+    "year:2009/10": ["3"],
+    "year:2013/14": ["2"],
+    "year:2012/13": ["3"],
+    "year:2010/11": ["3"],
+    "year:2008/9": ["1"]
+  }],
+  "demographics:male-population-2011": ["501"],
+  "global:location": ["http://data.beta.mksmart.org/entity/place/castlethorpe"],
+  "global:numberOfRobberies": [{
+    "year:2006/7": ["0"],
+    "year:2011/12": ["0"],
+    "year:2005/6": ["0"],
+    "year:2007/8": ["0"],
+    "year:2009/10": ["0"],
+    "year:2013/14": ["1"],
+    "year:2012/13": ["0"],
+    "year:2010/11": ["0"],
+    "year:2008/9": ["0"]
+  }],
+  "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/linked-data/cube#Observation"],
+  "global:nbCrimes": [{
+    "year:2006/7": ["31"],
+    "year:2011/12": ["19"],
+    "year:2005/6": ["24"],
+    "year:2007/8": ["21"],
+    "year:2009/10": ["23"],
+    "year:2013/14": ["18"],
+    "year:2012/13": ["17"],
+    "year:2010/11": ["17"],
+    "year:2008/9": ["24"]
+  }],
+  "demographics:female-population-2011": ["546"],
+  "global:numberOfViolencesAgainstThePerson": [{
+    "year:2006/7": ["4"],
+    "year:2011/12": ["4"],
+    "year:2005/6": ["1"],
+    "year:2007/8": ["4"],
+    "year:2009/10": ["6"],
+    "year:2013/14": ["5"],
+    "year:2012/13": ["2"],
+    "year:2010/11": ["7"],
+    "year:2008/9": ["4"]
+  }],
+  "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/linked-data/cube#Observation"],
+  "imd:imd-2010": ["7.5"],
+  "global:populationProjection": [{
+    "year:2012": ["1050"],
+    "year:2013": ["1050"],
+    "year:2014": ["1100"],
+    "year:2015": ["1150"],
+    "year:2016": ["1150"],
+    "year:2017": ["1150"],
+    "year:2018": ["1150"],
+    "year:2011": ["1050"],
+    "year:2019": ["1150"],
+    "year:2020": ["1150"],
+    "year:2021": ["1150"]
+  }],
+  "global:photoLocatedIn": [
+    {
+      "global:isRelatedTo": [
+        "37'",
+        "class"
+      ],
+      "geo:lat": ["52.092613"],
+      "dc:creator": [{
+        "global:name": ["David smith"],
+        "dc:identifier": ["79384507@N02"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7198/7121223579_97311be321_t.jpg"],
+      "dc:description": ["EWS tractor 37042 heads north at Castlethorpe with 6X82 (12.35) Sheerness - Washwood Heath car train on 4/9/03 ."],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.838479"],
+      "social:url": ["https://www.flickr.com/photos/world_railways/7121223579/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/castlethorpe"],
+      "social:views": [
+        "787",
+        "796",
+        "792",
+        "804",
+        "518",
+        "658",
+        "750",
+        "681",
+        "769",
+        "760",
+        "733",
+        "703",
+        "602"
+      ],
+      "dc:date": ["Thu Sep 04 14:24:17 BST 2003"],
+      "dc:identifier": ["7121223579"],
+      "dc:title": ["37042 Castlethorpe"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/sixbellsjunction/21194649251/"],
+      "geo:long": ["-0.838032"],
+      "geo:lat": ["52.092453"],
+      "dc:creator": [{
+        "global:name": ["Gary Thornton"],
+        "dc:identifier": ["135689502@N05"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/castlethorpe"],
+      "social:views": [
+        "12",
+        "11",
+        "5",
+        "9",
+        "10",
+        "14",
+        "16",
+        "15"
+      ],
+      "dc:date": [
+        "Sat Feb 02 11:34:14 GMT 2008",
+        "Sun Apr 18 00:00:00 BST 1982"
+      ],
+      "dc:identifier": ["21194649251"],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5831/21194649251_9fe647b0de_t.jpg"],
+      "dc:title": ["19820418_001: 86218 at Castlethorpe"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/sixbellsjunction/20998680890/"],
+      "geo:long": ["-0.838032"],
+      "geo:lat": ["52.092453"],
+      "dc:creator": [{
+        "global:name": ["Gary Thornton"],
+        "dc:identifier": ["135689502@N05"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/castlethorpe"],
+      "social:views": [
+        "12",
+        "11",
+        "5",
+        "9",
+        "10",
+        "13",
+        "14",
+        "15"
+      ],
+      "dc:date": [
+        "Sun Apr 18 00:00:01 BST 1982",
+        "Sat Feb 02 11:34:02 GMT 2008"
+      ],
+      "dc:identifier": ["20998680890"],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5765/20998680890_6e9009833d_t.jpg"],
+      "dc:title": ["19820418_002: 86321 at Castlethorpe"]
+    }
+  ],
+  "global:numberOfBurglaries": [{
+    "year:2006/7": ["6"],
+    "year:2011/12": ["0"],
+    "year:2005/6": ["3"],
+    "year:2007/8": ["0"],
+    "year:2009/10": ["3"],
+    "year:2013/14": ["0"],
+    "year:2012/13": ["2"],
+    "year:2010/11": ["0"],
+    "year:2008/9": ["3"]
+  }],
+  "global:ethnicity": [{
+    "global:white:_gypsy_or_irish_traveller": ["1"],
+    "global:white:_irish": ["12"],
+    "global:black_and_minority_ethnic_group:_total": ["66"],
+    "global:multiple_ethnic_group:_other_mixed": ["6"],
+    "global:multiple_ethnic_group:_white_and_black_african": ["2"],
+    "global:multiple_ethnic_group:_white_and_asian": ["6"],
+    "global:other_ethnic_group:_arab": ["0"],
+    "global:asian_british:_chinese": ["1"],
+    "global:asian_british:_other_asian": ["2"],
+    "global:black_british:_caribbean": ["1"],
+    "global:all_usual_residents": ["1047"],
+    "global:asian_british:_bangladeshi": ["0"],
+    "global:asian_british:_pakistani": ["1"],
+    "global:asian_british:_indian": ["4"],
+    "global:multiple_ethnic_group:_white_and_black_caribbean": ["1"],
+    "global:black_british:_other_black": ["1"],
+    "global:british": ["981"],
+    "global:other_ethnic_group:_any_other_ethnic_group": ["2"],
+    "global:white:_other_white": ["21"],
+    "global:black_british:_african": ["5"]
+  }],
+  "global:tenure": [
+    {"year:2010": [{
+      "global:total_stock": ["445"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["30"],
+      "global:rsl_shared_ownership": ["35"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["368"],
+      "global:rsl_rented": ["12"]
+    }]},
+    {"year:2014": [{
+      "global:total_stock": ["460"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["30"],
+      "global:rsl_shared_ownership": ["35"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["383"],
+      "global:rsl_rented": ["12"]
+    }]},
+    {"year:2009": [{
+      "global:total_stock": ["445"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["30"],
+      "global:rsl_shared_ownership": ["35"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["368"],
+      "global:rsl_rented": ["12"]
+    }]},
+    {"year:2008": [{
+      "global:total_stock": ["445"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["30"],
+      "global:rsl_shared_ownership": ["35"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["368"],
+      "global:rsl_rented": ["12"]
+    }]},
+    {"year:2013": [{
+      "global:total_stock": ["446"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["30"],
+      "global:rsl_shared_ownership": ["35"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["369"],
+      "global:rsl_rented": ["12"]
+    }]},
+    {"year:2011": [{
+      "global:total_stock": ["445"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["30"],
+      "global:rsl_shared_ownership": ["35"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["368"],
+      "global:rsl_rented": ["12"]
+    }]},
+    {"year:2007": [{
+      "global:total_stock": ["445"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["30"],
+      "global:rsl_shared_ownership": ["35"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["368"],
+      "global:rsl_rented": ["12"]
+    }]},
+    {"year:2012": [{
+      "global:total_stock": ["445"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["30"],
+      "global:rsl_shared_ownership": ["35"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["368"],
+      "global:rsl_rented": ["12"]
+    }]},
+    {"year:2005": [{
+      "global:total_stock": ["429"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["30"],
+      "global:rsl_shared_ownership": ["35"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["352"],
+      "global:rsl_rented": ["12"]
+    }]},
+    {"year:2004": [{
+      "global:total_stock": ["424"],
+      "global:rsl_reduced_cost_sale": ["35"],
+      "global:mkc_rented": ["30"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["347"],
+      "global:rsl_rented": ["12"]
+    }]},
+    {"year:2006": [{
+      "global:total_stock": ["438"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["30"],
+      "global:rsl_shared_ownership": ["35"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["361"],
+      "global:rsl_rented": ["12"]
+    }]}
+  ],
+  "imd:imd-2004": ["8.6"],
+  "global:numberOfArsonFires": [{
+    "year:2003/4": ["2"],
+    "year:2001/2": ["2"],
+    "year:2006/7": ["0"],
+    "year:2011/12": ["0"],
+    "year:2005/6": ["1"],
+    "year:2002/3": ["0"],
+    "year:2007/8": ["1"],
+    "year:2009/10": ["0"],
+    "year:2004/5": ["0"],
+    "year:2012/13": ["0"],
+    "year:2010/11": ["0"],
+    "year:2008/9": ["0"]
+  }],
+  "demographics:population-2011": ["1047"],
+  "imd:imd-2007": ["8.4"]
+}

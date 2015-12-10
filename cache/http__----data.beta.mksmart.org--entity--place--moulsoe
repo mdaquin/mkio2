@@ -1,0 +1,471 @@
+{
+  "global:numberOfCriminalDamages": [{
+    "year:2006/7": ["3"],
+    "year:2011/12": ["2"],
+    "year:2005/6": ["5"],
+    "year:2007/8": ["4"],
+    "year:2009/10": ["4"],
+    "year:2013/14": ["2"],
+    "year:2012/13": ["1"],
+    "year:2010/11": ["1"],
+    "year:2008/9": ["1"]
+  }],
+  "demographics:male-population-2011": ["154"],
+  "global:location": ["http://data.beta.mksmart.org/entity/place/moulsoe"],
+  "global:numberOfRobberies": [{
+    "year:2006/7": ["0"],
+    "year:2011/12": ["0"],
+    "year:2005/6": ["0"],
+    "year:2007/8": ["0"],
+    "year:2009/10": ["0"],
+    "year:2013/14": ["0"],
+    "year:2012/13": ["0"],
+    "year:2010/11": ["0"],
+    "year:2008/9": ["0"]
+  }],
+  "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/linked-data/cube#Observation"],
+  "global:nbCrimes": [{
+    "year:2006/7": ["15"],
+    "year:2011/12": ["22"],
+    "year:2005/6": ["33"],
+    "year:2007/8": ["22"],
+    "year:2009/10": ["15"],
+    "year:2013/14": ["9"],
+    "year:2012/13": ["15"],
+    "year:2010/11": ["31"],
+    "year:2008/9": ["17"]
+  }],
+  "demographics:female-population-2011": ["164"],
+  "global:numberOfViolencesAgainstThePerson": [{
+    "year:2006/7": ["3"],
+    "year:2011/12": ["1"],
+    "year:2005/6": ["2"],
+    "year:2007/8": ["3"],
+    "year:2009/10": ["2"],
+    "year:2013/14": ["1"],
+    "year:2012/13": ["1"],
+    "year:2010/11": ["8"],
+    "year:2008/9": ["3"]
+  }],
+  "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/linked-data/cube#Observation"],
+  "imd:imd-2010": ["14.2"],
+  "global:populationProjection": [{
+    "year:2012": ["300"],
+    "year:2013": ["300"],
+    "year:2014": ["300"],
+    "year:2015": ["300"],
+    "year:2016": ["300"],
+    "year:2017": ["300"],
+    "year:2018": ["300"],
+    "year:2011": ["300"],
+    "year:2019": ["300"],
+    "year:2020": ["300"],
+    "year:2021": ["300"]
+  }],
+  "global:photoLocatedIn": [
+    {
+      "global:isRelatedTo": [
+        "grylls",
+        "buckinghamshire",
+        "stained glass",
+        "burlison",
+        "moulsoe"
+      ],
+      "geo:lat": ["52.066982"],
+      "dc:creator": [{
+        "global:name": ["Peter Moore"],
+        "dc:identifier": ["99168983@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7509/15642661179_3f5b489a1d_t.jpg"],
+      "dc:description": ["BKM_18_03. South aisle east. Detail.\nNativity.\nBurlison &amp; Grylls, n.d. [RE. BSG.]"],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.678781"],
+      "social:url": ["https://www.flickr.com/photos/99168983@N00/15642661179/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/moulsoe"],
+      "social:views": ["55"],
+      "dc:date": ["Fri Nov 14 16:21:14 GMT 2014"],
+      "dc:identifier": ["15642661179"],
+      "dc:title": ["St Mary, Moulsoe: south aisle east, detail"]
+    },
+    {
+      "global:isRelatedTo": [
+        "grylls",
+        "buckinghamshire",
+        "stained glass",
+        "burlison",
+        "moulsoe"
+      ],
+      "geo:lat": ["52.066982"],
+      "dc:creator": [{
+        "global:name": ["Peter Moore"],
+        "dc:identifier": ["99168983@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5610/15642662149_b57e04b09e_t.jpg"],
+      "dc:description": ["BKM_18_02. Chancel south. 2 lights, detail.\nSt Lucy, martyr, kneeling at prie-dieu in a sanctuary with sanctuary lamp and candle, visited by the Holy Spirit; her eyes on a plate beneath her. \nIM Lucia H +08.09.1894.\nQuotation from Psalm 36:9 a play on name of Lucy. Allusion to story of suitor praising the beauty of her eyes, she replied 'If thine eye offend thee, pluck it out and cast it from thee', and then tore her eyes out and gave them to him; her refusal to countenance him led to his subsequently denouncing her and she was martyred by a sword thrust through her throat.\nBurlison &amp; Grylls, 1894. [AMA. RE. BSG.]"],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.678781"],
+      "social:url": ["https://www.flickr.com/photos/99168983@N00/15642662149/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/moulsoe"],
+      "social:views": ["92"],
+      "dc:date": ["Fri Nov 14 16:13:19 GMT 2014"],
+      "dc:identifier": ["15642662149"],
+      "dc:title": ["St Mary, Moulsoe: chancel south, detail"]
+    },
+    {
+      "global:isRelatedTo": [
+        "buckinghamshire",
+        "moulsoe"
+      ],
+      "geo:lat": ["52.066982"],
+      "dc:creator": [{
+        "global:name": ["Peter Moore"],
+        "dc:identifier": ["99168983@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "global:thumbnail": ["https://farm9.static.flickr.com/8611/15826597741_ba14eb62b1_t.jpg"],
+      "dc:description": ["BKM_18. St Mary, Moulsoe, exterior from south east."],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.678781"],
+      "social:url": ["https://www.flickr.com/photos/99168983@N00/15826597741/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/moulsoe"],
+      "social:views": ["70"],
+      "dc:date": ["Fri Nov 14 16:40:12 GMT 2014"],
+      "dc:identifier": ["15826597741"],
+      "dc:title": ["St Mary, Moulsoe"]
+    },
+    {
+      "global:isRelatedTo": [
+        "grylls",
+        "buckinghamshire",
+        "stained glass",
+        "burlison",
+        "moulsoe"
+      ],
+      "geo:lat": ["52.066982"],
+      "dc:creator": [{
+        "global:name": ["Peter Moore"],
+        "dc:identifier": ["99168983@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5611/15209045893_f984f340bd_t.jpg"],
+      "dc:description": ["BKM_18_02. Chancel south. 2 lights, detail.\nSt Lucy, martyr, kneeling at prie-dieu in a sanctuary with sanctuary lamp and candle, visited by the Holy Spirit; her eyes on a plate beneath her. \nIM Lucia H +08.09.1894.\nQuotation from Psalm 36:9 a play on name of Lucy. Allusion to story of suitor praising the beauty of her eyes, she replied 'If thine eye offend thee, pluck it out and cast it from thee', and then tore her eyes out and gave them to him; her refusal to countenance him led to his subsequently denouncing her and she was martyred by a sword thrust through her throat.\nBurlison &amp; Grylls, 1894. [AMA. RE. BSG.]"],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.678781"],
+      "social:url": ["https://www.flickr.com/photos/99168983@N00/15209045893/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/moulsoe"],
+      "social:views": ["82"],
+      "dc:date": ["Fri Nov 14 16:13:57 GMT 2014"],
+      "dc:identifier": ["15209045893"],
+      "dc:title": ["St Mary, Moulsoe: chancel south, detail"]
+    },
+    {
+      "global:isRelatedTo": [
+        "grylls",
+        "buckinghamshire",
+        "stained glass",
+        "burlison",
+        "moulsoe"
+      ],
+      "geo:lat": ["52.066982"],
+      "dc:creator": [{
+        "global:name": ["Peter Moore"],
+        "dc:identifier": ["99168983@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7566/15208510494_c20f2bed4d_t.jpg"],
+      "dc:description": ["BKM_18_01. East window. 3 lights plus wheel.\nCinquefoil tracery wheel: Paschal Lamb with banner standing on dressed altar &quot;Ecce Agnus Dei&quot;, surrounded by 1  praying, 2 musical and 2 censing angels. Three plain glazed lancets below.\nWindow remodelled by William Burges, 1861:&quot;the E window is unmistakeably Burges - thick plate tracery with a wheel over three lancets and punched through the wall.&quot;(PV)\nBurlison &amp; Grylls, 1897 [PV]"],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.678781"],
+      "social:url": ["https://www.flickr.com/photos/99168983@N00/15208510494/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/moulsoe"],
+      "social:views": ["83"],
+      "dc:date": ["Fri Nov 14 16:09:01 GMT 2014"],
+      "dc:identifier": ["15208510494"],
+      "dc:title": ["St Mary, Moulsoe: east window configuration"]
+    },
+    {
+      "global:isRelatedTo": [
+        "buckinghamshire",
+        "moulsoe"
+      ],
+      "geo:lat": ["52.066982"],
+      "dc:creator": [{
+        "global:name": ["Peter Moore"],
+        "dc:identifier": ["99168983@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5605/15209047883_0cfa51ac6e_t.jpg"],
+      "dc:description": ["BKM_18. St Mary, Moulsoe, interior."],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.678781"],
+      "social:url": ["https://www.flickr.com/photos/99168983@N00/15209047883/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/moulsoe"],
+      "social:views": ["74"],
+      "dc:date": ["Fri Nov 14 16:22:55 GMT 2014"],
+      "dc:identifier": ["15209047883"],
+      "dc:title": ["St Mary, Moulsoe"]
+    },
+    {
+      "global:isRelatedTo": [
+        "grylls",
+        "buckinghamshire",
+        "stained glass",
+        "burlison",
+        "moulsoe"
+      ],
+      "geo:lat": ["52.066982"],
+      "dc:creator": [{
+        "global:name": ["Peter Moore"],
+        "dc:identifier": ["99168983@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7554/15828481945_893c87d437_t.jpg"],
+      "dc:description": ["BKM_18_03. South aisle east. 4 lights + tracery.\nTracery: against backcloth, Virgin and crowned infant flanked by censing angels, 'natus ex Virgine Maria'. Under canopies: St Anne teaching St Mary; Annunciation; Nativity; Death of Virgin Mary. Subscript 4 Latin Beatitudes. Dedicatory panel above Virgin's bedhead in right hand light.\nDedicatory panel 'Ex Caritate vestra / Orate Pro animabus / AAM WJ ESL'.\nBurlison &amp; Grylls, n.d. [RE. BSG.]"],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.678781"],
+      "social:url": ["https://www.flickr.com/photos/99168983@N00/15828481945/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/moulsoe"],
+      "social:views": ["93"],
+      "dc:date": ["Fri Nov 14 16:17:52 GMT 2014"],
+      "dc:identifier": ["15828481945"],
+      "dc:title": ["St Mary, Moulsoe: south aisle east"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/rob_arthur/17090942368/"],
+      "geo:long": ["-0.67137"],
+      "geo:lat": ["52.07658"],
+      "dc:creator": [{
+        "global:name": ["Robert Arthur"],
+        "dc:identifier": ["52470381@N07"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/moulsoe"],
+      "social:views": ["0"],
+      "dc:date": ["Sun Apr 26 18:12:59 BST 2015"],
+      "dc:identifier": ["17090942368"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7714/17090942368_d22121ec67_t.jpg"],
+      "dc:title": ["Bedfordshire fields 2"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/rob_arthur/17092173489/"],
+      "geo:long": ["-0.67137"],
+      "geo:lat": ["52.07658"],
+      "dc:creator": [{
+        "global:name": ["Robert Arthur"],
+        "dc:identifier": ["52470381@N07"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/moulsoe"],
+      "social:views": ["0"],
+      "dc:date": ["Sun Apr 26 17:43:05 BST 2015"],
+      "dc:identifier": ["17092173489"],
+      "global:thumbnail": ["https://farm9.static.flickr.com/8744/17092173489_d8a4765b7a_t.jpg"],
+      "dc:title": ["Bedfordshire fields"]
+    },
+    {
+      "global:isRelatedTo": [
+        "grylls",
+        "buckinghamshire",
+        "stained glass",
+        "burlison",
+        "moulsoe"
+      ],
+      "geo:lat": ["52.066982"],
+      "dc:creator": [{
+        "global:name": ["Peter Moore"],
+        "dc:identifier": ["99168983@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7559/15826597141_77ee0000f1_t.jpg"],
+      "dc:description": ["BKM_18_01. East window. 3 lights plus wheel.\nCinquefoil tracery wheel: Paschal Lamb with banner standing on dressed altar &quot;Ecce Agnus Dei&quot;, surrounded by 1  praying, 2 musical and 2 censing angels. Three plain glazed lancets below.\nWindow remodelled by William Burges, 1861:&quot;the E window is unmistakeably Burges - thick plate tracery with a wheel over three lancets and punched through the wall.&quot;(PV)\nBurlison &amp; Grylls, 1897 [PV]"],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.678781"],
+      "social:url": ["https://www.flickr.com/photos/99168983@N00/15826597141/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/moulsoe"],
+      "social:views": ["166"],
+      "dc:date": ["Fri Nov 14 16:11:23 GMT 2014"],
+      "dc:identifier": ["15826597141"],
+      "dc:title": ["St Mary, Moulsoe: east window"]
+    },
+    {
+      "global:isRelatedTo": [
+        "grylls",
+        "buckinghamshire",
+        "stained glass",
+        "burlison",
+        "moulsoe"
+      ],
+      "geo:lat": ["52.066982"],
+      "dc:creator": [{
+        "global:name": ["Peter Moore"],
+        "dc:identifier": ["99168983@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5615/15828482845_9997e85741_t.jpg"],
+      "dc:description": ["BKM_18_02. Chancel south. 2 lights.\nChrist in Majesty, holding book with inscription 'In Luce Tua videbimus lucem', seated on rainbow above a globe teeming with life, sun, moon and stars below; St Lucy, martyr, kneeling at prie-dieu in a sanctuary with sanctuary lamp and candle, visited by the Holy Spirit; her eyes on a plate beneath her. \nIM Lucia H +08.09.1894.\nQuotation from Psalm 36:9 a play on name of Lucy. Allusion to story of suitor praising the beauty of her eyes, she replied 'If thine eye offend thee, pluck it out and cast it from thee', and then tore her eyes out and gave them to him; her refusal to countenance him led to his subsequently denouncing her and she was martyred by a sword thrust through her throat.\nBurlison &amp; Grylls, 1894. [AMA. RE. BSG.]"],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.678781"],
+      "social:url": ["https://www.flickr.com/photos/99168983@N00/15828482845/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/moulsoe"],
+      "social:views": ["111"],
+      "dc:date": ["Fri Nov 14 16:10:32 GMT 2014"],
+      "dc:identifier": ["15828482845"],
+      "dc:title": ["St Mary, Moulsoe: chancel south"]
+    }
+  ],
+  "global:numberOfBurglaries": [{
+    "year:2006/7": ["0"],
+    "year:2011/12": ["0"],
+    "year:2005/6": ["0"],
+    "year:2007/8": ["3"],
+    "year:2009/10": ["0"],
+    "year:2013/14": ["0"],
+    "year:2012/13": ["0"],
+    "year:2010/11": ["1"],
+    "year:2008/9": ["0"]
+  }],
+  "global:ethnicity": [{
+    "global:white:_gypsy_or_irish_traveller": ["1"],
+    "global:white:_irish": ["5"],
+    "global:black_and_minority_ethnic_group:_total": ["35"],
+    "global:multiple_ethnic_group:_other_mixed": ["3"],
+    "global:multiple_ethnic_group:_white_and_black_african": ["0"],
+    "global:multiple_ethnic_group:_white_and_asian": ["2"],
+    "global:other_ethnic_group:_arab": ["0"],
+    "global:asian_british:_chinese": ["2"],
+    "global:asian_british:_other_asian": ["1"],
+    "global:black_british:_caribbean": ["0"],
+    "global:all_usual_residents": ["318"],
+    "global:asian_british:_bangladeshi": ["0"],
+    "global:asian_british:_pakistani": ["3"],
+    "global:asian_british:_indian": ["2"],
+    "global:multiple_ethnic_group:_white_and_black_caribbean": ["0"],
+    "global:black_british:_other_black": ["0"],
+    "global:british": ["283"],
+    "global:other_ethnic_group:_any_other_ethnic_group": ["0"],
+    "global:white:_other_white": ["12"],
+    "global:black_british:_african": ["4"]
+  }],
+  "global:tenure": [
+    {"year:2010": [{
+      "global:total_stock": ["102"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["17"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["74"],
+      "global:rsl_rented": ["11"]
+    }]},
+    {"year:2008": [{
+      "global:total_stock": ["102"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["17"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["74"],
+      "global:rsl_rented": ["11"]
+    }]},
+    {"year:2005": [{
+      "global:total_stock": ["102"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["17"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["74"],
+      "global:rsl_rented": ["11"]
+    }]},
+    {"year:2004": [{
+      "global:total_stock": ["102"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["17"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["74"],
+      "global:rsl_rented": ["11"]
+    }]},
+    {"year:2009": [{
+      "global:total_stock": ["102"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["17"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["74"],
+      "global:rsl_rented": ["11"]
+    }]},
+    {"year:2012": [{
+      "global:total_stock": ["103"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["17"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["75"],
+      "global:rsl_rented": ["11"]
+    }]},
+    {"year:2007": [{
+      "global:total_stock": ["102"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["17"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["74"],
+      "global:rsl_rented": ["11"]
+    }]},
+    {"year:2014": [{
+      "global:total_stock": ["103"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["17"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["75"],
+      "global:rsl_rented": ["11"]
+    }]},
+    {"year:2006": [{
+      "global:total_stock": ["102"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["17"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["74"],
+      "global:rsl_rented": ["11"]
+    }]},
+    {"year:2011": [{
+      "global:total_stock": ["103"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["17"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["75"],
+      "global:rsl_rented": ["11"]
+    }]},
+    {"year:2013": [{
+      "global:total_stock": ["103"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["17"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["75"],
+      "global:rsl_rented": ["11"]
+    }]}
+  ],
+  "imd:imd-2004": ["12.6"],
+  "global:numberOfArsonFires": [{
+    "year:2003/4": ["3"],
+    "year:2001/2": ["4"],
+    "year:2006/7": ["0"],
+    "year:2011/12": ["0"],
+    "year:2005/6": ["1"],
+    "year:2002/3": ["2"],
+    "year:2007/8": ["2"],
+    "year:2009/10": ["1"],
+    "year:2004/5": ["1"],
+    "year:2012/13": ["2"],
+    "year:2010/11": ["0"],
+    "year:2008/9": ["1"]
+  }],
+  "demographics:population-2011": ["318"],
+  "imd:imd-2007": ["12.3"]
+}

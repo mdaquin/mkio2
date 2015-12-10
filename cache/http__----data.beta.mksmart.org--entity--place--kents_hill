@@ -1,0 +1,690 @@
+{
+  "global:numberOfCriminalDamages": [{
+    "year:2006/7": ["30"],
+    "year:2011/12": ["14"],
+    "year:2005/6": ["28"],
+    "year:2007/8": ["30"],
+    "year:2009/10": ["17"],
+    "year:2013/14": ["10"],
+    "year:2012/13": ["12"],
+    "year:2010/11": ["24"],
+    "year:2008/9": ["27"]
+  }],
+  "demographics:male-population-2011": ["1238"],
+  "global:location": ["http://data.beta.mksmart.org/entity/place/kents_hill"],
+  "global:numberOfRobberies": [{
+    "year:2006/7": ["5"],
+    "year:2011/12": ["2"],
+    "year:2005/6": ["0"],
+    "year:2007/8": ["1"],
+    "year:2009/10": ["3"],
+    "year:2013/14": ["0"],
+    "year:2012/13": ["3"],
+    "year:2010/11": ["1"],
+    "year:2008/9": ["2"]
+  }],
+  "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/linked-data/cube#Observation"],
+  "global:nbCrimes": [{
+    "year:2006/7": ["206"],
+    "year:2011/12": ["104"],
+    "year:2005/6": ["157"],
+    "year:2007/8": ["127"],
+    "year:2009/10": ["135"],
+    "year:2013/14": ["100"],
+    "year:2012/13": ["99"],
+    "year:2010/11": ["118"],
+    "year:2008/9": ["162"]
+  }],
+  "demographics:female-population-2011": ["1398"],
+  "global:numberOfViolencesAgainstThePerson": [{
+    "year:2006/7": ["49"],
+    "year:2011/12": ["19"],
+    "year:2005/6": ["39"],
+    "year:2007/8": ["31"],
+    "year:2009/10": ["29"],
+    "year:2013/14": ["19"],
+    "year:2012/13": ["20"],
+    "year:2010/11": ["22"],
+    "year:2008/9": ["43"]
+  }],
+  "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/linked-data/cube#Observation"],
+  "imd:imd-2010": ["8.5"],
+  "global:populationProjection": [{
+    "year:2012": ["2600"],
+    "year:2013": ["2600"],
+    "year:2014": ["2600"],
+    "year:2015": ["2700"],
+    "year:2016": ["2700"],
+    "year:2017": ["2650"],
+    "year:2018": ["2650"],
+    "year:2011": ["2650"],
+    "year:2019": ["2650"],
+    "year:2020": ["2600"],
+    "year:2021": ["2600"]
+  }],
+  "global:photoLocatedIn": [
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/drbello/19873761314/"],
+      "geo:long": ["-0.682587"],
+      "geo:lat": ["52.02383"],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["78964972@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/kents_hill"],
+      "social:views": [
+        "2",
+        "1"
+      ],
+      "dc:date": ["Tue Aug 11 20:11:40 BST 2015"],
+      "dc:identifier": ["19873761314"],
+      "global:thumbnail": ["https://farm1.static.flickr.com/490/19873761314_c88fff9f5a_t.jpg"],
+      "dc:title": ["IMG_20150811_201138"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:isRelatedTo": ["robin"],
+      "social:url": ["https://www.flickr.com/photos/swamplife56/15013692319/"],
+      "geo:long": ["-0.691903"],
+      "geo:lat": ["52.024883"],
+      "dc:creator": [{
+        "global:name": ["Keith"],
+        "dc:identifier": ["10966094@N03"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/kents_hill"],
+      "social:views": ["164"],
+      "dc:date": ["Wed Sep 10 14:52:06 BST 2014"],
+      "dc:identifier": ["15013692319"],
+      "global:thumbnail": ["https://farm4.static.flickr.com/3838/15013692319_247a6acac3_t.jpg"],
+      "dc:title": ["Robin"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:isRelatedTo": ["goldfinch"],
+      "social:url": ["https://www.flickr.com/photos/swamplife56/15013692299/"],
+      "geo:long": ["-0.691903"],
+      "geo:lat": ["52.024883"],
+      "dc:creator": [{
+        "global:name": ["Keith"],
+        "dc:identifier": ["10966094@N03"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/kents_hill"],
+      "social:views": ["115"],
+      "dc:date": ["Wed Sep 10 14:58:54 BST 2014"],
+      "dc:identifier": ["15013692299"],
+      "global:thumbnail": ["https://farm4.static.flickr.com/3923/15013692299_a4c918827e_t.jpg"],
+      "dc:title": ["Goldfinch"]
+    },
+    {
+      "global:isRelatedTo": ["frog"],
+      "geo:lat": ["52.024918"],
+      "dc:creator": [{
+        "global:name": ["Keith"],
+        "dc:identifier": ["10966094@N03"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5579/15134710719_9b87d95124_t.jpg"],
+      "dc:description": ["Nature never fails to amaze me. This is one of two frogs from my pond, that decided to climb up my Honeysuckle bush."],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.692099"],
+      "social:url": ["https://www.flickr.com/photos/swamplife56/15134710719/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/kents_hill"],
+      "social:views": ["220"],
+      "dc:date": ["Mon Sep 22 14:51:03 BST 2014"],
+      "dc:identifier": ["15134710719"],
+      "dc:title": ["Frog"]
+    },
+    {
+      "global:isRelatedTo": [
+        "strava",
+        "pinnacle",
+        "mountain bike",
+        "ramin one",
+        "ramin",
+        "mtb",
+        "pistonheads"
+      ],
+      "geo:lat": ["52.02111"],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["44987310@N04"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "global:thumbnail": ["https://farm1.static.flickr.com/284/18640178664_ebe61c2ed3_t.jpg"],
+      "dc:description": ["My shiny new Pinnacle Ramin halfway through my first commute on it today.\nVery happy so far!"],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.687778"],
+      "social:url": ["https://www.flickr.com/photos/v15ben/18640178664/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/kents_hill"],
+      "social:views": [
+        "71",
+        "37",
+        "57",
+        "77",
+        "62",
+        "75",
+        "74",
+        "79",
+        "67"
+      ],
+      "dc:date": ["Mon Jun 29 07:25:41 BST 2015"],
+      "dc:identifier": ["18640178664"],
+      "dc:title": ["First Commute on the New Bike."]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/drbello/19875514223/"],
+      "geo:long": ["-0.682506"],
+      "geo:lat": ["52.024326"],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["78964972@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/kents_hill"],
+      "social:views": [
+        "3",
+        "1"
+      ],
+      "dc:date": ["Tue Aug 11 20:45:09 BST 2015"],
+      "dc:identifier": ["19875514223"],
+      "global:thumbnail": ["https://farm1.static.flickr.com/555/19875514223_99761cafae_t.jpg"],
+      "dc:title": ["IMG_20150811_204507"]
+    },
+    {
+      "global:isRelatedTo": [
+        "design",
+        "table",
+        "circles",
+        "shine",
+        "metal",
+        "metallic object"
+      ],
+      "geo:lat": ["52.01809"],
+      "dc:creator": [{
+        "global:name": ["Jim Goodyear"],
+        "dc:identifier": ["60739120@N02"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5630/22978496481_44182662a1_t.jpg"],
+      "dc:description": ["IMG_0553 SOOC - N.B. This image is NOT in Black &amp; White.\n\n<b>I recommend clicking on the expansion arrows icon (top right corner) to go into the Lightbox for maximum effect.<\/b> \nDon't use or reproduce this image on Websites/Blog or any other media without my explicit permission.     \n<i> � All Rights Reserved - Jim Goodyear 2015.<\/i>\n\n<b>Sign the Petition to Bring old Flickr back and get your friends to sign!\n\n<a href=\"http://petitions.moveon.org/sign/change-flickr-back\" rel=\"nofollow\">petitions.moveon.org/sign/change-flickr-back<\/a>\n\nTrying to reach 15,000 signatures so we can have someone hand deliver the petition to Yahoo's CEO.<\/b>"],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.68265"],
+      "social:url": ["https://www.flickr.com/photos/unclebobjim/22978496481/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/kents_hill"],
+      "social:views": [
+        "343",
+        "188",
+        "331",
+        "295",
+        "288",
+        "44",
+        "317",
+        "233",
+        "256",
+        "248",
+        "134",
+        "110",
+        "312",
+        "322",
+        "201",
+        "224",
+        "238",
+        "209",
+        "152",
+        "244",
+        "260",
+        "87",
+        "307",
+        "170",
+        "249",
+        "276",
+        "220",
+        "358"
+      ],
+      "dc:date": ["Sat Apr 18 19:58:59 BST 2015"],
+      "dc:identifier": ["22978496481"],
+      "dc:title": ["Engineered Table Finish"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/unclebobjim/22346158543/"],
+      "geo:long": ["-0.683117"],
+      "geo:lat": ["52.020626"],
+      "dc:creator": [{
+        "global:name": ["Jim Goodyear"],
+        "dc:identifier": ["60739120@N02"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/kents_hill"],
+      "social:views": [
+        "71",
+        "142",
+        "57",
+        "48",
+        "127",
+        "66",
+        "77",
+        "117",
+        "99",
+        "123",
+        "86",
+        "84",
+        "136",
+        "108",
+        "101",
+        "82",
+        "91",
+        "52",
+        "113",
+        "87",
+        "98",
+        "76",
+        "35",
+        "80",
+        "85",
+        "89"
+      ],
+      "dc:date": ["Sat Apr 18 19:49:50 BST 2015"],
+      "dc:identifier": ["22346158543"],
+      "dc:description": [
+        "IMG_0552GPPfxRlIlln\n\n<b>I recommend clicking on the expansion arrows icon (top right corner) to go into the Lightbox for maximum effect.<\/b> \nDon't use or reproduce this image on Websites/Blog or any other media without my explicit permission.     \n<i> � All Rights Reserved - Jim Goodyear 2015.<\/i>\n\n<b>Sign the Petition to Bring old Flickr back and get your friends to sign!\n\n<a href=\"http://petitions.moveon.org/sign/change-flickr-back\" rel=\"nofollow\">petitions.moveon.org/sign/change-flickr-back<\/a>\n\nTrying to reach 15,000 signatures so we can have someone hand deliver the petition to Yahoo's CEO.<\/b>",
+        "IMG_0552GPPfxRlIlln\n\n<b>I recommend clicking on the expansion arrows icon (top right corner) to go into the Lightbox for maximum effect.<\/b> \nDon't use or reproduce this image on Websites/Blog or any other media without my explicit permission.     \n<i> � All Rights Reserved - Jim Goodyear 2015.<\/i>\n\n<b>Sign the Petition to Bring old Flickr back and get your friends to sign!\n<a href=\"http://petitions.moveon.org/sign/change-flickr-back\" rel=\"nofollow\">petitions.moveon.org/sign/change-flickr-back<\/a>\nTrying to reach 15,000 signatures so we can have someone hand deliver the petition to Yahoo's CEO.<\/b>"
+      ],
+      "global:thumbnail": ["https://farm1.static.flickr.com/711/22346158543_645185ca7b_t.jpg"],
+      "dc:title": ["Walton High Cafe"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:isRelatedTo": ["blue tit"],
+      "social:url": ["https://www.flickr.com/photos/swamplife56/15013692139/"],
+      "geo:long": ["-0.691903"],
+      "geo:lat": ["52.024883"],
+      "dc:creator": [{
+        "global:name": ["Keith"],
+        "dc:identifier": ["10966094@N03"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/kents_hill"],
+      "social:views": ["185"],
+      "dc:date": ["Wed Sep 10 11:43:31 BST 2014"],
+      "dc:identifier": ["15013692139"],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5587/15013692139_5706970cdd_t.jpg"],
+      "dc:title": ["Blue Tit"]
+    },
+    {
+      "global:isRelatedTo": ["hoverfly, volucella zonaria"],
+      "geo:lat": ["52.024883"],
+      "dc:creator": [{
+        "global:name": ["Keith"],
+        "dc:identifier": ["10966094@N03"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "global:thumbnail": ["https://farm4.static.flickr.com/3877/15092481217_06a84cb263_t.jpg"],
+      "dc:description": ["She was BIG."],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.691903"],
+      "social:url": ["https://www.flickr.com/photos/swamplife56/15092481217/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/kents_hill"],
+      "social:views": ["180"],
+      "dc:date": ["Thu Sep 18 15:31:53 BST 2014"],
+      "dc:identifier": ["15092481217"],
+      "dc:title": ["Hoverfly, Volucella zonaria"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:isRelatedTo": ["robin"],
+      "social:url": ["https://www.flickr.com/photos/swamplife56/15325456746/"],
+      "geo:long": ["-0.692099"],
+      "geo:lat": ["52.024918"],
+      "dc:creator": [{
+        "global:name": ["Keith"],
+        "dc:identifier": ["10966094@N03"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/kents_hill"],
+      "social:views": ["76"],
+      "dc:date": ["Tue Sep 23 10:17:55 BST 2014"],
+      "dc:identifier": ["15325456746"],
+      "global:thumbnail": ["https://farm4.static.flickr.com/3856/15325456746_56c64fc7b0_t.jpg"],
+      "dc:title": ["Robin"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:isRelatedTo": ["house sparrow"],
+      "social:url": ["https://www.flickr.com/photos/swamplife56/15325456836/"],
+      "geo:long": ["-0.692099"],
+      "geo:lat": ["52.024918"],
+      "dc:creator": [{
+        "global:name": ["Keith"],
+        "dc:identifier": ["10966094@N03"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/kents_hill"],
+      "social:views": ["133"],
+      "dc:date": ["Tue Sep 23 14:00:02 BST 2014"],
+      "dc:identifier": ["15325456836"],
+      "global:thumbnail": ["https://farm4.static.flickr.com/3912/15325456836_65a77a90da_t.jpg"],
+      "dc:title": ["House Sparrow"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:isRelatedTo": ["goldfinch"],
+      "social:url": ["https://www.flickr.com/photos/swamplife56/15325456996/"],
+      "geo:long": ["-0.692099"],
+      "geo:lat": ["52.024918"],
+      "dc:creator": [{
+        "global:name": ["Keith"],
+        "dc:identifier": ["10966094@N03"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/kents_hill"],
+      "social:views": ["140"],
+      "dc:date": ["Tue Sep 23 17:00:29 BST 2014"],
+      "dc:identifier": ["15325456996"],
+      "global:thumbnail": ["https://farm4.static.flickr.com/3885/15325456996_be047ddd1c_t.jpg"],
+      "dc:title": ["Goldfinch"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:isRelatedTo": ["goldfinch"],
+      "social:url": ["https://www.flickr.com/photos/swamplife56/15013692209/"],
+      "geo:long": ["-0.691903"],
+      "geo:lat": ["52.024883"],
+      "dc:creator": [{
+        "global:name": ["Keith"],
+        "dc:identifier": ["10966094@N03"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/kents_hill"],
+      "social:views": ["100"],
+      "dc:date": ["Wed Sep 10 11:45:11 BST 2014"],
+      "dc:identifier": ["15013692209"],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5574/15013692209_ea4308af36_t.jpg"],
+      "dc:title": ["Goldfinch"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:isRelatedTo": ["blue tit"],
+      "social:url": ["https://www.flickr.com/photos/swamplife56/15013692029/"],
+      "geo:long": ["-0.69201"],
+      "geo:lat": ["52.024944"],
+      "dc:creator": [{
+        "global:name": ["Keith"],
+        "dc:identifier": ["10966094@N03"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/kents_hill"],
+      "social:views": ["226"],
+      "dc:date": ["Wed Sep 10 11:43:04 BST 2014"],
+      "dc:identifier": ["15013692029"],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5557/15013692029_663e1b6ec8_t.jpg"],
+      "dc:title": ["Blue Tit"]
+    },
+    {
+      "global:isRelatedTo": ["comma"],
+      "geo:lat": ["52.024944"],
+      "dc:creator": [{
+        "global:name": ["Keith"],
+        "dc:identifier": ["10966094@N03"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "global:thumbnail": ["https://farm4.static.flickr.com/3890/14938542130_cbf8235bcd_t.jpg"],
+      "dc:description": ["Settled for a while on one of the bird feeders in the garden."],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.69201"],
+      "social:url": ["https://www.flickr.com/photos/swamplife56/14938542130/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/kents_hill"],
+      "social:views": ["95"],
+      "dc:date": ["Sun Aug 31 11:38:20 BST 2014"],
+      "dc:identifier": ["14938542130"],
+      "dc:title": ["Comma"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:isRelatedTo": ["goldfinch"],
+      "social:url": ["https://www.flickr.com/photos/swamplife56/15015806873/"],
+      "geo:long": ["-0.692056"],
+      "geo:lat": ["52.02492"],
+      "dc:creator": [{
+        "global:name": ["Keith"],
+        "dc:identifier": ["10966094@N03"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/kents_hill"],
+      "social:views": ["115"],
+      "dc:date": ["Tue Sep 23 17:00:29 BST 2014"],
+      "dc:identifier": ["15015806873"],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5605/15015806873_58f1016dd6_t.jpg"],
+      "dc:title": ["Goldfinch"]
+    },
+    {
+      "global:isRelatedTo": ["teasel"],
+      "geo:lat": ["52.024918"],
+      "dc:creator": [{
+        "global:name": ["Keith"],
+        "dc:identifier": ["10966094@N03"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "global:thumbnail": ["https://farm3.static.flickr.com/2948/15176331118_53ae180e9c_t.jpg"],
+      "dc:description": ["A test shot with a new camera."],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.692099"],
+      "social:url": ["https://www.flickr.com/photos/swamplife56/15176331118/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/kents_hill"],
+      "social:views": ["134"],
+      "dc:date": ["Fri Sep 26 11:45:43 BST 2014"],
+      "dc:identifier": ["15176331118"],
+      "dc:title": ["Teasel"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:isRelatedTo": ["collared dove"],
+      "social:url": ["https://www.flickr.com/photos/swamplife56/15325456756/"],
+      "geo:long": ["-0.692099"],
+      "geo:lat": ["52.024918"],
+      "dc:creator": [{
+        "global:name": ["Keith"],
+        "dc:identifier": ["10966094@N03"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/kents_hill"],
+      "social:views": ["123"],
+      "dc:date": ["Tue Sep 23 10:19:51 BST 2014"],
+      "dc:identifier": ["15325456756"],
+      "global:thumbnail": ["https://farm3.static.flickr.com/2942/15325456756_dcca1ede81_t.jpg"],
+      "dc:title": ["Collared Dove"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:isRelatedTo": ["robin"],
+      "social:url": ["https://www.flickr.com/photos/swamplife56/15325456686/"],
+      "geo:long": ["-0.692099"],
+      "geo:lat": ["52.024918"],
+      "dc:creator": [{
+        "global:name": ["Keith"],
+        "dc:identifier": ["10966094@N03"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/kents_hill"],
+      "social:views": ["70"],
+      "dc:date": ["Tue Sep 23 09:05:42 BST 2014"],
+      "dc:identifier": ["15325456686"],
+      "global:thumbnail": ["https://farm4.static.flickr.com/3873/15325456686_92cc532d5b_t.jpg"],
+      "dc:title": ["Robin"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:isRelatedTo": ["goldfinch"],
+      "social:url": ["https://www.flickr.com/photos/swamplife56/15325456926/"],
+      "geo:long": ["-0.692099"],
+      "geo:lat": ["52.024918"],
+      "dc:creator": [{
+        "global:name": ["Keith"],
+        "dc:identifier": ["10966094@N03"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/kents_hill"],
+      "social:views": ["131"],
+      "dc:date": ["Tue Sep 23 13:59:15 BST 2014"],
+      "dc:identifier": ["15325456926"],
+      "global:thumbnail": ["https://farm3.static.flickr.com/2943/15325456926_508a8bd135_t.jpg"],
+      "dc:title": ["Goldfinch"]
+    }
+  ],
+  "global:numberOfBurglaries": [{
+    "year:2006/7": ["9"],
+    "year:2011/12": ["12"],
+    "year:2005/6": ["11"],
+    "year:2007/8": ["11"],
+    "year:2009/10": ["8"],
+    "year:2013/14": ["5"],
+    "year:2012/13": ["5"],
+    "year:2010/11": ["13"],
+    "year:2008/9": ["11"]
+  }],
+  "global:ethnicity": [{
+    "global:white:_gypsy_or_irish_traveller": ["1"],
+    "global:white:_irish": ["10"],
+    "global:black_and_minority_ethnic_group:_total": ["867"],
+    "global:multiple_ethnic_group:_other_mixed": ["23"],
+    "global:multiple_ethnic_group:_white_and_black_african": ["39"],
+    "global:multiple_ethnic_group:_white_and_asian": ["27"],
+    "global:other_ethnic_group:_arab": ["18"],
+    "global:asian_british:_chinese": ["78"],
+    "global:asian_british:_other_asian": ["49"],
+    "global:black_british:_caribbean": ["34"],
+    "global:all_usual_residents": ["2636"],
+    "global:asian_british:_bangladeshi": ["4"],
+    "global:asian_british:_pakistani": ["45"],
+    "global:asian_british:_indian": ["95"],
+    "global:multiple_ethnic_group:_white_and_black_caribbean": ["35"],
+    "global:black_british:_other_black": ["18"],
+    "global:british": ["1769"],
+    "global:other_ethnic_group:_any_other_ethnic_group": ["13"],
+    "global:white:_other_white": ["193"],
+    "global:black_british:_african": ["185"]
+  }],
+  "global:tenure": [
+    {"year:2006": [{
+      "global:total_stock": ["1041"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["157"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["731"],
+      "global:rsl_rented": ["153"]
+    }]},
+    {"year:2012": [{
+      "global:total_stock": ["1041"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["157"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["731"],
+      "global:rsl_rented": ["153"]
+    }]},
+    {"year:2004": [{
+      "global:total_stock": ["1041"],
+      "global:rsl_reduced_cost_sale": ["157"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["731"],
+      "global:rsl_rented": ["153"]
+    }]},
+    {"year:2008": [{
+      "global:total_stock": ["1041"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["157"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["731"],
+      "global:rsl_rented": ["153"]
+    }]},
+    {"year:2014": [{
+      "global:total_stock": ["1041"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["157"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["731"],
+      "global:rsl_rented": ["153"]
+    }]},
+    {"year:2005": [{
+      "global:total_stock": ["1041"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["157"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["731"],
+      "global:rsl_rented": ["153"]
+    }]},
+    {"year:2007": [{
+      "global:total_stock": ["1041"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["157"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["731"],
+      "global:rsl_rented": ["153"]
+    }]},
+    {"year:2013": [{
+      "global:total_stock": ["1041"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["157"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["731"],
+      "global:rsl_rented": ["153"]
+    }]},
+    {"year:2010": [{
+      "global:total_stock": ["1041"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["157"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["731"],
+      "global:rsl_rented": ["153"]
+    }]},
+    {"year:2011": [{
+      "global:total_stock": ["1041"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["157"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["731"],
+      "global:rsl_rented": ["153"]
+    }]},
+    {"year:2009": [{
+      "global:total_stock": ["1041"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["157"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["731"],
+      "global:rsl_rented": ["153"]
+    }]}
+  ],
+  "imd:imd-2004": ["9.2"],
+  "global:numberOfArsonFires": [{
+    "year:2003/4": ["4"],
+    "year:2001/2": ["5"],
+    "year:2006/7": ["3"],
+    "year:2011/12": ["2"],
+    "year:2005/6": ["5"],
+    "year:2002/3": ["4"],
+    "year:2007/8": ["4"],
+    "year:2009/10": ["1"],
+    "year:2004/5": ["17"],
+    "year:2012/13": ["1"],
+    "year:2010/11": ["4"],
+    "year:2008/9": ["0"]
+  }],
+  "demographics:population-2011": ["2636"],
+  "imd:imd-2007": ["8.9"]
+}

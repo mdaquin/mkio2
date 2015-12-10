@@ -1,0 +1,253 @@
+{
+  "global:numberOfCriminalDamages": [{
+    "year:2006/7": ["2"],
+    "year:2011/12": ["1"],
+    "year:2005/6": ["2"],
+    "year:2007/8": ["3"],
+    "year:2009/10": ["0"],
+    "year:2013/14": ["1"],
+    "year:2012/13": ["1"],
+    "year:2010/11": ["0"],
+    "year:2008/9": ["2"]
+  }],
+  "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/linked-data/cube#Observation"],
+  "demographics:male-population-2011": ["7"],
+  "global:photoLocatedIn": [
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/smcgill1969/15774116255/"],
+      "geo:long": ["-0.701895"],
+      "geo:lat": ["52.02393"],
+      "dc:creator": [{
+        "global:name": ["Simon McGill"],
+        "dc:identifier": ["68968740@N07"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/walton_hall"],
+      "social:views": ["11"],
+      "dc:date": ["Sat Jun 30 21:05:29 BST 2012"],
+      "dc:identifier": ["15774116255"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7581/15774116255_88f64263b3_t.jpg"],
+      "dc:title": ["20120630_210529"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/smcgill1969/15154685783/"],
+      "geo:long": ["-0.701895"],
+      "geo:lat": ["52.02393"],
+      "dc:creator": [{
+        "global:name": ["Simon McGill"],
+        "dc:identifier": ["68968740@N07"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/walton_hall"],
+      "social:views": ["8"],
+      "dc:date": ["Fri Jun 22 19:18:52 BST 2012"],
+      "dc:identifier": ["15154685783"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7500/15154685783_3c34f74b77_t.jpg"],
+      "dc:title": ["20120622_191852"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/smcgill1969/15750739306/"],
+      "geo:long": ["-0.701314"],
+      "geo:lat": ["52.02369"],
+      "dc:creator": [{
+        "global:name": ["Simon McGill"],
+        "dc:identifier": ["68968740@N07"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/walton_hall"],
+      "social:views": ["19"],
+      "dc:date": ["Tue Jul 09 18:58:55 BST 2013"],
+      "dc:identifier": ["15750739306"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7480/15750739306_21916c4ab9_t.jpg"],
+      "dc:title": ["20130709_185855"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/smcgill1969/15590007040/"],
+      "geo:long": ["-0.701895"],
+      "geo:lat": ["52.02393"],
+      "dc:creator": [{
+        "global:name": ["Simon McGill"],
+        "dc:identifier": ["68968740@N07"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/walton_hall"],
+      "social:views": ["14"],
+      "dc:date": ["Thu Jul 05 19:55:53 BST 2012"],
+      "dc:identifier": ["15590007040"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7531/15590007040_2d71d77f40_t.jpg"],
+      "dc:title": ["20120705_195553"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/smcgill1969/15774445535/"],
+      "geo:long": ["-0.701314"],
+      "geo:lat": ["52.02369"],
+      "dc:creator": [{
+        "global:name": ["Simon McGill"],
+        "dc:identifier": ["68968740@N07"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/walton_hall"],
+      "social:views": ["15"],
+      "dc:date": ["Tue Jul 09 19:35:13 BST 2013"],
+      "dc:identifier": ["15774445535"],
+      "global:thumbnail": ["https://farm9.static.flickr.com/8122/15774445535_f98689ae48_t.jpg"],
+      "dc:title": ["20130709_193513-1"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/smcgill1969/15775677142/"],
+      "geo:long": ["-0.701895"],
+      "geo:lat": ["52.02393"],
+      "dc:creator": [{
+        "global:name": ["Simon McGill"],
+        "dc:identifier": ["68968740@N07"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/walton_hall"],
+      "social:views": ["8"],
+      "dc:date": ["Sat Jun 30 21:04:34 BST 2012"],
+      "dc:identifier": ["15775677142"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7505/15775677142_543ec4fcbe_t.jpg"],
+      "dc:title": ["20120630_210434"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/smcgill1969/15159790004/"],
+      "geo:long": ["-0.706334"],
+      "geo:lat": ["52.024166"],
+      "dc:creator": [{
+        "global:name": ["Simon McGill"],
+        "dc:identifier": ["68968740@N07"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/walton_hall"],
+      "social:views": ["8"],
+      "dc:date": ["Thu May 20 18:49:12 BST 2010"],
+      "dc:identifier": ["15159790004"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7468/15159790004_1b099f4a1b_t.jpg"],
+      "dc:title": ["20100520_184912"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/smcgill1969/15750406686/"],
+      "geo:long": ["-0.701534"],
+      "geo:lat": ["52.023792"],
+      "dc:creator": [{
+        "global:name": ["Simon McGill"],
+        "dc:identifier": ["68968740@N07"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/walton_hall"],
+      "social:views": ["12"],
+      "dc:date": ["Fri Jun 22 19:16:08 BST 2012"],
+      "dc:identifier": ["15750406686"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7541/15750406686_b13ee62cd0_t.jpg"],
+      "dc:title": ["20120622_191608"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/smcgill1969/15588699348/"],
+      "geo:long": ["-0.701895"],
+      "geo:lat": ["52.02393"],
+      "dc:creator": [{
+        "global:name": ["Simon McGill"],
+        "dc:identifier": ["68968740@N07"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/walton_hall"],
+      "social:views": ["8"],
+      "dc:date": ["Sat Jun 30 21:05:13 BST 2012"],
+      "dc:identifier": ["15588699348"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7486/15588699348_6a6b8c2e3c_t.jpg"],
+      "dc:title": ["20120630_210513"]
+    }
+  ],
+  "global:numberOfBurglaries": [{
+    "year:2006/7": ["0"],
+    "year:2011/12": ["0"],
+    "year:2005/6": ["0"],
+    "year:2007/8": ["0"],
+    "year:2009/10": ["0"],
+    "year:2013/14": ["0"],
+    "year:2012/13": ["0"],
+    "year:2010/11": ["0"],
+    "year:2008/9": ["0"]
+  }],
+  "global:ethnicity": [{
+    "global:white:_gypsy_or_irish_traveller": ["0"],
+    "global:white:_irish": ["0"],
+    "global:black_and_minority_ethnic_group:_total": ["2"],
+    "global:multiple_ethnic_group:_other_mixed": ["0"],
+    "global:multiple_ethnic_group:_white_and_black_african": ["0"],
+    "global:multiple_ethnic_group:_white_and_asian": ["0"],
+    "global:other_ethnic_group:_arab": ["0"],
+    "global:asian_british:_chinese": ["0"],
+    "global:asian_british:_other_asian": ["0"],
+    "global:black_british:_caribbean": ["0"],
+    "global:all_usual_residents": ["16"],
+    "global:asian_british:_bangladeshi": ["0"],
+    "global:asian_british:_pakistani": ["1"],
+    "global:asian_british:_indian": ["0"],
+    "global:multiple_ethnic_group:_white_and_black_caribbean": ["0"],
+    "global:black_british:_other_black": ["0"],
+    "global:british": ["12"],
+    "global:other_ethnic_group:_any_other_ethnic_group": ["0"],
+    "global:white:_other_white": ["0"],
+    "global:black_british:_african": ["1"]
+  }],
+  "global:numberOfRobberies": [{
+    "year:2006/7": ["0"],
+    "year:2011/12": ["0"],
+    "year:2005/6": ["0"],
+    "year:2007/8": ["0"],
+    "year:2009/10": ["0"],
+    "year:2013/14": ["0"],
+    "year:2012/13": ["1"],
+    "year:2010/11": ["0"],
+    "year:2008/9": ["0"]
+  }],
+  "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/linked-data/cube#Observation"],
+  "global:nbCrimes": [{
+    "year:2006/7": ["22"],
+    "year:2011/12": ["10"],
+    "year:2005/6": ["32"],
+    "year:2007/8": ["29"],
+    "year:2009/10": ["19"],
+    "year:2013/14": ["6"],
+    "year:2012/13": ["6"],
+    "year:2010/11": ["11"],
+    "year:2008/9": ["22"]
+  }],
+  "global:numberOfArsonFires": [{
+    "year:2003/4": ["1"],
+    "year:2001/2": ["1"],
+    "year:2006/7": ["1"],
+    "year:2011/12": ["0"],
+    "year:2005/6": ["3"],
+    "year:2002/3": ["0"],
+    "year:2007/8": ["0"],
+    "year:2009/10": ["1"],
+    "year:2004/5": ["2"],
+    "year:2012/13": ["0"],
+    "year:2010/11": ["0"],
+    "year:2008/9": ["1"]
+  }],
+  "demographics:population-2011": ["16"],
+  "demographics:female-population-2011": ["8"],
+  "global:numberOfViolencesAgainstThePerson": [{
+    "year:2006/7": ["2"],
+    "year:2011/12": ["0"],
+    "year:2005/6": ["3"],
+    "year:2007/8": ["0"],
+    "year:2009/10": ["2"],
+    "year:2013/14": ["0"],
+    "year:2012/13": ["0"],
+    "year:2010/11": ["2"],
+    "year:2008/9": ["0"]
+  }]
+}

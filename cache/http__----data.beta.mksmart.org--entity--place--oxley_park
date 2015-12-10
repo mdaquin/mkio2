@@ -1,0 +1,248 @@
+{
+  "global:numberOfCriminalDamages": [{
+    "year:2006/7": ["3"],
+    "year:2011/12": ["8"],
+    "year:2005/6": ["0"],
+    "year:2007/8": ["2"],
+    "year:2009/10": ["18"],
+    "year:2013/14": ["13"],
+    "year:2012/13": ["13"],
+    "year:2010/11": ["14"],
+    "year:2008/9": ["9"]
+  }],
+  "demographics:male-population-2011": ["1243"],
+  "global:location": ["http://data.beta.mksmart.org/entity/place/oxley_park"],
+  "global:numberOfRobberies": [{
+    "year:2006/7": ["0"],
+    "year:2011/12": ["2"],
+    "year:2005/6": ["0"],
+    "year:2007/8": ["1"],
+    "year:2009/10": ["2"],
+    "year:2013/14": ["0"],
+    "year:2012/13": ["0"],
+    "year:2010/11": ["0"],
+    "year:2008/9": ["2"]
+  }],
+  "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/linked-data/cube#Observation"],
+  "global:nbCrimes": [{
+    "year:2006/7": ["29"],
+    "year:2011/12": ["62"],
+    "year:2005/6": ["10"],
+    "year:2007/8": ["36"],
+    "year:2009/10": ["91"],
+    "year:2013/14": ["98"],
+    "year:2012/13": ["101"],
+    "year:2010/11": ["70"],
+    "year:2008/9": ["50"]
+  }],
+  "demographics:female-population-2011": ["1182"],
+  "global:numberOfViolencesAgainstThePerson": [{
+    "year:2006/7": ["1"],
+    "year:2011/12": ["15"],
+    "year:2005/6": ["0"],
+    "year:2007/8": ["7"],
+    "year:2009/10": ["34"],
+    "year:2013/14": ["19"],
+    "year:2012/13": ["9"],
+    "year:2010/11": ["19"],
+    "year:2008/9": ["5"]
+  }],
+  "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/linked-data/cube#Observation"],
+  "imd:imd-2010": ["5.4"],
+  "global:populationProjection": [{
+    "year:2012": ["2600"],
+    "year:2013": ["3000"],
+    "year:2014": ["3300"],
+    "year:2015": ["3400"],
+    "year:2016": ["3550"],
+    "year:2017": ["3650"],
+    "year:2018": ["3700"],
+    "year:2011": ["2400"],
+    "year:2019": ["3650"],
+    "year:2020": ["3650"],
+    "year:2021": ["3600"]
+  }],
+  "global:photoLocatedIn": [{
+    "global:isRelatedTo": [
+      "wood",
+      "howe park wood",
+      "blanketed",
+      "brian smithson",
+      "green",
+      "felled",
+      "tattenhoe",
+      "logs",
+      "moss",
+      "branches",
+      "england",
+      "floor"
+    ],
+    "geo:lat": ["52.001846"],
+    "dc:creator": [{
+      "global:name": ["Brian Smithson"],
+      "dc:identifier": ["15636379@N00"],
+      "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+    }],
+    "global:thumbnail": ["https://farm9.static.flickr.com/8677/15834129214_513f1a6b38_t.jpg"],
+    "dc:description": ["Strong morning sunlight picks out the individual moss leaves on these felled branches. A strong colour on a drab Winter day."],
+    "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+    "geo:long": ["-0.787925"],
+    "social:url": ["https://www.flickr.com/photos/smithser/15834129214/"],
+    "geo:location": ["http://data.beta.mksmart.org/entity/place/oxley_park"],
+    "social:views": ["218"],
+    "dc:date": ["Fri Feb 06 11:50:10 GMT 2015"],
+    "dc:identifier": ["15834129214"],
+    "dc:title": ["Moss side up"]
+  }],
+  "global:numberOfBurglaries": [{
+    "year:2006/7": ["3"],
+    "year:2011/12": ["1"],
+    "year:2005/6": ["0"],
+    "year:2007/8": ["3"],
+    "year:2009/10": ["2"],
+    "year:2013/14": ["2"],
+    "year:2012/13": ["2"],
+    "year:2010/11": ["4"],
+    "year:2008/9": ["0"]
+  }],
+  "global:ethnicity": [{
+    "global:white:_gypsy_or_irish_traveller": ["3"],
+    "global:white:_irish": ["7"],
+    "global:black_and_minority_ethnic_group:_total": ["822"],
+    "global:multiple_ethnic_group:_other_mixed": ["24"],
+    "global:multiple_ethnic_group:_white_and_black_african": ["24"],
+    "global:multiple_ethnic_group:_white_and_asian": ["37"],
+    "global:other_ethnic_group:_arab": ["15"],
+    "global:asian_british:_chinese": ["48"],
+    "global:asian_british:_other_asian": ["69"],
+    "global:black_british:_caribbean": ["44"],
+    "global:all_usual_residents": ["2425"],
+    "global:asian_british:_bangladeshi": ["7"],
+    "global:asian_british:_pakistani": ["48"],
+    "global:asian_british:_indian": ["185"],
+    "global:multiple_ethnic_group:_white_and_black_caribbean": ["43"],
+    "global:black_british:_other_black": ["13"],
+    "global:british": ["1603"],
+    "global:other_ethnic_group:_any_other_ethnic_group": ["6"],
+    "global:white:_other_white": ["87"],
+    "global:black_british:_african": ["162"]
+  }],
+  "global:tenure": [
+    {"year:2013": [{
+      "global:total_stock": ["1159"],
+      "global:rsl_reduced_cost_sale": ["13"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["150"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["907"],
+      "global:rsl_rented": ["89"]
+    }]},
+    {"year:2004": [{
+      "global:total_stock": ["0"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["0"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2008": [{
+      "global:total_stock": ["513"],
+      "global:rsl_reduced_cost_sale": ["10"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["59"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["422"],
+      "global:rsl_rented": ["22"]
+    }]},
+    {"year:2007": [{
+      "global:total_stock": ["218"],
+      "global:rsl_reduced_cost_sale": ["7"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["40"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["165"],
+      "global:rsl_rented": ["6"]
+    }]},
+    {"year:2009": [{
+      "global:total_stock": ["715"],
+      "global:rsl_reduced_cost_sale": ["13"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["88"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["578"],
+      "global:rsl_rented": ["36"]
+    }]},
+    {"year:2010": [{
+      "global:total_stock": ["830"],
+      "global:rsl_reduced_cost_sale": ["13"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["90"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["682"],
+      "global:rsl_rented": ["45"]
+    }]},
+    {"year:2014": [{
+      "global:total_stock": ["1237"],
+      "global:rsl_reduced_cost_sale": ["13"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["169"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["966"],
+      "global:rsl_rented": ["89"]
+    }]},
+    {"year:2011": [{
+      "global:total_stock": ["921"],
+      "global:rsl_reduced_cost_sale": ["13"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["120"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["741"],
+      "global:rsl_rented": ["47"]
+    }]},
+    {"year:2012": [{
+      "global:total_stock": ["996"],
+      "global:rsl_reduced_cost_sale": ["13"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["127"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["781"],
+      "global:rsl_rented": ["75"]
+    }]},
+    {"year:2006": [{
+      "global:total_stock": ["52"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["52"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2005": [{
+      "global:total_stock": ["0"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["0"],
+      "global:rsl_rented": ["0"]
+    }]}
+  ],
+  "imd:imd-2004": ["-"],
+  "global:numberOfArsonFires": [{
+    "year:2003/4": ["0"],
+    "year:2001/2": ["0"],
+    "year:2006/7": ["0"],
+    "year:2011/12": ["2"],
+    "year:2005/6": ["1"],
+    "year:2002/3": ["0"],
+    "year:2007/8": ["0"],
+    "year:2009/10": ["0"],
+    "year:2004/5": ["1"],
+    "year:2012/13": ["0"],
+    "year:2010/11": ["5"],
+    "year:2008/9": ["2"]
+  }],
+  "demographics:population-2011": ["2425"],
+  "imd:imd-2007": ["10.9"]
+}

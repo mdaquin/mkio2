@@ -1,0 +1,544 @@
+{
+  "global:numberOfCriminalDamages": [{
+    "year:2006/7": ["2"],
+    "year:2011/12": ["2"],
+    "year:2005/6": ["2"],
+    "year:2007/8": ["0"],
+    "year:2009/10": ["1"],
+    "year:2013/14": ["0"],
+    "year:2012/13": ["0"],
+    "year:2010/11": ["2"],
+    "year:2008/9": ["1"]
+  }],
+  "global:photoLocatedIn": [
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:isRelatedTo": [
+        "united kingdom",
+        "england"
+      ],
+      "social:url": ["https://www.flickr.com/photos/127314032@N07/15307644638/"],
+      "geo:long": ["-0.72835"],
+      "geo:lat": ["52.05606"],
+      "dc:creator": [{
+        "global:name": ["Jeremy Wood"],
+        "dc:identifier": ["127314032@N07"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/willen_lake"],
+      "social:views": ["19"],
+      "dc:date": ["Thu Sep 11 11:00:38 BST 2014"],
+      "dc:identifier": ["15307644638"],
+      "global:thumbnail": ["https://farm4.static.flickr.com/3931/15307644638_347a89f1a5_t.jpg"],
+      "dc:title": ["Corsa-0385.jpg"]
+    },
+    {
+      "global:isRelatedTo": [
+        "park",
+        "tree",
+        "green",
+        "landscape",
+        "summer"
+      ],
+      "geo:lat": ["52.05346"],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["22462989@N05"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5560/15160113705_c27ee809dc_t.jpg"],
+      "dc:description": ["View along the nave from the choir. Four Italian cypress trees (Cupressus sempervirens) mark the tower.\n\nThe outline of the cathedral is based on Norwich Cathedral. It was designed by Neil Higson in 1986."],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.729603"],
+      "social:url": ["https://www.flickr.com/photos/beechgarave/15160113705/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/willen_lake"],
+      "social:views": ["90"],
+      "dc:date": ["Fri Aug 22 10:29:00 BST 2014"],
+      "dc:identifier": ["15160113705"],
+      "dc:title": ["The Tree Cathedral, Milton Keynes"]
+    },
+    {
+      "global:isRelatedTo": [
+        "park",
+        "tree",
+        "green",
+        "landscape",
+        "summer"
+      ],
+      "geo:lat": ["52.05346"],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["22462989@N05"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5577/15160114725_1099586a7d_t.jpg"],
+      "dc:description": ["Cherry tree in the cloister.\n\nThe outline of the cathedral is based on Norwich Cathedral. It was designed by Neil Higson in 1986."],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.729603"],
+      "social:url": ["https://www.flickr.com/photos/beechgarave/15160114725/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/willen_lake"],
+      "social:views": ["96"],
+      "dc:date": ["Fri Aug 22 10:23:57 BST 2014"],
+      "dc:identifier": ["15160114725"],
+      "dc:title": ["The Tree Cathedral, Milton Keynes"]
+    },
+    {
+      "global:isRelatedTo": [
+        "buckinghamshire",
+        "peace pagoda milton keynes",
+        "at the end of the day",
+        "sunset",
+        "england",
+        "pagoda",
+        "great britain",
+        "united kingdom",
+        "peace pagoda",
+        "chinese temple",
+        "milton keynes",
+        "nipponzan myohoji",
+        "uk"
+      ],
+      "geo:lat": ["52.0579"],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["7779937@N06"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5600/15261856127_00c1a338bc_t.jpg"],
+      "dc:description": ["Built by the monks and nuns of the Nipponzan Myohoji, this was the first Peace Pagoda to be built in the western hemisphere and enshrines sacred relics of Lord Buddha.\nThe first pagoda was built at Hiroshima after the second World War as a symbol of peace and world brotherhood. This Pagoda was built and is still maintained by a group of Monks and Nuns from the Nipponzan Myohoji Sect living in the nearby Buddhist temple with its ornate japanese garden.\n\nInside are sacred relics of the Lord Buddha, while the outside tells a story through a series of spectacular carvings. \n\nCherry trees and cedars are planted on the hill around the Pagoda in remembrance of the victims of all wars. They were donated by the ancient Japanese town of Yoshino, famous for the beauty of its cherry blossom.\n\nThe Pagoda is a sanctuary and permanent refuge for all beings. It is built to further humanity's quest and prayer that the world may be saved from nuclear annihilation.\n\n<i><b><a href=\"http://www.bridgetdavey.com/\" rel=\"nofollow\">Bridget Davey Photography<\/a><\/b><\/i>\n\n||| <a href=\"https://www.facebook.com/pages/Bridget-Davey-Photography/186383814757814\" rel=\"nofollow\"><b>Facebook<\/b><\/a> ||| <a href=\"https://plus.google.com/107806779468760239353\" rel=\"nofollow\"><b>Google <\/b><\/a> ||| <a href=\"https://twitter.com/bdavey_photo\" rel=\"nofollow\"><b>Twitter<\/b><\/a> ||| <a href=\"http://www.bridgetdavey.com/blog\" rel=\"nofollow\"><b>Blog<\/b><\/a> ||| <a href=\"http://500px.com/BridgetDavey\" rel=\"nofollow\"><b>500px<\/b><\/a>\n\n<b>� Bridget Davey Photography - All rights reserved.\nDo not use, download, print or reproduce any of my images without my permission!<\/b>"],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.725333"],
+      "social:url": ["https://www.flickr.com/photos/havensparadise/15261856127/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/willen_lake"],
+      "social:views": ["810"],
+      "dc:date": ["Sat Oct 04 18:31:32 BST 2014"],
+      "dc:identifier": ["15261856127"],
+      "dc:title": ["Peace Pagoda | Milton Keynes, Buckinghamshire"]
+    },
+    {
+      "global:isRelatedTo": [
+        "park",
+        "green",
+        "landscape",
+        "summer"
+      ],
+      "geo:lat": ["52.05346"],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["22462989@N05"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5563/14973532437_082058a2a8_t.jpg"],
+      "dc:description": ["Chapter House mound.\n\nThe outline of the cathedral is based on Norwich Cathedral. It was designed by Neil Higson in 1986."],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.729603"],
+      "social:url": ["https://www.flickr.com/photos/beechgarave/14973532437/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/willen_lake"],
+      "social:views": ["70"],
+      "dc:date": ["Fri Aug 22 10:33:34 BST 2014"],
+      "dc:identifier": ["14973532437"],
+      "dc:title": ["The Tree Cathedral, Milton Keynes"]
+    },
+    {
+      "global:isRelatedTo": [
+        "park",
+        "green",
+        "landscape",
+        "summer"
+      ],
+      "geo:lat": ["52.05346"],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["22462989@N05"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5578/14973440810_4b22692bc2_t.jpg"],
+      "dc:description": ["Steps up to the top of the Chapter House mound.\n\nThe outline of the cathedral is based on Norwich Cathedral. It was designed by Neil Higson in 1986."],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.729603"],
+      "social:url": ["https://www.flickr.com/photos/beechgarave/14973440810/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/willen_lake"],
+      "social:views": ["83"],
+      "dc:date": ["Fri Aug 22 10:34:47 BST 2014"],
+      "dc:identifier": ["14973440810"],
+      "dc:title": ["The Tree Cathedral, Milton Keynes"]
+    },
+    {
+      "global:isRelatedTo": ["panorama"],
+      "geo:lat": ["52.0578"],
+      "dc:creator": [{
+        "global:name": ["NIL L"],
+        "dc:identifier": ["101437384@N06"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "global:thumbnail": ["https://farm3.static.flickr.com/2935/14475248221_32ec3bd3c2_t.jpg"],
+      "dc:description": ["OLYMPUS DIGITAL CAMERA"],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.725237"],
+      "social:url": ["https://www.flickr.com/photos/101437384@N06/14475248221/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/willen_lake"],
+      "social:views": [
+        "2078",
+        "2140",
+        "2129",
+        "2139",
+        "2077",
+        "2148",
+        "2150",
+        "2151",
+        "2075",
+        "2073",
+        "2068",
+        "2093",
+        "2090",
+        "2064",
+        "2065",
+        "2146",
+        "2061",
+        "2170",
+        "2128",
+        "2133",
+        "2159",
+        "2156",
+        "2137"
+      ],
+      "dc:date": ["Thu May 15 16:15:52 BST 2014"],
+      "dc:identifier": ["14475248221"],
+      "dc:title": ["Pagoda at milton keynes (7 of 1)"]
+    },
+    {
+      "global:isRelatedTo": [
+        "park",
+        "tree",
+        "green",
+        "landscape",
+        "summer"
+      ],
+      "geo:lat": ["52.05346"],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["22462989@N05"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5556/14973447360_fe5c46d5af_t.jpg"],
+      "dc:description": ["Pair of deodar cedar trees (Cedrus deodara) marking the west gate of the cathedral.\n\nThe outline of the cathedral is based on Norwich Cathedral. It was designed by Neil Higson in 1986."],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.729603"],
+      "social:url": ["https://www.flickr.com/photos/beechgarave/14973447360/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/willen_lake"],
+      "social:views": ["96"],
+      "dc:date": ["Fri Aug 22 10:46:10 BST 2014"],
+      "dc:identifier": ["14973447360"],
+      "dc:title": ["The Tree Cathedral, Milton Keynes"]
+    },
+    {
+      "global:isRelatedTo": [
+        "park",
+        "tree",
+        "green",
+        "landscape",
+        "summer"
+      ],
+      "geo:lat": ["52.05346"],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["22462989@N05"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "global:thumbnail": ["https://farm4.static.flickr.com/3848/15157133551_4548900399_t.jpg"],
+      "dc:description": ["Yew trees (Taxus baccata) at the southern transept.\n\nThe outline of the cathedral is based on Norwich Cathedral. It was designed by Neil Higson in 1986."],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.729603"],
+      "social:url": ["https://www.flickr.com/photos/beechgarave/15157133551/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/willen_lake"],
+      "social:views": ["86"],
+      "dc:date": ["Fri Aug 22 10:20:47 BST 2014"],
+      "dc:identifier": ["15157133551"],
+      "dc:title": ["The Tree Cathedral, Milton Keynes"]
+    },
+    {
+      "global:isRelatedTo": [
+        "buckinghamshire",
+        "peace pagoda milton keynes",
+        "at the end of the day",
+        "sunset",
+        "england",
+        "pagoda",
+        "great britain",
+        "united kingdom",
+        "peace pagoda",
+        "chinese temple",
+        "milton keynes",
+        "nipponzan myohoji",
+        "uk"
+      ],
+      "geo:lat": ["52.0579"],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["7779937@N06"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "global:thumbnail": ["https://farm3.static.flickr.com/2947/15261816538_c22d5f550e_t.jpg"],
+      "dc:description": ["Built by the monks and nuns of the Nipponzan Myohoji, this was the first Peace Pagoda to be built in the western hemisphere and enshrines sacred relics of Lord Buddha.\nThe first pagoda was built at Hiroshima after the second World War as a symbol of peace and world brotherhood. This Pagoda was built and is still maintained by a group of Monks and Nuns from the Nipponzan Myohoji Sect living in the nearby Buddhist temple with its ornate japanese garden.\n\nInside are sacred relics of the Lord Buddha, while the outside tells a story through a series of spectacular carvings. \n\nCherry trees and cedars are planted on the hill around the Pagoda in remembrance of the victims of all wars. They were donated by the ancient Japanese town of Yoshino, famous for the beauty of its cherry blossom.\n\nThe Pagoda is a sanctuary and permanent refuge for all beings. It is built to further humanity's quest and prayer that the world may be saved from nuclear annihilation.\n\n<i><b><a href=\"http://www.bridgetdavey.com/\" rel=\"nofollow\">Bridget Davey Photography<\/a><\/b><\/i>\n\n||| <a href=\"https://www.facebook.com/pages/Bridget-Davey-Photography/186383814757814\" rel=\"nofollow\"><b>Facebook<\/b><\/a> ||| <a href=\"https://plus.google.com/107806779468760239353\" rel=\"nofollow\"><b>Google <\/b><\/a> ||| <a href=\"https://twitter.com/bdavey_photo\" rel=\"nofollow\"><b>Twitter<\/b><\/a> ||| <a href=\"http://www.bridgetdavey.com/blog\" rel=\"nofollow\"><b>Blog<\/b><\/a> ||| <a href=\"http://500px.com/BridgetDavey\" rel=\"nofollow\"><b>500px<\/b><\/a>\n\n<b>� Bridget Davey Photography - All rights reserved.\nDo not use, download, print or reproduce any of my images without my permission!<\/b>"],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.725333"],
+      "social:url": ["https://www.flickr.com/photos/havensparadise/15261816538/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/willen_lake"],
+      "social:views": ["973"],
+      "dc:date": ["Sat Oct 04 18:25:20 BST 2014"],
+      "dc:identifier": ["15261816538"],
+      "dc:title": ["Peace Pagoda | Milton Keynes, Buckinghamshire"]
+    },
+    {
+      "global:isRelatedTo": [
+        "park",
+        "green",
+        "landscape",
+        "summer"
+      ],
+      "geo:lat": ["52.05346"],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["22462989@N05"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5556/15159719282_222a47b171_t.jpg"],
+      "dc:description": ["Steps down from the top of the Chapter House mound.\n\nThe outline of the cathedral is based on Norwich Cathedral. It was designed by Neil Higson in 1986."],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.729603"],
+      "social:url": ["https://www.flickr.com/photos/beechgarave/15159719282/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/willen_lake"],
+      "social:views": ["92"],
+      "dc:date": ["Fri Aug 22 10:31:47 BST 2014"],
+      "dc:identifier": ["15159719282"],
+      "dc:title": ["The Tree Cathedral, Milton Keynes"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/jimmuller/15648169610/"],
+      "geo:long": ["-0.730762"],
+      "geo:lat": ["52.053032"],
+      "dc:creator": [{
+        "global:name": ["Jim Muller"],
+        "dc:identifier": ["63766429@N07"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/willen_lake"],
+      "social:views": ["6759"],
+      "dc:date": ["Tue Nov 18 14:33:42 GMT 2014"],
+      "dc:identifier": ["15648169610"],
+      "dc:description": ["Autumn colours in the tree cathedral in Milton Keynes. This is the view of the Nave, lined with  Hornbeams and Lime Trees.  The design was based on Norwich cathedral by landscape architect Neil Higson and was planted in 1986."],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5603/15648169610_8da09e4d2f_t.jpg"],
+      "dc:title": ["Week 47/52 - Tree Cathedral, Milton Keynes"]
+    },
+    {
+      "global:isRelatedTo": [
+        "park",
+        "tree",
+        "green",
+        "landscape",
+        "summer"
+      ],
+      "geo:lat": ["52.05346"],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["22462989@N05"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "global:thumbnail": ["https://farm4.static.flickr.com/3859/14973445590_8f78937d8c_t.jpg"],
+      "dc:description": ["Four Italian cypress trees (Cupressus sempervirens) mark the tower, with ash trees (Fraxinus excelsior) leading into the choir.\n\nThe outline of the cathedral is based on Norwich Cathedral. It was designed by Neil Higson in 1986."],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.729603"],
+      "social:url": ["https://www.flickr.com/photos/beechgarave/14973445590/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/willen_lake"],
+      "social:views": ["98"],
+      "dc:date": ["Fri Aug 22 10:19:18 BST 2014"],
+      "dc:identifier": ["14973445590"],
+      "dc:title": ["The Tree Cathedral, Milton Keynes"]
+    },
+    {
+      "global:isRelatedTo": [
+        "park",
+        "tree",
+        "green",
+        "landscape",
+        "summer"
+      ],
+      "geo:lat": ["52.05346"],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["22462989@N05"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "global:thumbnail": ["https://farm4.static.flickr.com/3865/15159724992_928660c8c7_t.jpg"],
+      "dc:description": ["View along the nave towards the sanctuary, lined with hornbeam trees (Carpinus betulus).\n\nThe outline of the cathedral is based on Norwich Cathedral. It was designed by Neil Higson in 1986."],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.729603"],
+      "social:url": ["https://www.flickr.com/photos/beechgarave/15159724992/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/willen_lake"],
+      "social:views": ["94"],
+      "dc:date": ["Fri Aug 22 10:16:47 BST 2014"],
+      "dc:identifier": ["15159724992"],
+      "dc:title": ["The Tree Cathedral, Milton Keynes"]
+    }
+  ],
+  "global:numberOfBurglaries": [{
+    "year:2006/7": ["0"],
+    "year:2011/12": ["0"],
+    "year:2005/6": ["0"],
+    "year:2007/8": ["0"],
+    "year:2009/10": ["0"],
+    "year:2013/14": ["1"],
+    "year:2012/13": ["0"],
+    "year:2010/11": ["0"],
+    "year:2008/9": ["0"]
+  }],
+  "global:numberOfRobberies": [{
+    "year:2006/7": ["2"],
+    "year:2011/12": ["0"],
+    "year:2005/6": ["0"],
+    "year:2007/8": ["0"],
+    "year:2009/10": ["0"],
+    "year:2013/14": ["0"],
+    "year:2012/13": ["0"],
+    "year:2010/11": ["0"],
+    "year:2008/9": ["0"]
+  }],
+  "global:tenure": [
+    {"year:2007": [{
+      "global:total_stock": ["0"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["0"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2013": [{
+      "global:total_stock": ["0"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["0"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2006": [{
+      "global:total_stock": ["0"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["0"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2011": [{
+      "global:total_stock": ["0"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["0"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2012": [{
+      "global:total_stock": ["0"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["0"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2009": [{
+      "global:total_stock": ["0"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["0"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2010": [{
+      "global:total_stock": ["0"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["0"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2014": [{
+      "global:total_stock": ["0"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["0"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2004": [{
+      "global:total_stock": ["0"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["0"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2005": [{
+      "global:total_stock": ["0"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["0"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2008": [{
+      "global:total_stock": ["0"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["0"],
+      "global:rsl_rented": ["0"]
+    }]}
+  ],
+  "global:nbCrimes": [{
+    "year:2006/7": ["35"],
+    "year:2011/12": ["22"],
+    "year:2005/6": ["63"],
+    "year:2007/8": ["21"],
+    "year:2009/10": ["13"],
+    "year:2013/14": ["2"],
+    "year:2012/13": ["3"],
+    "year:2010/11": ["33"],
+    "year:2008/9": ["17"]
+  }],
+  "global:numberOfArsonFires": [{
+    "year:2003/4": ["4"],
+    "year:2001/2": ["2"],
+    "year:2006/7": ["0"],
+    "year:2011/12": ["0"],
+    "year:2005/6": ["1"],
+    "year:2002/3": ["1"],
+    "year:2007/8": ["1"],
+    "year:2009/10": ["0"],
+    "year:2004/5": ["2"],
+    "year:2012/13": ["0"],
+    "year:2010/11": ["0"],
+    "year:2008/9": ["0"]
+  }],
+  "global:numberOfViolencesAgainstThePerson": [{
+    "year:2006/7": ["5"],
+    "year:2011/12": ["1"],
+    "year:2005/6": ["1"],
+    "year:2007/8": ["4"],
+    "year:2009/10": ["3"],
+    "year:2013/14": ["0"],
+    "year:2012/13": ["0"],
+    "year:2010/11": ["3"],
+    "year:2008/9": ["2"]
+  }]
+}

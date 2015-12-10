@@ -1,0 +1,536 @@
+{
+  "global:numberOfCriminalDamages": [{
+    "year:2006/7": ["107"],
+    "year:2011/12": ["76"],
+    "year:2005/6": ["100"],
+    "year:2007/8": ["77"],
+    "year:2009/10": ["75"],
+    "year:2013/14": ["40"],
+    "year:2012/13": ["68"],
+    "year:2010/11": ["87"],
+    "year:2008/9": ["102"]
+  }],
+  "demographics:male-population-2011": ["1209"],
+  "global:location": ["http://data.beta.mksmart.org/entity/place/eaglestone"],
+  "global:numberOfRobberies": [{
+    "year:2006/7": ["7"],
+    "year:2011/12": ["5"],
+    "year:2005/6": ["5"],
+    "year:2007/8": ["1"],
+    "year:2009/10": ["5"],
+    "year:2013/14": ["2"],
+    "year:2012/13": ["3"],
+    "year:2010/11": ["1"],
+    "year:2008/9": ["4"]
+  }],
+  "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/linked-data/cube#Observation"],
+  "global:nbCrimes": [{
+    "year:2006/7": ["501"],
+    "year:2011/12": ["322"],
+    "year:2005/6": ["406"],
+    "year:2007/8": ["396"],
+    "year:2009/10": ["418"],
+    "year:2013/14": ["264"],
+    "year:2012/13": ["349"],
+    "year:2010/11": ["463"],
+    "year:2008/9": ["452"]
+  }],
+  "demographics:female-population-2011": ["1263"],
+  "global:numberOfViolencesAgainstThePerson": [{
+    "year:2006/7": ["152"],
+    "year:2011/12": ["82"],
+    "year:2005/6": ["111"],
+    "year:2007/8": ["125"],
+    "year:2009/10": ["105"],
+    "year:2013/14": ["86"],
+    "year:2012/13": ["101"],
+    "year:2010/11": ["156"],
+    "year:2008/9": ["111"]
+  }],
+  "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/linked-data/cube#Observation"],
+  "imd:imd-2010": ["27"],
+  "global:populationProjection": [{
+    "year:2012": ["2500"],
+    "year:2013": ["2500"],
+    "year:2014": ["2550"],
+    "year:2015": ["2550"],
+    "year:2016": ["2550"],
+    "year:2017": ["2500"],
+    "year:2018": ["2550"],
+    "year:2011": ["2500"],
+    "year:2019": ["2500"],
+    "year:2020": ["2500"],
+    "year:2021": ["2500"]
+  }],
+  "global:photoLocatedIn": [
+    {
+      "global:isRelatedTo": [
+        "digital surface model (dsm)",
+        "2 metre spatial resolution",
+        "environment agency open data",
+        "hill-shaded colour relief image",
+        "environment agency",
+        "lidar composite 2014",
+        "lidar"
+      ],
+      "dc:creator": [{
+        "global:name": [
+          "EnvironmentAgency OpenSurveyData",
+          "Environment Agency Survey Open Data"
+        ],
+        "dc:identifier": ["135689658@N02"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.029022"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5688/22086263965_4b77d29ebb_t.jpg"],
+      "dc:description": ["Quick-Look Hill-shaded Colour Relief Image of 2014 2m LIDAR Composite Digital Surface Model (DSM).\n\nData supplied by Environment Agency under the Open Government License agreement. For details please go to: <a href=\"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\" rel=\"nofollow\">www.nationalarchives.gov.uk/doc/open-government-licence/v...<\/a>\n\nFor full raster dataset go to: <a href=\"http://environment.data.gov.uk/ds/survey\" rel=\"nofollow\">environment.data.gov.uk/ds/survey<\/a>\n"],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.725992"],
+      "social:url": ["https://www.flickr.com/photos/135689658@N02/22086263965/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/eaglestone"],
+      "social:views": [
+        "0",
+        "1"
+      ],
+      "dc:date": ["Wed Jan 01 00:00:00 GMT 2014"],
+      "dc:identifier": ["22086263965"],
+      "dc:title": ["SP83ne_DSM_2m"]
+    },
+    {
+      "global:isRelatedTo": [
+        "1m",
+        "digital surface model (dsm)",
+        "1 metre spatial resolution",
+        "environment agency open data",
+        "hill-shaded colour relief image",
+        "environment agency",
+        "lidar composite 2014",
+        "lidar"
+      ],
+      "dc:creator": [{
+        "global:name": [
+          "EnvironmentAgency OpenSurveyData",
+          "Environment Agency Survey Open Data"
+        ],
+        "dc:identifier": ["135689658@N02"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.02903"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5673/21359144533_c5d783bd58_t.jpg"],
+      "dc:description": ["Quick-Look Hill-shaded Colour Relief Image of 2014 1m LIDAR Composite Digital Surface Model (DSM).\n\nData supplied by Environment Agency under the Open Government License agreement. For details please go to: <a href=\"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\" rel=\"nofollow\">www.nationalarchives.gov.uk/doc/open-government-licence/v...<\/a>\n\nFor full raster dataset go to: <a href=\"http://environment.data.gov.uk/ds/survey\" rel=\"nofollow\">environment.data.gov.uk/ds/survey<\/a>"],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.725992"],
+      "social:url": ["https://www.flickr.com/photos/135689658@N02/21359144533/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/eaglestone"],
+      "social:views": ["0"],
+      "dc:date": ["Wed Jan 01 00:00:00 GMT 2014"],
+      "dc:identifier": ["21359144533"],
+      "dc:title": ["SP83ne_DSM_1m"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/smcgill1969/15750110336/"],
+      "geo:long": ["-0.736167"],
+      "dc:creator": [{
+        "global:name": ["Simon McGill"],
+        "dc:identifier": ["68968740@N07"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.027"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/eaglestone"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:views": ["12"],
+      "dc:date": ["Fri Sep 09 11:45:42 BST 2011"],
+      "dc:identifier": ["15750110336"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7558/15750110336_766495b350_t.jpg"],
+      "dc:title": ["20110909_114542"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/smcgill1969/15588241198/"],
+      "geo:long": ["-0.738334"],
+      "dc:creator": [{
+        "global:name": ["Simon McGill"],
+        "dc:identifier": ["68968740@N07"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.031"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/eaglestone"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:views": ["11"],
+      "dc:date": ["Fri Dec 21 10:28:12 GMT 2012"],
+      "dc:identifier": ["15588241198"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7485/15588241198_bc056ffe30_t.jpg"],
+      "dc:title": ["20121221_102812"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/smcgill1969/15588619670/"],
+      "geo:long": ["-0.737998"],
+      "dc:creator": [{
+        "global:name": ["Simon McGill"],
+        "dc:identifier": ["68968740@N07"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.031254"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/eaglestone"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:views": ["13"],
+      "dc:date": ["Sat Jun 28 18:44:35 BST 2014"],
+      "dc:identifier": ["15588619670"],
+      "global:thumbnail": ["https://farm9.static.flickr.com/8412/15588619670_45234886df_t.jpg"],
+      "dc:title": ["20140628_184435"]
+    },
+    {
+      "global:isRelatedTo": [
+        "1 metre spatial resolution",
+        "environment agency open data",
+        "hill-shaded colour relief image",
+        "digital terrain model (dtm)",
+        "environment agency",
+        "lidar composite 2014",
+        "lidar"
+      ],
+      "dc:creator": [{
+        "global:name": [
+          "EnvironmentAgency OpenSurveyData",
+          "Environment Agency Survey Open Data"
+        ],
+        "dc:identifier": ["135689658@N02"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.02903"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5652/21817758090_00e860bc87_t.jpg"],
+      "dc:description": ["Quick-Look Hill-shaded Colour Relief Image of 2014 1m LIDAR Composite Digital Terrain Model (DTM).\n\nData supplied by Environment Agency under the Open Government License agreement. For details please go to: <a href=\"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\" rel=\"nofollow\">www.nationalarchives.gov.uk/doc/open-government-licence/v...<\/a>\n\nFor full raster dataset go to: <a href=\"http://environment.data.gov.uk/ds/survey\" rel=\"nofollow\">environment.data.gov.uk/ds/survey<\/a>"],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.725992"],
+      "social:url": ["https://www.flickr.com/photos/135689658@N02/21817758090/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/eaglestone"],
+      "social:views": ["0"],
+      "dc:date": ["Wed Jan 01 00:00:00 GMT 2014"],
+      "dc:identifier": ["21817758090"],
+      "dc:title": ["SP83ne_DTM_1m"]
+    },
+    {
+      "global:isRelatedTo": [
+        "bike",
+        "pinnacle",
+        "mounta",
+        "ramin",
+        "mtb"
+      ],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["44987310@N04"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.029167"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:thumbnail": ["https://farm1.static.flickr.com/403/19261918431_f49b0a783e_t.jpg"],
+      "dc:description": ["My new bike to replace the ancient Giant that I've had since high school!\nFirst impressions are great so far!"],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.730834"],
+      "social:url": ["https://www.flickr.com/photos/v15ben/19261918431/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/eaglestone"],
+      "social:views": [
+        "60",
+        "71",
+        "77",
+        "67",
+        "70",
+        "75",
+        "72",
+        "73",
+        "74",
+        "65",
+        "41"
+      ],
+      "dc:date": ["Mon Jun 29 07:37:01 BST 2015"],
+      "dc:identifier": ["19261918431"],
+      "dc:title": ["New Toy - Pinnacle Ramin One."]
+    },
+    {
+      "global:isRelatedTo": [
+        "instagram app",
+        "square format",
+        "square",
+        "uploaded:by=instagram",
+        "iphoneography"
+      ],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["44987310@N04"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.02835"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:thumbnail": ["https://farm9.static.flickr.com/8696/17276201555_761d339346_t.jpg"],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.73259"],
+      "social:url": ["https://www.flickr.com/photos/v15ben/17276201555/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/eaglestone"],
+      "social:views": [
+        "12",
+        "5",
+        "2",
+        "9",
+        "4",
+        "10",
+        "6"
+      ],
+      "dc:date": ["Sun Apr 26 14:26:55 BST 2015"],
+      "dc:identifier": ["17276201555"],
+      "dc:title": ["Calm morning by the Grand Union. #project365 #oneaday #miltonkeynes #grandunion #peartreebridge #day107 #107of365"]
+    },
+    {
+      "global:isRelatedTo": [
+        "canal",
+        "milton keynes",
+        "arch",
+        "grand union",
+        "bridge"
+      ],
+      "dc:creator": [{
+        "global:name": ["Andrew Gustar"],
+        "dc:identifier": ["62283967@N05"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.029655"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:thumbnail": ["https://farm9.static.flickr.com/8563/16177206459_b543e30edb_t.jpg"],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.730912"],
+      "social:url": ["https://www.flickr.com/photos/andrewgustar/16177206459/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/eaglestone"],
+      "social:views": ["115"],
+      "dc:date": ["Sat Jan 24 10:23:20 GMT 2015"],
+      "dc:identifier": ["16177206459"],
+      "dc:title": ["Arch"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/lokraj/15800414595/"],
+      "geo:long": ["-0.738045"],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["93854531@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.02831"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/eaglestone"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:views": ["73"],
+      "dc:date": ["Sat Nov 15 14:01:59 GMT 2014"],
+      "dc:identifier": ["15800414595"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7500/15800414595_6ee215f08b_t.jpg"],
+      "dc:title": ["Autumn2014 007"]
+    },
+    {
+      "global:isRelatedTo": [
+        "2 metre spatial resolution",
+        "environment agency open data",
+        "hill-shaded colour relief image",
+        "digital terrain model (dtm)",
+        "environment agency",
+        "lidar composite 2014",
+        "lidar"
+      ],
+      "dc:creator": [{
+        "global:name": [
+          "EnvironmentAgency OpenSurveyData",
+          "Environment Agency Survey Open Data"
+        ],
+        "dc:identifier": ["135689658@N02"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.029022"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:thumbnail": ["https://farm1.static.flickr.com/623/22081150875_23a6bc026e_t.jpg"],
+      "dc:description": ["Quick-Look Hill-shaded Colour Relief Image of 2014 2m LIDAR Composite Digital Terrain Model (DTM).\n\nData supplied by Environment Agency under the Open Government License agreement. For details please go to: <a href=\"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\" rel=\"nofollow\">www.nationalarchives.gov.uk/doc/open-government-licence/v...<\/a>\n\nFor full raster dataset go to: <a href=\"http://environment.data.gov.uk/ds/survey\" rel=\"nofollow\">environment.data.gov.uk/ds/survey<\/a>\n"],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.725992"],
+      "social:url": ["https://www.flickr.com/photos/135689658@N02/22081150875/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/eaglestone"],
+      "social:views": [
+        "2",
+        "0",
+        "1"
+      ],
+      "dc:date": ["Wed Jan 01 00:00:00 GMT 2014"],
+      "dc:identifier": ["22081150875"],
+      "dc:title": ["SP83ne_DTM_2m"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/smcgill1969/15588904148/"],
+      "geo:long": ["-0.735834"],
+      "dc:creator": [{
+        "global:name": ["Simon McGill"],
+        "dc:identifier": ["68968740@N07"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.027332"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/eaglestone"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:views": ["16"],
+      "dc:date": ["Thu Sep 08 10:19:21 BST 2011"],
+      "dc:identifier": ["15588904148"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7530/15588904148_2a799dd6ef_t.jpg"],
+      "dc:title": ["20110908_101921_2"]
+    }
+  ],
+  "global:numberOfBurglaries": [{
+    "year:2006/7": ["8"],
+    "year:2011/12": ["9"],
+    "year:2005/6": ["13"],
+    "year:2007/8": ["11"],
+    "year:2009/10": ["20"],
+    "year:2013/14": ["17"],
+    "year:2012/13": ["13"],
+    "year:2010/11": ["24"],
+    "year:2008/9": ["22"]
+  }],
+  "global:ethnicity": [{
+    "global:white:_gypsy_or_irish_traveller": ["2"],
+    "global:white:_irish": ["31"],
+    "global:black_and_minority_ethnic_group:_total": ["1016"],
+    "global:multiple_ethnic_group:_other_mixed": ["25"],
+    "global:multiple_ethnic_group:_white_and_black_african": ["14"],
+    "global:multiple_ethnic_group:_white_and_asian": ["18"],
+    "global:other_ethnic_group:_arab": ["8"],
+    "global:asian_british:_chinese": ["17"],
+    "global:asian_british:_other_asian": ["245"],
+    "global:black_british:_caribbean": ["22"],
+    "global:all_usual_residents": ["2472"],
+    "global:asian_british:_bangladeshi": ["7"],
+    "global:asian_british:_pakistani": ["37"],
+    "global:asian_british:_indian": ["96"],
+    "global:multiple_ethnic_group:_white_and_black_caribbean": ["15"],
+    "global:black_british:_other_black": ["20"],
+    "global:british": ["1457"],
+    "global:other_ethnic_group:_any_other_ethnic_group": ["20"],
+    "global:white:_other_white": ["190"],
+    "global:black_british:_african": ["249"]
+  }],
+  "global:tenure": [
+    {"year:2008": [{
+      "global:total_stock": ["1053"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["163"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["17"],
+      "global:owner_occupied_and_private_rented": ["658"],
+      "global:rsl_rented": ["215"]
+    }]},
+    {"year:2009": [{
+      "global:total_stock": ["1053"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["163"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["17"],
+      "global:owner_occupied_and_private_rented": ["658"],
+      "global:rsl_rented": ["215"]
+    }]},
+    {"year:2005": [{
+      "global:total_stock": ["944"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["167"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["17"],
+      "global:owner_occupied_and_private_rented": ["654"],
+      "global:rsl_rented": ["106"]
+    }]},
+    {"year:2012": [{
+      "global:total_stock": ["1053"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["163"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["16"],
+      "global:owner_occupied_and_private_rented": ["659"],
+      "global:rsl_rented": ["215"]
+    }]},
+    {"year:2010": [{
+      "global:total_stock": ["1053"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["163"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["17"],
+      "global:owner_occupied_and_private_rented": ["658"],
+      "global:rsl_rented": ["215"]
+    }]},
+    {"year:2013": [{
+      "global:total_stock": ["1053"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["162"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["16"],
+      "global:owner_occupied_and_private_rented": ["660"],
+      "global:rsl_rented": ["215"]
+    }]},
+    {"year:2007": [{
+      "global:total_stock": ["944"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["163"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["17"],
+      "global:owner_occupied_and_private_rented": ["658"],
+      "global:rsl_rented": ["106"]
+    }]},
+    {"year:2004": [{
+      "global:total_stock": ["944"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["173"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["17"],
+      "global:owner_occupied_and_private_rented": ["648"],
+      "global:rsl_rented": ["106"]
+    }]},
+    {"year:2011": [{
+      "global:total_stock": ["1053"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["163"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["16"],
+      "global:owner_occupied_and_private_rented": ["659"],
+      "global:rsl_rented": ["215"]
+    }]},
+    {"year:2006": [{
+      "global:total_stock": ["944"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["166"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["17"],
+      "global:owner_occupied_and_private_rented": ["655"],
+      "global:rsl_rented": ["106"]
+    }]},
+    {"year:2014": [{
+      "global:total_stock": ["1053"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["161"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["16"],
+      "global:owner_occupied_and_private_rented": ["661"],
+      "global:rsl_rented": ["215"]
+    }]}
+  ],
+  "imd:imd-2004": ["25"],
+  "global:numberOfArsonFires": [{
+    "year:2003/4": ["28"],
+    "year:2001/2": ["33"],
+    "year:2006/7": ["15"],
+    "year:2011/12": ["11"],
+    "year:2005/6": ["21"],
+    "year:2002/3": ["17"],
+    "year:2007/8": ["11"],
+    "year:2009/10": ["6"],
+    "year:2004/5": ["13"],
+    "year:2012/13": ["5"],
+    "year:2010/11": ["9"],
+    "year:2008/9": ["12"]
+  }],
+  "demographics:population-2011": ["2472"],
+  "imd:imd-2007": ["26.7"]
+}

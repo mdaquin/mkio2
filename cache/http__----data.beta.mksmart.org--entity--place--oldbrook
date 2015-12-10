@@ -1,0 +1,318 @@
+{
+  "global:numberOfCriminalDamages": [{
+    "year:2006/7": ["118"],
+    "year:2011/12": ["55"],
+    "year:2005/6": ["150"],
+    "year:2007/8": ["102"],
+    "year:2009/10": ["72"],
+    "year:2013/14": ["70"],
+    "year:2012/13": ["44"],
+    "year:2010/11": ["73"],
+    "year:2008/9": ["106"]
+  }],
+  "demographics:male-population-2011": ["3008"],
+  "global:location": ["http://data.beta.mksmart.org/entity/place/oldbrook"],
+  "global:numberOfRobberies": [{
+    "year:2006/7": ["12"],
+    "year:2011/12": ["12"],
+    "year:2005/6": ["18"],
+    "year:2007/8": ["7"],
+    "year:2009/10": ["15"],
+    "year:2013/14": ["12"],
+    "year:2012/13": ["4"],
+    "year:2010/11": ["9"],
+    "year:2008/9": ["3"]
+  }],
+  "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/linked-data/cube#Observation"],
+  "global:nbCrimes": [{
+    "year:2006/7": ["476"],
+    "year:2011/12": ["357"],
+    "year:2005/6": ["466"],
+    "year:2007/8": ["482"],
+    "year:2009/10": ["454"],
+    "year:2013/14": ["332"],
+    "year:2012/13": ["294"],
+    "year:2010/11": ["435"],
+    "year:2008/9": ["547"]
+  }],
+  "demographics:female-population-2011": ["2799"],
+  "global:numberOfViolencesAgainstThePerson": [{
+    "year:2006/7": ["95"],
+    "year:2011/12": ["83"],
+    "year:2005/6": ["107"],
+    "year:2007/8": ["113"],
+    "year:2009/10": ["118"],
+    "year:2013/14": ["60"],
+    "year:2012/13": ["68"],
+    "year:2010/11": ["89"],
+    "year:2008/9": ["120"]
+  }],
+  "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/linked-data/cube#Observation"],
+  "imd:imd-2010": ["18.9"],
+  "global:populationProjection": [{
+    "year:2012": ["5800"],
+    "year:2013": ["5750"],
+    "year:2014": ["5750"],
+    "year:2015": ["5750"],
+    "year:2016": ["5800"],
+    "year:2017": ["5850"],
+    "year:2018": ["5850"],
+    "year:2011": ["5850"],
+    "year:2019": ["5850"],
+    "year:2020": ["5850"],
+    "year:2021": ["5850"]
+  }],
+  "global:photoLocatedIn": [
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/smcgill1969/15594786658/"],
+      "geo:long": ["-0.752"],
+      "dc:creator": [{
+        "global:name": ["Simon McGill"],
+        "dc:identifier": ["68968740@N07"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.033833"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/oldbrook"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:views": ["57"],
+      "dc:date": ["Thu Nov 10 10:07:17 GMT 2011"],
+      "dc:identifier": ["15594786658"],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5605/15594786658_9fb3d65cdc_t.jpg"],
+      "dc:title": ["20111110_100717"]
+    },
+    {
+      "global:isRelatedTo": [
+        "icm",
+        "lights",
+        "moving",
+        "sainsbury's",
+        "rig",
+        "mini",
+        "mini cooper",
+        "milton keynes",
+        "will",
+        "car",
+        "car park"
+      ],
+      "dc:creator": [{
+        "global:name": ["Adrian Court"],
+        "dc:identifier": ["44948268@N02"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.036083"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5593/14691437114_197683bcc4_t.jpg"],
+      "dc:description": ["First time using a car rig - good fun, although a little bit scary to have that value of camera attached to a carbon fibre pole, secured by suction cups. \n\nThis shot was made was in the bottom level of the Sainsbury's Car Park at The Hub in Milton Keynes, a deserted area late on a Saturday evening. Taken at walking pace but the effect is just as good. Two images used for this - one had the Mini sharper, the other had a great background with the zebra crossing. About 9hrs worth of cloning went in to removing the rig from the shot! \n\n<i>Please also visit my <a href=\"http://www.eatshootfly.com\" rel=\"nofollow\">website<\/a> and follow me on <a href=\"http://facebook.com/eatshootfly\" rel=\"nofollow\">Facebook<\/a> and <a href=\"http://twitter.com/eatshootfly\" rel=\"nofollow\">Twitter<\/a>!<\/i>  \n"],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.761759"],
+      "social:url": ["https://www.flickr.com/photos/adriancourt/14691437114/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/oldbrook"],
+      "social:views": ["5275"],
+      "dc:date": ["Sat Jul 12 21:26:09 BST 2014"],
+      "dc:identifier": ["14691437114"],
+      "dc:title": ["Underground Mini"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/smcgill1969/15756519176/"],
+      "geo:long": ["-0.751667"],
+      "dc:creator": [{
+        "global:name": ["Simon McGill"],
+        "dc:identifier": ["68968740@N07"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.034"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/oldbrook"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:views": ["59"],
+      "dc:date": ["Thu Nov 10 10:08:14 GMT 2011"],
+      "dc:identifier": ["15756519176"],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5604/15756519176_fc185726ab_t.jpg"],
+      "dc:title": ["20111110_100814"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/smcgill1969/15156837763/"],
+      "geo:long": ["-0.7635"],
+      "dc:creator": [{
+        "global:name": ["Simon McGill"],
+        "dc:identifier": ["68968740@N07"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.033833"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/oldbrook"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:views": ["15"],
+      "dc:date": ["Fri Feb 11 13:46:00 GMT 2011"],
+      "dc:identifier": ["15156837763"],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5615/15156837763_70b63a4742_t.jpg"],
+      "dc:title": ["20110211_134600"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/smcgill1969/15154652173/"],
+      "geo:long": ["-0.762167"],
+      "dc:creator": [{
+        "global:name": ["Simon McGill"],
+        "dc:identifier": ["68968740@N07"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.0365"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/oldbrook"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:views": ["11"],
+      "dc:date": ["Fri Jun 22 21:39:02 BST 2012"],
+      "dc:identifier": ["15154652173"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7573/15154652173_e810c40812_t.jpg"],
+      "dc:title": ["20120622_213902"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/smcgill1969/15756061286/"],
+      "geo:long": ["-0.760667"],
+      "dc:creator": [{
+        "global:name": ["Simon McGill"],
+        "dc:identifier": ["68968740@N07"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.035667"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/oldbrook"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:views": ["6"],
+      "dc:date": ["Mon Apr 26 16:50:09 BST 2010"],
+      "dc:identifier": ["15756061286"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7539/15756061286_2b03fec7c5_t.jpg"],
+      "dc:title": ["20100426_165009"]
+    }
+  ],
+  "global:numberOfBurglaries": [{
+    "year:2006/7": ["31"],
+    "year:2011/12": ["13"],
+    "year:2005/6": ["17"],
+    "year:2007/8": ["27"],
+    "year:2009/10": ["37"],
+    "year:2013/14": ["21"],
+    "year:2012/13": ["16"],
+    "year:2010/11": ["46"],
+    "year:2008/9": ["54"]
+  }],
+  "global:tenure": [
+    {"year:2006": [{
+      "global:total_stock": ["2136"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["165"],
+      "global:rsl_shared_ownership": ["95"],
+      "global:mkc_shared_ownership": ["124"],
+      "global:owner_occupied_and_private_rented": ["1438"],
+      "global:rsl_rented": ["314"]
+    }]},
+    {"year:2005": [{
+      "global:total_stock": ["2136"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["168"],
+      "global:rsl_shared_ownership": ["95"],
+      "global:mkc_shared_ownership": ["125"],
+      "global:owner_occupied_and_private_rented": ["1434"],
+      "global:rsl_rented": ["314"]
+    }]},
+    {"year:2009": [{
+      "global:total_stock": ["2160"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["160"],
+      "global:rsl_shared_ownership": ["104"],
+      "global:mkc_shared_ownership": ["121"],
+      "global:owner_occupied_and_private_rented": ["1446"],
+      "global:rsl_rented": ["329"]
+    }]},
+    {"year:2014": [{
+      "global:total_stock": ["2163"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["159"],
+      "global:rsl_shared_ownership": ["104"],
+      "global:mkc_shared_ownership": ["117"],
+      "global:owner_occupied_and_private_rented": ["1454"],
+      "global:rsl_rented": ["329"]
+    }]},
+    {"year:2010": [{
+      "global:total_stock": ["2163"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["160"],
+      "global:rsl_shared_ownership": ["104"],
+      "global:mkc_shared_ownership": ["119"],
+      "global:owner_occupied_and_private_rented": ["1451"],
+      "global:rsl_rented": ["329"]
+    }]},
+    {"year:2011": [{
+      "global:total_stock": ["2163"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["160"],
+      "global:rsl_shared_ownership": ["104"],
+      "global:mkc_shared_ownership": ["119"],
+      "global:owner_occupied_and_private_rented": ["1451"],
+      "global:rsl_rented": ["329"]
+    }]},
+    {"year:2004": [{
+      "global:total_stock": ["2108"],
+      "global:rsl_reduced_cost_sale": ["84"],
+      "global:mkc_rented": ["173"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["127"],
+      "global:owner_occupied_and_private_rented": ["1427"],
+      "global:rsl_rented": ["297"]
+    }]},
+    {"year:2013": [{
+      "global:total_stock": ["2163"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["159"],
+      "global:rsl_shared_ownership": ["104"],
+      "global:mkc_shared_ownership": ["118"],
+      "global:owner_occupied_and_private_rented": ["1453"],
+      "global:rsl_rented": ["329"]
+    }]},
+    {"year:2012": [{
+      "global:total_stock": ["2163"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["160"],
+      "global:rsl_shared_ownership": ["104"],
+      "global:mkc_shared_ownership": ["119"],
+      "global:owner_occupied_and_private_rented": ["1451"],
+      "global:rsl_rented": ["329"]
+    }]},
+    {"year:2008": [{
+      "global:total_stock": ["2160"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["161"],
+      "global:rsl_shared_ownership": ["104"],
+      "global:mkc_shared_ownership": ["121"],
+      "global:owner_occupied_and_private_rented": ["1445"],
+      "global:rsl_rented": ["329"]
+    }]},
+    {"year:2007": [{
+      "global:total_stock": ["2160"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["162"],
+      "global:rsl_shared_ownership": ["104"],
+      "global:mkc_shared_ownership": ["122"],
+      "global:owner_occupied_and_private_rented": ["1443"],
+      "global:rsl_rented": ["329"]
+    }]}
+  ],
+  "imd:imd-2004": ["16.6"],
+  "global:numberOfArsonFires": [{
+    "year:2003/4": ["39"],
+    "year:2001/2": ["20"],
+    "year:2006/7": ["22"],
+    "year:2011/12": ["19"],
+    "year:2005/6": ["38"],
+    "year:2002/3": ["42"],
+    "year:2007/8": ["21"],
+    "year:2009/10": ["16"],
+    "year:2004/5": ["26"],
+    "year:2012/13": ["10"],
+    "year:2010/11": ["15"],
+    "year:2008/9": ["5"]
+  }],
+  "demographics:population-2011": ["5808"],
+  "imd:imd-2007": ["16"]
+}

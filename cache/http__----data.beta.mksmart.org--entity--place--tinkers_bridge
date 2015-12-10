@@ -1,0 +1,377 @@
+{
+  "global:numberOfCriminalDamages": [{
+    "year:2006/7": ["69"],
+    "year:2011/12": ["23"],
+    "year:2005/6": ["43"],
+    "year:2007/8": ["28"],
+    "year:2009/10": ["33"],
+    "year:2013/14": ["19"],
+    "year:2012/13": ["30"],
+    "year:2010/11": ["29"],
+    "year:2008/9": ["52"]
+  }],
+  "demographics:male-population-2011": ["529"],
+  "global:location": ["http://data.beta.mksmart.org/entity/place/tinkers_bridge"],
+  "global:numberOfRobberies": [{
+    "year:2006/7": ["2"],
+    "year:2011/12": ["2"],
+    "year:2005/6": ["2"],
+    "year:2007/8": ["2"],
+    "year:2009/10": ["3"],
+    "year:2013/14": ["3"],
+    "year:2012/13": ["2"],
+    "year:2010/11": ["0"],
+    "year:2008/9": ["1"]
+  }],
+  "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/linked-data/cube#Observation"],
+  "global:nbCrimes": [{
+    "year:2006/7": ["193"],
+    "year:2011/12": ["139"],
+    "year:2005/6": ["181"],
+    "year:2007/8": ["126"],
+    "year:2009/10": ["174"],
+    "year:2013/14": ["124"],
+    "year:2012/13": ["144"],
+    "year:2010/11": ["102"],
+    "year:2008/9": ["175"]
+  }],
+  "demographics:female-population-2011": ["508"],
+  "global:numberOfViolencesAgainstThePerson": [{
+    "year:2006/7": ["45"],
+    "year:2011/12": ["25"],
+    "year:2005/6": ["47"],
+    "year:2007/8": ["24"],
+    "year:2009/10": ["45"],
+    "year:2013/14": ["40"],
+    "year:2012/13": ["35"],
+    "year:2010/11": ["28"],
+    "year:2008/9": ["33"]
+  }],
+  "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/linked-data/cube#Observation"],
+  "imd:imd-2010": ["44.3"],
+  "global:populationProjection": [{
+    "year:2012": ["1050"],
+    "year:2013": ["1050"],
+    "year:2014": ["1050"],
+    "year:2015": ["1050"],
+    "year:2016": ["1050"],
+    "year:2017": ["1050"],
+    "year:2018": ["1050"],
+    "year:2011": ["1050"],
+    "year:2019": ["1050"],
+    "year:2020": ["1050"],
+    "year:2021": ["1050"]
+  }],
+  "global:photoLocatedIn": [
+    {
+      "global:isRelatedTo": [
+        "tracks",
+        "dad",
+        "lights",
+        "model railway",
+        "train",
+        "buildings",
+        "people",
+        "platform",
+        "diesel",
+        "family",
+        "dunston",
+        "bridge"
+      ],
+      "dc:creator": [{
+        "global:name": ["Adrian Court"],
+        "dc:identifier": ["44948268@N02"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.022934"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7491/16114198455_50d61d81ab_t.jpg"],
+      "dc:description": ["Dad has been working on his model railway now for 2-3 years, and it is starting to look rather good. Will definitely be looking at getting some more shots when the lights are finished and the scenery, especially around the station area.\n\n<i>Please also visit my <a href=\"http://www.eatshootfly.com\" rel=\"nofollow\">website<\/a> and follow me on <a href=\"http://facebook.com/eatshootfly\" rel=\"nofollow\">Facebook<\/a> and <a href=\"http://twitter.com/eatshootfly\" rel=\"nofollow\">Twitter<\/a>!<\/i>\n"],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.722726"],
+      "social:url": ["https://www.flickr.com/photos/adriancourt/16114198455/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/tinkers_bridge"],
+      "social:views": ["792"],
+      "dc:date": ["Fri Dec 26 16:50:09 GMT 2014"],
+      "dc:identifier": ["16114198455"],
+      "dc:title": ["Dunston Station"]
+    },
+    {
+      "global:isRelatedTo": [
+        "mahonia",
+        "frost",
+        "milton keynes"
+      ],
+      "dc:creator": [{
+        "global:name": ["Andrew Gustar"],
+        "dc:identifier": ["62283967@N05"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.02341"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7458/16176058100_68183c50ef_t.jpg"],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.722908"],
+      "social:url": ["https://www.flickr.com/photos/andrewgustar/16176058100/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/tinkers_bridge"],
+      "social:views": ["129"],
+      "dc:date": ["Fri Jan 23 12:54:22 GMT 2015"],
+      "dc:identifier": ["16176058100"],
+      "dc:title": ["Mahonia"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/jamie-white/19438537782/"],
+      "geo:long": ["-0.720525"],
+      "dc:creator": [{
+        "global:name": ["Jamie White"],
+        "dc:identifier": ["42242164@N04"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.015373"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/tinkers_bridge"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:views": [
+        "77",
+        "85",
+        "42",
+        "99",
+        "69",
+        "90"
+      ],
+      "dc:date": ["Thu Jul 02 20:44:10 BST 2015"],
+      "dc:identifier": ["19438537782"],
+      "global:thumbnail": ["https://farm4.static.flickr.com/3867/19438537782_91d2e9cda1_t.jpg"],
+      "dc:title": ["_-5.jpg"]
+    },
+    {
+      "global:isRelatedTo": [
+        "portrait",
+        "bokeh",
+        "natural",
+        "grass",
+        "female",
+        "light",
+        "sunset"
+      ],
+      "dc:creator": [{
+        "global:name": ["Jamie White"],
+        "dc:identifier": ["42242164@N04"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.015373"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:thumbnail": ["https://farm4.static.flickr.com/3828/19258638569_8643e1205b_t.jpg"],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.720525"],
+      "social:url": ["https://www.flickr.com/photos/jamie-white/19258638569/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/tinkers_bridge"],
+      "social:views": [
+        "103",
+        "94",
+        "62",
+        "119",
+        "37",
+        "83"
+      ],
+      "dc:date": ["Thu Jul 02 20:52:27 BST 2015"],
+      "dc:identifier": ["19258638569"],
+      "dc:title": ["_.jpg"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/coggins/16356464336/"],
+      "geo:long": ["-0.71795"],
+      "dc:creator": [{
+        "global:name": ["Jim Coggins"],
+        "dc:identifier": ["96113885@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.016766"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/tinkers_bridge"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:views": ["6"],
+      "dc:date": ["Tue Jul 10 13:01:37 BST 2012"],
+      "dc:identifier": ["16356464336"],
+      "global:thumbnail": ["https://farm9.static.flickr.com/8640/16356464336_0ab9d7ef13_t.jpg"],
+      "dc:title": ["Milton Keynes-20120710-00081a"]
+    },
+    {
+      "global:isRelatedTo": [
+        "115 pictures in 2015",
+        "canal",
+        "milton keynes",
+        "ice",
+        "grand union"
+      ],
+      "dc:creator": [{
+        "global:name": ["Andrew Gustar"],
+        "dc:identifier": ["62283967@N05"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.023083"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7363/16362535052_12b3a82323_t.jpg"],
+      "dc:description": ["#79: Distorted"],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.723488"],
+      "social:url": ["https://www.flickr.com/photos/andrewgustar/16362535052/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/tinkers_bridge"],
+      "social:views": ["179"],
+      "dc:date": ["Fri Jan 23 12:55:27 GMT 2015"],
+      "dc:identifier": ["16362535052"],
+      "dc:title": ["Frozen"]
+    }
+  ],
+  "global:numberOfBurglaries": [{
+    "year:2006/7": ["10"],
+    "year:2011/12": ["9"],
+    "year:2005/6": ["21"],
+    "year:2007/8": ["15"],
+    "year:2009/10": ["13"],
+    "year:2013/14": ["5"],
+    "year:2012/13": ["7"],
+    "year:2010/11": ["5"],
+    "year:2008/9": ["9"]
+  }],
+  "global:ethnicity": [{
+    "global:white:_gypsy_or_irish_traveller": ["0"],
+    "global:white:_irish": ["6"],
+    "global:black_and_minority_ethnic_group:_total": ["344"],
+    "global:multiple_ethnic_group:_other_mixed": ["11"],
+    "global:multiple_ethnic_group:_white_and_black_african": ["11"],
+    "global:multiple_ethnic_group:_white_and_asian": ["16"],
+    "global:other_ethnic_group:_arab": ["2"],
+    "global:asian_british:_chinese": ["12"],
+    "global:asian_british:_other_asian": ["24"],
+    "global:black_british:_caribbean": ["13"],
+    "global:all_usual_residents": ["1037"],
+    "global:asian_british:_bangladeshi": ["7"],
+    "global:asian_british:_pakistani": ["6"],
+    "global:asian_british:_indian": ["27"],
+    "global:multiple_ethnic_group:_white_and_black_caribbean": ["7"],
+    "global:black_british:_other_black": ["12"],
+    "global:british": ["694"],
+    "global:other_ethnic_group:_any_other_ethnic_group": ["10"],
+    "global:white:_other_white": ["77"],
+    "global:black_british:_african": ["103"]
+  }],
+  "global:tenure": [
+    {"year:2014": [{
+      "global:total_stock": ["414"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["148"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["252"],
+      "global:rsl_rented": ["14"]
+    }]},
+    {"year:2006": [{
+      "global:total_stock": ["410"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["151"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["245"],
+      "global:rsl_rented": ["14"]
+    }]},
+    {"year:2008": [{
+      "global:total_stock": ["411"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["149"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["248"],
+      "global:rsl_rented": ["14"]
+    }]},
+    {"year:2012": [{
+      "global:total_stock": ["411"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["148"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["249"],
+      "global:rsl_rented": ["14"]
+    }]},
+    {"year:2013": [{
+      "global:total_stock": ["414"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["148"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["252"],
+      "global:rsl_rented": ["14"]
+    }]},
+    {"year:2009": [{
+      "global:total_stock": ["411"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["149"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["248"],
+      "global:rsl_rented": ["14"]
+    }]},
+    {"year:2007": [{
+      "global:total_stock": ["409"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["149"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["246"],
+      "global:rsl_rented": ["14"]
+    }]},
+    {"year:2004": [{
+      "global:total_stock": ["410"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["162"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["234"],
+      "global:rsl_rented": ["14"]
+    }]},
+    {"year:2005": [{
+      "global:total_stock": ["410"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["155"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["241"],
+      "global:rsl_rented": ["14"]
+    }]},
+    {"year:2011": [{
+      "global:total_stock": ["411"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["148"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["249"],
+      "global:rsl_rented": ["14"]
+    }]},
+    {"year:2010": [{
+      "global:total_stock": ["411"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["148"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["249"],
+      "global:rsl_rented": ["14"]
+    }]}
+  ],
+  "imd:imd-2004": ["39.6"],
+  "global:numberOfArsonFires": [{
+    "year:2003/4": ["16"],
+    "year:2001/2": ["37"],
+    "year:2006/7": ["13"],
+    "year:2011/12": ["1"],
+    "year:2005/6": ["9"],
+    "year:2002/3": ["12"],
+    "year:2007/8": ["9"],
+    "year:2009/10": ["9"],
+    "year:2004/5": ["11"],
+    "year:2012/13": ["5"],
+    "year:2010/11": ["1"],
+    "year:2008/9": ["14"]
+  }],
+  "demographics:population-2011": ["1037"],
+  "imd:imd-2007": ["42.2"]
+}

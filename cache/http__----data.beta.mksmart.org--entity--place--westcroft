@@ -1,0 +1,354 @@
+{
+  "global:numberOfCriminalDamages": [{
+    "year:2006/7": ["23"],
+    "year:2011/12": ["20"],
+    "year:2005/6": ["19"],
+    "year:2007/8": ["42"],
+    "year:2009/10": ["27"],
+    "year:2013/14": ["27"],
+    "year:2012/13": ["9"],
+    "year:2010/11": ["28"],
+    "year:2008/9": ["40"]
+  }],
+  "demographics:male-population-2011": ["1359"],
+  "global:location": ["http://data.beta.mksmart.org/entity/place/westcroft"],
+  "global:numberOfRobberies": [{
+    "year:2006/7": ["2"],
+    "year:2011/12": ["4"],
+    "year:2005/6": ["0"],
+    "year:2007/8": ["3"],
+    "year:2009/10": ["4"],
+    "year:2013/14": ["4"],
+    "year:2012/13": ["3"],
+    "year:2010/11": ["2"],
+    "year:2008/9": ["5"]
+  }],
+  "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/linked-data/cube#Observation"],
+  "global:nbCrimes": [{
+    "year:2006/7": ["216"],
+    "year:2011/12": ["214"],
+    "year:2005/6": ["181"],
+    "year:2007/8": ["287"],
+    "year:2009/10": ["258"],
+    "year:2013/14": ["254"],
+    "year:2012/13": ["237"],
+    "year:2010/11": ["234"],
+    "year:2008/9": ["283"]
+  }],
+  "demographics:female-population-2011": ["1437"],
+  "global:numberOfViolencesAgainstThePerson": [{
+    "year:2006/7": ["28"],
+    "year:2011/12": ["40"],
+    "year:2005/6": ["31"],
+    "year:2007/8": ["43"],
+    "year:2009/10": ["42"],
+    "year:2013/14": ["37"],
+    "year:2012/13": ["25"],
+    "year:2010/11": ["43"],
+    "year:2008/9": ["53"]
+  }],
+  "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/linked-data/cube#Observation"],
+  "imd:imd-2010": ["5.9"],
+  "global:populationProjection": [{
+    "year:2012": ["2750"],
+    "year:2013": ["2750"],
+    "year:2014": ["2850"],
+    "year:2015": ["2900"],
+    "year:2016": ["2900"],
+    "year:2017": ["2900"],
+    "year:2018": ["2850"],
+    "year:2011": ["2800"],
+    "year:2019": ["2850"],
+    "year:2020": ["2850"],
+    "year:2021": ["2800"]
+  }],
+  "global:photoLocatedIn": [
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/smcgill1969/15750024226/"],
+      "geo:long": ["-0.791667"],
+      "geo:lat": ["52.002834"],
+      "dc:creator": [{
+        "global:name": ["Simon McGill"],
+        "dc:identifier": ["68968740@N07"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/westcroft"],
+      "social:views": ["7"],
+      "dc:date": ["Sun Dec 30 11:20:42 GMT 2012"],
+      "dc:identifier": ["15750024226"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7554/15750024226_842496f40c_t.jpg"],
+      "dc:title": ["20121230_112042"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/smcgill1969/15590062360/"],
+      "geo:long": ["-0.793834"],
+      "geo:lat": ["52.003334"],
+      "dc:creator": [{
+        "global:name": ["Simon McGill"],
+        "dc:identifier": ["68968740@N07"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/westcroft"],
+      "social:views": ["16"],
+      "dc:date": ["Mon Oct 29 13:39:42 GMT 2012"],
+      "dc:identifier": ["15590062360"],
+      "global:thumbnail": ["https://farm9.static.flickr.com/8538/15590062360_9667cd3e03_t.jpg"],
+      "dc:title": ["20121029_133942"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/cantabrigensis/15104023863/"],
+      "geo:long": ["-0.791723"],
+      "geo:lat": ["52.007828"],
+      "dc:creator": [{
+        "global:name": ["Ian Grove-Stephensen"],
+        "dc:identifier": ["12641212@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/westcroft"],
+      "social:views": ["35"],
+      "dc:date": ["Thu Nov 06 09:42:16 GMT 2014"],
+      "dc:identifier": ["15104023863"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7469/15104023863_cfeb02071c_t.jpg"],
+      "dc:title": ["IMG_20141106_094216"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/ragworm/15154526916/"],
+      "geo:long": ["-0.789262"],
+      "geo:lat": ["52.006336"],
+      "dc:creator": [{
+        "global:name": ["Mr Wormy"],
+        "dc:identifier": ["100192396@N03"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/westcroft"],
+      "social:views": ["27"],
+      "dc:date": ["Sat Aug 30 14:01:13 BST 2014"],
+      "dc:identifier": ["15154526916"],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5568/15154526916_0058d1b06a_t.jpg"],
+      "dc:title": ["IMG_4371"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/ragworm/15174617531/"],
+      "geo:long": ["-0.790545"],
+      "geo:lat": ["52.0073"],
+      "dc:creator": [{
+        "global:name": ["Mr Wormy"],
+        "dc:identifier": ["100192396@N03"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/westcroft"],
+      "social:views": ["29"],
+      "dc:date": ["Fri Aug 29 13:29:32 BST 2014"],
+      "dc:identifier": ["15174617531"],
+      "global:thumbnail": ["https://farm4.static.flickr.com/3919/15174617531_491f497110_t.jpg"],
+      "dc:title": ["IMG_4350"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/smcgill1969/15752485486/"],
+      "geo:long": ["-0.793834"],
+      "geo:lat": ["52.005"],
+      "dc:creator": [{
+        "global:name": ["Simon McGill"],
+        "dc:identifier": ["68968740@N07"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/westcroft"],
+      "social:views": ["18"],
+      "dc:date": ["Sat Feb 21 16:08:36 GMT 2009"],
+      "dc:identifier": ["15752485486"],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5606/15752485486_515d487ebc_t.jpg"],
+      "dc:title": ["20090221_160836"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/ragworm/15177258242/"],
+      "geo:long": ["-0.790545"],
+      "geo:lat": ["52.0073"],
+      "dc:creator": [{
+        "global:name": ["Mr Wormy"],
+        "dc:identifier": ["100192396@N03"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/westcroft"],
+      "social:views": ["30"],
+      "dc:date": ["Fri Aug 29 13:29:26 BST 2014"],
+      "dc:identifier": ["15177258242"],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5557/15177258242_fab5a0235c_t.jpg"],
+      "dc:title": ["IMG_4349"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/smcgill1969/15588311348/"],
+      "geo:long": ["-0.790834"],
+      "geo:lat": ["52.005833"],
+      "dc:creator": [{
+        "global:name": ["Simon McGill"],
+        "dc:identifier": ["68968740@N07"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/westcroft"],
+      "social:views": ["11"],
+      "dc:date": ["Sun Dec 30 11:20:35 GMT 2012"],
+      "dc:identifier": ["15588311348"],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5609/15588311348_ebc27098b0_t.jpg"],
+      "dc:title": ["20121230_112035"]
+    }
+  ],
+  "global:numberOfBurglaries": [{
+    "year:2006/7": ["5"],
+    "year:2011/12": ["5"],
+    "year:2005/6": ["9"],
+    "year:2007/8": ["4"],
+    "year:2009/10": ["8"],
+    "year:2013/14": ["8"],
+    "year:2012/13": ["8"],
+    "year:2010/11": ["7"],
+    "year:2008/9": ["7"]
+  }],
+  "global:ethnicity": [{
+    "global:white:_gypsy_or_irish_traveller": ["0"],
+    "global:white:_irish": ["15"],
+    "global:black_and_minority_ethnic_group:_total": ["1004"],
+    "global:multiple_ethnic_group:_other_mixed": ["32"],
+    "global:multiple_ethnic_group:_white_and_black_african": ["28"],
+    "global:multiple_ethnic_group:_white_and_asian": ["56"],
+    "global:other_ethnic_group:_arab": ["9"],
+    "global:asian_british:_chinese": ["38"],
+    "global:asian_british:_other_asian": ["76"],
+    "global:black_british:_caribbean": ["41"],
+    "global:all_usual_residents": ["2796"],
+    "global:asian_british:_bangladeshi": ["6"],
+    "global:asian_british:_pakistani": ["69"],
+    "global:asian_british:_indian": ["169"],
+    "global:multiple_ethnic_group:_white_and_black_caribbean": ["44"],
+    "global:black_british:_other_black": ["16"],
+    "global:british": ["1791"],
+    "global:other_ethnic_group:_any_other_ethnic_group": ["14"],
+    "global:white:_other_white": ["125"],
+    "global:black_british:_african": ["266"]
+  }],
+  "global:tenure": [
+    {"year:2008": [{
+      "global:total_stock": ["1006"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["41"],
+      "global:rsl_shared_ownership": ["102"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["684"],
+      "global:rsl_rented": ["179"]
+    }]},
+    {"year:2014": [{
+      "global:total_stock": ["1031"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["41"],
+      "global:rsl_shared_ownership": ["105"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["704"],
+      "global:rsl_rented": ["181"]
+    }]},
+    {"year:2013": [{
+      "global:total_stock": ["1006"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["41"],
+      "global:rsl_shared_ownership": ["102"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["684"],
+      "global:rsl_rented": ["179"]
+    }]},
+    {"year:2012": [{
+      "global:total_stock": ["1006"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["41"],
+      "global:rsl_shared_ownership": ["102"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["684"],
+      "global:rsl_rented": ["179"]
+    }]},
+    {"year:2007": [{
+      "global:total_stock": ["994"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["41"],
+      "global:rsl_shared_ownership": ["102"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["672"],
+      "global:rsl_rented": ["179"]
+    }]},
+    {"year:2006": [{
+      "global:total_stock": ["873"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["41"],
+      "global:rsl_shared_ownership": ["75"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["596"],
+      "global:rsl_rented": ["161"]
+    }]},
+    {"year:2004": [{
+      "global:total_stock": ["427"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["41"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["269"],
+      "global:rsl_rented": ["117"]
+    }]},
+    {"year:2011": [{
+      "global:total_stock": ["1006"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["41"],
+      "global:rsl_shared_ownership": ["102"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["684"],
+      "global:rsl_rented": ["179"]
+    }]},
+    {"year:2010": [{
+      "global:total_stock": ["1006"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["41"],
+      "global:rsl_shared_ownership": ["102"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["684"],
+      "global:rsl_rented": ["179"]
+    }]},
+    {"year:2009": [{
+      "global:total_stock": ["1006"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["41"],
+      "global:rsl_shared_ownership": ["102"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["684"],
+      "global:rsl_rented": ["179"]
+    }]},
+    {"year:2005": [{
+      "global:total_stock": ["554"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["41"],
+      "global:rsl_shared_ownership": ["14"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["364"],
+      "global:rsl_rented": ["135"]
+    }]}
+  ],
+  "imd:imd-2004": ["11.2"],
+  "global:numberOfArsonFires": [{
+    "year:2003/4": ["8"],
+    "year:2001/2": ["4"],
+    "year:2006/7": ["2"],
+    "year:2011/12": ["2"],
+    "year:2005/6": ["7"],
+    "year:2002/3": ["4"],
+    "year:2007/8": ["1"],
+    "year:2009/10": ["2"],
+    "year:2004/5": ["7"],
+    "year:2012/13": ["3"],
+    "year:2010/11": ["2"],
+    "year:2008/9": ["5"]
+  }],
+  "demographics:population-2011": ["2796"],
+  "imd:imd-2007": ["6.7"]
+}

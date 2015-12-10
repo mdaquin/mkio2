@@ -1,0 +1,359 @@
+{
+  "demographics:male-population-2011": ["1"],
+  "global:numberOfCriminalDamages": [{
+    "year:2006/7": ["2"],
+    "year:2011/12": ["0"],
+    "year:2005/6": ["0"],
+    "year:2007/8": ["0"],
+    "year:2009/10": ["1"],
+    "year:2013/14": ["7"],
+    "year:2012/13": ["1"],
+    "year:2010/11": ["1"],
+    "year:2008/9": ["1"]
+  }],
+  "global:numberOfRobberies": [{
+    "year:2006/7": ["0"],
+    "year:2011/12": ["0"],
+    "year:2005/6": ["0"],
+    "year:2007/8": ["0"],
+    "year:2009/10": ["1"],
+    "year:2013/14": ["2"],
+    "year:2012/13": ["0"],
+    "year:2010/11": ["0"],
+    "year:2008/9": ["0"]
+  }],
+  "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/linked-data/cube#Observation"],
+  "global:nbCrimes": [{
+    "year:2006/7": ["9"],
+    "year:2011/12": ["1"],
+    "year:2005/6": ["3"],
+    "year:2007/8": ["4"],
+    "year:2009/10": ["13"],
+    "year:2013/14": ["15"],
+    "year:2012/13": ["11"],
+    "year:2010/11": ["14"],
+    "year:2008/9": ["7"]
+  }],
+  "demographics:female-population-2011": ["1"],
+  "global:numberOfViolencesAgainstThePerson": [{
+    "year:2006/7": ["0"],
+    "year:2011/12": ["0"],
+    "year:2005/6": ["0"],
+    "year:2007/8": ["4"],
+    "year:2009/10": ["4"],
+    "year:2013/14": ["2"],
+    "year:2012/13": ["2"],
+    "year:2010/11": ["1"],
+    "year:2008/9": ["1"]
+  }],
+  "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/linked-data/cube#Observation"],
+  "global:photoLocatedIn": [
+    {
+      "global:isRelatedTo": [
+        "final clearance",
+        "takumar 135mm f2.5",
+        "musician",
+        "piano",
+        "pentax k-5",
+        "life of the party",
+        "keyboard",
+        "hands",
+        "music"
+      ],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["35414756@N07"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.012505"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:thumbnail": ["https://farm9.static.flickr.com/8681/15883755546_19a6179c60_t.jpg"],
+      "dc:description": ["Ellie of Final Clearance playing the Yamaha at the Westbury Arts Centre, November 29th 2014.  Promoting the new album 'Life of the party'.\n\nPentax K-5\nTakumar 135mm f2.5"],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.797431"],
+      "social:url": ["https://www.flickr.com/photos/35414756@N07/15883755546/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/hazeley"],
+      "social:views": ["307"],
+      "dc:date": ["Sat Nov 29 22:56:34 GMT 2014"],
+      "dc:identifier": ["15883755546"],
+      "dc:title": ["Final Clearance - Ellie on Yamaha"]
+    },
+    {
+      "global:isRelatedTo": [
+        "local walks",
+        "firefighter0793",
+        "imported keyword tags"
+      ],
+      "dc:creator": [{
+        "global:name": ["Steve Cook"],
+        "dc:identifier": ["91006258@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.014156"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:thumbnail": ["https://farm1.static.flickr.com/328/18523550989_c0261f06e3_t.jpg"],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.79773"],
+      "social:url": ["https://www.flickr.com/photos/firefighter0793/18523550989/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/hazeley"],
+      "social:views": [
+        "5",
+        "2",
+        "3",
+        "4",
+        "0",
+        "1"
+      ],
+      "dc:date": ["Tue Jun 09 14:45:46 BST 2015"],
+      "dc:identifier": ["18523550989"],
+      "dc:title": ["Shenley Wood Oak (1 of 1)"]
+    },
+    {
+      "global:isRelatedTo": [
+        "milton keynes music",
+        "vocals",
+        "takumar 135mm f2.5",
+        "pentax k-5",
+        "guitar",
+        "milton keynes",
+        "live music uk",
+        "montmartre",
+        "musicians",
+        "band",
+        "music",
+        "live music"
+      ],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["35414756@N07"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.01236"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:thumbnail": ["https://farm9.static.flickr.com/8638/15929339206_5be8ea3a46_t.jpg"],
+      "dc:description": ["Montmartre supporting Final Clearance at the launch of 'The Life of the Party' album, live at the Westbury Arts centre in Milton Keynes, 29th November 2013.\nThey are: Josh, Rachael, Andrew and Olie.\n\nPentax K-5\nTakumar 135mm f2.5"],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.796852"],
+      "social:url": ["https://www.flickr.com/photos/35414756@N07/15929339206/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/hazeley"],
+      "social:views": ["209"],
+      "dc:date": ["Sat Nov 29 21:25:50 GMT 2014"],
+      "dc:identifier": ["15929339206"],
+      "dc:title": ["Montmartre at the Westbury Arts centre, Milton Keynes, 29th November 2014"]
+    },
+    {
+      "global:isRelatedTo": [
+        "final clearance",
+        "instrumental",
+        "takumar 135mm f2.5",
+        "musician",
+        "pentax k-5",
+        "indie",
+        "violin",
+        "band",
+        "music",
+        "violinist",
+        "electric violin"
+      ],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["35414756@N07"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.01241"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7509/15954231732_f9938434f3_t.jpg"],
+      "dc:description": ["Ellie on electric violin standing in for Sarah at the launch party of the new album 'The Life of the Party' at the Westbury Arts Centre, Milton Keynes on 29th November 2014.\n\nPentax K-5\nTakumar 135mm f2.5"],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.797195"],
+      "social:url": ["https://www.flickr.com/photos/35414756@N07/15954231732/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/hazeley"],
+      "social:views": ["455"],
+      "dc:date": ["Sat Nov 29 22:50:08 GMT 2014"],
+      "dc:identifier": ["15954231732"],
+      "dc:title": ["Final Clearance ' Life of the Party' launch, Westbury Arts centre, Milton Keynes, 29th November 2014"]
+    },
+    {
+      "global:isRelatedTo": [
+        "milton keynes music",
+        "vocals",
+        "takumar 135mm f2.5",
+        "pentax k-5",
+        "guitar",
+        "milton keynes",
+        "live music uk",
+        "montmartre",
+        "musicians",
+        "band",
+        "music",
+        "live music"
+      ],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["35414756@N07"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.01257"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7513/15953165871_a531a9f455_t.jpg"],
+      "dc:description": ["Montmartre supporting Final Clearance at the launch of 'The Life of the Party' album, live at the Westbury Arts centre in Milton Keynes, 29th November 2013.\nThey are: Josh, Rachael, Andrew and Olie.\n\nPentax K-5\nTakumar 135mm f2.5"],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.797345"],
+      "social:url": ["https://www.flickr.com/photos/35414756@N07/15953165871/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/hazeley"],
+      "social:views": ["238"],
+      "dc:date": ["Sat Nov 29 21:26:10 GMT 2014"],
+      "dc:identifier": ["15953165871"],
+      "dc:title": ["Montmartre at the Westbury Arts centre, Milton Keynes, 29th November 2014"]
+    }
+  ],
+  "global:ethnicity": [{
+    "global:white:_gypsy_or_irish_traveller": ["0"],
+    "global:white:_irish": ["0"],
+    "global:black_and_minority_ethnic_group:_total": ["0"],
+    "global:multiple_ethnic_group:_other_mixed": ["0"],
+    "global:multiple_ethnic_group:_white_and_black_african": ["0"],
+    "global:multiple_ethnic_group:_white_and_asian": ["0"],
+    "global:other_ethnic_group:_arab": ["0"],
+    "global:asian_british:_chinese": ["0"],
+    "global:asian_british:_other_asian": ["0"],
+    "global:black_british:_caribbean": ["0"],
+    "global:all_usual_residents": ["1"],
+    "global:asian_british:_bangladeshi": ["0"],
+    "global:asian_british:_pakistani": ["0"],
+    "global:asian_british:_indian": ["0"],
+    "global:multiple_ethnic_group:_white_and_black_caribbean": ["0"],
+    "global:black_british:_other_black": ["0"],
+    "global:british": ["1"],
+    "global:other_ethnic_group:_any_other_ethnic_group": ["0"],
+    "global:white:_other_white": ["0"],
+    "global:black_british:_african": ["0"]
+  }],
+  "global:numberOfBurglaries": [{
+    "year:2006/7": ["0"],
+    "year:2011/12": ["1"],
+    "year:2005/6": ["0"],
+    "year:2007/8": ["0"],
+    "year:2009/10": ["0"],
+    "year:2013/14": ["0"],
+    "year:2012/13": ["0"],
+    "year:2010/11": ["0"],
+    "year:2008/9": ["0"]
+  }],
+  "global:tenure": [
+    {"year:2008": [{
+      "global:total_stock": ["0"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["0"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2014": [{
+      "global:total_stock": ["0"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["0"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2004": [{
+      "global:total_stock": ["0"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["0"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2006": [{
+      "global:total_stock": ["0"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["0"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2013": [{
+      "global:total_stock": ["0"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["0"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2009": [{
+      "global:total_stock": ["0"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["0"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2010": [{
+      "global:total_stock": ["0"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["0"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2005": [{
+      "global:total_stock": ["0"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["0"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2007": [{
+      "global:total_stock": ["0"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["0"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2011": [{
+      "global:total_stock": ["0"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["0"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2012": [{
+      "global:total_stock": ["0"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["0"],
+      "global:rsl_rented": ["0"]
+    }]}
+  ],
+  "global:numberOfArsonFires": [{
+    "year:2003/4": ["0"],
+    "year:2001/2": ["0"],
+    "year:2006/7": ["0"],
+    "year:2011/12": ["0"],
+    "year:2005/6": ["0"],
+    "year:2002/3": ["0"],
+    "year:2007/8": ["0"],
+    "year:2009/10": ["0"],
+    "year:2004/5": ["0"],
+    "year:2012/13": ["0"],
+    "year:2010/11": ["0"],
+    "year:2008/9": ["0"]
+  }],
+  "demographics:population-2011": ["1"]
+}

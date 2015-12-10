@@ -5,6 +5,4 @@ $pageids = array(
   "maps" => 16
 );
 
-
-
 ?>

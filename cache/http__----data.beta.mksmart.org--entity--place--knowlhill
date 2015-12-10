@@ -1,0 +1,690 @@
+{
+  "global:numberOfCriminalDamages": [{
+    "year:2006/7": ["7"],
+    "year:2011/12": ["1"],
+    "year:2005/6": ["5"],
+    "year:2007/8": ["3"],
+    "year:2009/10": ["6"],
+    "year:2013/14": ["4"],
+    "year:2012/13": ["9"],
+    "year:2010/11": ["1"],
+    "year:2008/9": ["2"]
+  }],
+  "global:photoLocatedIn": [
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/topmotorstim/15553219281/"],
+      "geo:long": ["-0.767862"],
+      "geo:lat": ["52.02232"],
+      "dc:creator": [{
+        "global:name": ["Tim Dawkins"],
+        "dc:identifier": ["78290293@N06"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/knowlhill"],
+      "social:views": ["76"],
+      "dc:date": ["Fri Oct 17 12:46:56 BST 2014"],
+      "dc:identifier": ["15553219281"],
+      "global:thumbnail": ["https://farm4.static.flickr.com/3929/15553219281_2153d9d837_t.jpg"],
+      "dc:title": ["New wheels..."]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/topmotorstim/15355840481/"],
+      "geo:long": ["-0.768095"],
+      "geo:lat": ["52.022404"],
+      "dc:creator": [{
+        "global:name": ["Tim Dawkins"],
+        "dc:identifier": ["78290293@N06"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/knowlhill"],
+      "social:views": ["56"],
+      "dc:date": ["Fri Sep 26 12:34:20 BST 2014"],
+      "dc:identifier": ["15355840481"],
+      "global:thumbnail": ["https://farm4.static.flickr.com/3919/15355840481_2c015b1356_t.jpg"],
+      "dc:title": ["Brake line for polo"]
+    },
+    {
+      "global:isRelatedTo": [
+        "lego",
+        "mini",
+        "milton",
+        "build",
+        "keynes"
+      ],
+      "geo:lat": ["52.01861"],
+      "dc:creator": [{
+        "global:name": ["Mark"],
+        "dc:identifier": ["48214987@N06"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "global:thumbnail": ["https://farm1.static.flickr.com/625/23501646605_aafe4241c1_t.jpg"],
+      "dc:description": ["Todays free Mini Build from Lego"],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.78142"],
+      "social:url": ["https://www.flickr.com/photos/costermk/23501646605/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/knowlhill"],
+      "social:views": [
+        "91",
+        "99",
+        "105",
+        "117",
+        "75",
+        "17",
+        "110"
+      ],
+      "dc:date": ["Thu Dec 03 20:46:46 GMT 2015"],
+      "dc:identifier": ["23501646605"],
+      "dc:title": ["December 2015 Mini-Build"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/topmotorstim/15497499217/"],
+      "geo:long": ["-0.769062"],
+      "geo:lat": ["52.023193"],
+      "dc:creator": [{
+        "global:name": ["Tim Dawkins"],
+        "dc:identifier": ["78290293@N06"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/knowlhill"],
+      "social:views": ["57"],
+      "dc:date": ["Sat Nov 01 14:44:22 GMT 2014"],
+      "dc:identifier": ["15497499217"],
+      "global:thumbnail": ["https://farm4.static.flickr.com/3947/15497499217_bb1b2a1e1b_t.jpg"],
+      "dc:title": ["GB270"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/topmotorstim/15213463109/"],
+      "geo:long": ["-0.768064"],
+      "geo:lat": ["52.02243"],
+      "dc:creator": [{
+        "global:name": ["Tim Dawkins"],
+        "dc:identifier": ["78290293@N06"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/knowlhill"],
+      "social:views": ["52"],
+      "dc:date": ["Tue Sep 30 11:02:32 BST 2014"],
+      "dc:identifier": ["15213463109"],
+      "global:thumbnail": ["https://farm3.static.flickr.com/2944/15213463109_c9e0a84c0c_t.jpg"],
+      "dc:title": ["New shiny caliper. AGAIN."]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/topmotorstim/15497891420/"],
+      "geo:long": ["-0.769126"],
+      "geo:lat": ["52.022636"],
+      "dc:creator": [{
+        "global:name": ["Tim Dawkins"],
+        "dc:identifier": ["78290293@N06"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/knowlhill"],
+      "social:views": ["40"],
+      "dc:date": ["Sat Nov 01 13:28:07 GMT 2014"],
+      "dc:identifier": ["15497891420"],
+      "global:thumbnail": ["https://farm4.static.flickr.com/3943/15497891420_c74bfcf2ca_t.jpg"],
+      "dc:title": ["GB270"]
+    },
+    {
+      "global:isRelatedTo": [
+        "unkept",
+        "green",
+        "milton",
+        "path",
+        "hidden",
+        "keynes"
+      ],
+      "geo:lat": ["52.01366"],
+      "dc:creator": [{
+        "global:name": ["Mark"],
+        "dc:identifier": ["48214987@N06"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5738/20420834314_efe3308a1d_t.jpg"],
+      "dc:description": ["Forget the vast red way network in Milton Keynes if you want to explore your surroundings find the hidden routes, they are normally around the edge of estates, been the houses and grid roads."],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.780023"],
+      "social:url": ["https://www.flickr.com/photos/costermk/20420834314/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/knowlhill"],
+      "social:views": [
+        "81",
+        "71",
+        "142",
+        "103",
+        "114",
+        "95",
+        "125",
+        "26",
+        "63",
+        "117",
+        "120",
+        "110",
+        "138",
+        "90",
+        "136",
+        "131"
+      ],
+      "dc:date": ["Mon Aug 31 15:05:55 BST 2015"],
+      "dc:identifier": ["20420834314"],
+      "dc:title": ["Hidden Pathways though the city"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:isRelatedTo": [
+        "square",
+        "square format",
+        "instagram app",
+        "sutro",
+        "uploaded:by=instagram",
+        "iphoneography"
+      ],
+      "social:url": ["https://www.flickr.com/photos/38892719@N00/15114176044/"],
+      "geo:long": ["-0.767213"],
+      "geo:lat": ["52.01794"],
+      "dc:creator": [{
+        "global:name": ["Colin Mill"],
+        "dc:identifier": ["38892719@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/knowlhill"],
+      "social:views": ["58"],
+      "dc:date": ["Fri Nov 07 20:23:28 GMT 2014"],
+      "dc:identifier": ["15114176044"],
+      "global:thumbnail": ["https://farm4.static.flickr.com/3941/15114176044_165c6dc321_t.jpg"],
+      "dc:title": ["Jamie & Fi back for a couple of days. Trying to enjoy a night out with dinner @ Furzton Lake, but I've already got off to a bad start with what appears to be the \"manager\" over the Bogof offer!"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/topmotorstim/15680779751/"],
+      "geo:long": ["-0.769"],
+      "geo:lat": ["52.0235"],
+      "dc:creator": [{
+        "global:name": ["Tim Dawkins"],
+        "dc:identifier": ["78290293@N06"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/knowlhill"],
+      "social:views": ["39"],
+      "dc:date": ["Sat Nov 01 09:47:26 GMT 2014"],
+      "dc:identifier": ["15680779751"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7558/15680779751_ff1f19f6d6_t.jpg"],
+      "dc:title": ["GB270"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:isRelatedTo": [
+        "square",
+        "square format",
+        "instagram app",
+        "uploaded:by=instagram",
+        "iphoneography"
+      ],
+      "social:url": ["https://www.flickr.com/photos/38892719@N00/18969916229/"],
+      "geo:long": ["-0.780138"],
+      "geo:lat": ["52.016556"],
+      "dc:creator": [{
+        "global:name": ["Colin Mill"],
+        "dc:identifier": ["38892719@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/knowlhill"],
+      "social:views": [
+        "0",
+        "23",
+        "25",
+        "24",
+        "18",
+        "16",
+        "15"
+      ],
+      "dc:date": ["Thu Jun 25 21:23:04 BST 2015"],
+      "dc:identifier": ["18969916229"],
+      "global:thumbnail": ["https://farm1.static.flickr.com/256/18969916229_0545965087_t.jpg"],
+      "dc:title": ["Pudding!!! Cumbrian sticky toffee pudding. Apparently it's the ice cream that makes it Cumbrian. #food #foodie #StickyToffeePudding #Icecream"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/topmotorstim/15680780431/"],
+      "geo:long": ["-0.768717"],
+      "geo:lat": ["52.022713"],
+      "dc:creator": [{
+        "global:name": ["Tim Dawkins"],
+        "dc:identifier": ["78290293@N06"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/knowlhill"],
+      "social:views": ["40"],
+      "dc:date": ["Sat Nov 01 13:23:55 GMT 2014"],
+      "dc:identifier": ["15680780431"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7572/15680780431_c3af7f173a_t.jpg"],
+      "dc:title": ["GB270"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:isRelatedTo": [
+        "square",
+        "square format",
+        "instagram app",
+        "uploaded:by=instagram",
+        "iphoneography"
+      ],
+      "social:url": ["https://www.flickr.com/photos/38892719@N00/18969084918/"],
+      "geo:long": ["-0.780138"],
+      "geo:lat": ["52.016556"],
+      "dc:creator": [{
+        "global:name": ["Colin Mill"],
+        "dc:identifier": ["38892719@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/knowlhill"],
+      "social:views": [
+        "0",
+        "23",
+        "25",
+        "24",
+        "17",
+        "19",
+        "20"
+      ],
+      "dc:date": ["Thu Jun 25 21:50:07 BST 2015"],
+      "dc:identifier": ["18969084918"],
+      "global:thumbnail": ["https://farm1.static.flickr.com/300/18969084918_fe3f0e7969_t.jpg"],
+      "dc:title": ["Well done Jamie, though three is a bit greedy! #trophy #CameraClub @NewCityPS"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/costermk/20232418413/"],
+      "geo:long": ["-0.781317"],
+      "geo:lat": ["52.018486"],
+      "dc:creator": [{
+        "global:name": ["Mark"],
+        "dc:identifier": ["48214987@N06"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/knowlhill"],
+      "social:views": [
+        "81",
+        "93",
+        "106",
+        "100",
+        "102",
+        "113",
+        "116",
+        "118",
+        "112",
+        "77",
+        "88",
+        "3",
+        "109",
+        "84",
+        "61",
+        "40"
+      ],
+      "dc:date": ["Sat Aug 15 11:24:39 BST 2015"],
+      "dc:identifier": ["20232418413"],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5628/20232418413_b6abc5b8a5_t.jpg"],
+      "dc:title": ["Close up"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/costermk/17428321523/"],
+      "geo:long": ["-0.781364"],
+      "geo:lat": ["52.01862"],
+      "dc:creator": [{
+        "global:name": ["Mark"],
+        "dc:identifier": ["48214987@N06"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/knowlhill"],
+      "social:views": [
+        "116",
+        "163",
+        "184",
+        "186",
+        "187",
+        "173",
+        "171",
+        "170",
+        "182",
+        "74",
+        "154",
+        "129",
+        "40"
+      ],
+      "dc:date": ["Sun May 24 18:47:42 BST 2015"],
+      "dc:identifier": ["17428321523"],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5456/17428321523_de3ee2d35d_t.jpg"],
+      "dc:title": ["Proud of my lawn...."]
+    },
+    {
+      "global:isRelatedTo": [
+        "pride",
+        "milton",
+        "new",
+        "up",
+        "town",
+        "keynes",
+        "tidy"
+      ],
+      "geo:lat": ["52.018032"],
+      "dc:creator": [{
+        "global:name": ["Mark"],
+        "dc:identifier": ["48214987@N06"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7434/16450751801_36617cf4ea_t.jpg"],
+      "dc:description": ["The story behind why i've taken pictures of a dirty path can be found here - <a href=\"http://costermk.weebly.com/my-blog\" rel=\"nofollow\">costermk.weebly.com/my-blog<\/a> "],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.780139"],
+      "social:url": ["https://www.flickr.com/photos/costermk/16450751801/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/knowlhill"],
+      "social:views": ["276"],
+      "dc:date": ["Fri Jan 02 13:18:31 GMT 2015"],
+      "dc:identifier": ["16450751801"],
+      "dc:title": ["The Small - Big Tidy Up"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/costermk/23508422472/"],
+      "geo:long": ["-0.781414"],
+      "geo:lat": ["52.01868"],
+      "dc:creator": [{
+        "global:name": ["Mark"],
+        "dc:identifier": ["48214987@N06"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/knowlhill"],
+      "social:views": [
+        "23",
+        "74"
+      ],
+      "dc:date": ["Tue Dec 08 21:52:01 GMT 2015"],
+      "dc:identifier": ["23508422472"],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5779/23508422472_3dbb21a3b7_t.jpg"],
+      "dc:title": [""]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/topmotorstim/15680780161/"],
+      "geo:long": ["-0.769123"],
+      "geo:lat": ["52.022667"],
+      "dc:creator": [{
+        "global:name": ["Tim Dawkins"],
+        "dc:identifier": ["78290293@N06"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/knowlhill"],
+      "social:views": ["43"],
+      "dc:date": ["Sat Nov 01 14:25:57 GMT 2014"],
+      "dc:identifier": ["15680780161"],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5616/15680780161_28eba5527e_t.jpg"],
+      "dc:title": ["GB270"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:isRelatedTo": [
+        "square",
+        "square format",
+        "instagram app",
+        "uploaded:by=instagram",
+        "iphoneography"
+      ],
+      "social:url": ["https://www.flickr.com/photos/38892719@N00/19154390295/"],
+      "geo:long": ["-0.780138"],
+      "geo:lat": ["52.016556"],
+      "dc:creator": [{
+        "global:name": ["Colin Mill"],
+        "dc:identifier": ["38892719@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/knowlhill"],
+      "social:views": [
+        "36",
+        "28",
+        "37",
+        "35",
+        "33",
+        "34",
+        "13",
+        "29",
+        "30"
+      ],
+      "dc:date": ["Thu Jun 25 20:11:47 BST 2015"],
+      "dc:identifier": ["19154390295"],
+      "global:thumbnail": ["https://farm1.static.flickr.com/428/19154390295_2c61d40d13_t.jpg"],
+      "dc:title": ["Early birthday present! This is great, thanks Tracy! X #birthday #present #StarWars #Risk"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/topmotorstim/15497891070/"],
+      "geo:long": ["-0.768639"],
+      "geo:lat": ["52.022774"],
+      "dc:creator": [{
+        "global:name": ["Tim Dawkins"],
+        "dc:identifier": ["78290293@N06"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/knowlhill"],
+      "social:views": ["49"],
+      "dc:date": ["Sat Nov 01 14:26:58 GMT 2014"],
+      "dc:identifier": ["15497891070"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7461/15497891070_925b193749_t.jpg"],
+      "dc:title": ["GB270"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/topmotorstim/15594651607/"],
+      "geo:long": ["-0.768137"],
+      "geo:lat": ["52.02241"],
+      "dc:creator": [{
+        "global:name": ["Tim Dawkins"],
+        "dc:identifier": ["78290293@N06"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/knowlhill"],
+      "social:views": ["76"],
+      "dc:date": ["Thu Nov 13 12:55:45 GMT 2014"],
+      "dc:identifier": ["15594651607"],
+      "dc:description": ["New brake discs for the Subaru."],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7529/15594651607_bd0a2d0002_t.jpg"],
+      "dc:title": ["Banana for scale."]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/topmotorstim/15680777871/"],
+      "geo:long": ["-0.768956"],
+      "geo:lat": ["52.023174"],
+      "dc:creator": [{
+        "global:name": ["Tim Dawkins"],
+        "dc:identifier": ["78290293@N06"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/knowlhill"],
+      "social:views": ["58"],
+      "dc:date": ["Sat Nov 01 14:44:12 GMT 2014"],
+      "dc:identifier": ["15680777871"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7537/15680777871_2876f54456_t.jpg"],
+      "dc:title": ["GB270"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/topmotorstim/15062764344/"],
+      "geo:long": ["-0.768862"],
+      "geo:lat": ["52.022747"],
+      "dc:creator": [{
+        "global:name": ["Tim Dawkins"],
+        "dc:identifier": ["78290293@N06"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/knowlhill"],
+      "social:views": ["38"],
+      "dc:date": ["Sat Nov 01 12:05:04 GMT 2014"],
+      "dc:identifier": ["15062764344"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7474/15062764344_0eab9c73bd_t.jpg"],
+      "dc:title": ["GB270"]
+    }
+  ],
+  "global:numberOfBurglaries": [{
+    "year:2006/7": ["0"],
+    "year:2011/12": ["0"],
+    "year:2005/6": ["0"],
+    "year:2007/8": ["0"],
+    "year:2009/10": ["0"],
+    "year:2013/14": ["0"],
+    "year:2012/13": ["0"],
+    "year:2010/11": ["0"],
+    "year:2008/9": ["0"]
+  }],
+  "global:numberOfRobberies": [{
+    "year:2006/7": ["0"],
+    "year:2011/12": ["1"],
+    "year:2005/6": ["1"],
+    "year:2007/8": ["1"],
+    "year:2009/10": ["1"],
+    "year:2013/14": ["0"],
+    "year:2012/13": ["0"],
+    "year:2010/11": ["1"],
+    "year:2008/9": ["1"]
+  }],
+  "global:tenure": [
+    {"year:2010": [{
+      "global:total_stock": ["0"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["0"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2012": [{
+      "global:total_stock": ["0"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["0"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2004": [{
+      "global:total_stock": ["0"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["0"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2006": [{
+      "global:total_stock": ["0"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["0"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2007": [{
+      "global:total_stock": ["0"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["0"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2009": [{
+      "global:total_stock": ["0"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["0"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2008": [{
+      "global:total_stock": ["0"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["0"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2014": [{
+      "global:total_stock": ["0"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["0"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2011": [{
+      "global:total_stock": ["0"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["0"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2013": [{
+      "global:total_stock": ["0"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["0"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2005": [{
+      "global:total_stock": ["0"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["0"],
+      "global:rsl_rented": ["0"]
+    }]}
+  ],
+  "global:nbCrimes": [{
+    "year:2006/7": ["61"],
+    "year:2011/12": ["49"],
+    "year:2005/6": ["52"],
+    "year:2007/8": ["55"],
+    "year:2009/10": ["41"],
+    "year:2013/14": ["22"],
+    "year:2012/13": ["58"],
+    "year:2010/11": ["48"],
+    "year:2008/9": ["41"]
+  }],
+  "global:numberOfArsonFires": [{
+    "year:2003/4": ["4"],
+    "year:2001/2": ["4"],
+    "year:2006/7": ["3"],
+    "year:2011/12": ["3"],
+    "year:2005/6": ["1"],
+    "year:2002/3": ["3"],
+    "year:2007/8": ["4"],
+    "year:2009/10": ["1"],
+    "year:2004/5": ["1"],
+    "year:2012/13": ["1"],
+    "year:2010/11": ["2"],
+    "year:2008/9": ["3"]
+  }],
+  "global:numberOfViolencesAgainstThePerson": [{
+    "year:2006/7": ["1"],
+    "year:2011/12": ["6"],
+    "year:2005/6": ["1"],
+    "year:2007/8": ["1"],
+    "year:2009/10": ["5"],
+    "year:2013/14": ["2"],
+    "year:2012/13": ["5"],
+    "year:2010/11": ["7"],
+    "year:2008/9": ["5"]
+  }]
+}

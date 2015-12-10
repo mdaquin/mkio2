@@ -1,0 +1,599 @@
+{
+  "global:numberOfCriminalDamages": [{
+    "year:2006/7": ["14"],
+    "year:2011/12": ["4"],
+    "year:2005/6": ["10"],
+    "year:2007/8": ["9"],
+    "year:2009/10": ["3"],
+    "year:2013/14": ["3"],
+    "year:2012/13": ["4"],
+    "year:2010/11": ["7"],
+    "year:2008/9": ["7"]
+  }],
+  "demographics:male-population-2011": ["459"],
+  "global:location": ["http://data.beta.mksmart.org/entity/place/bancroft"],
+  "global:numberOfRobberies": [{
+    "year:2006/7": ["0"],
+    "year:2011/12": ["0"],
+    "year:2005/6": ["0"],
+    "year:2007/8": ["0"],
+    "year:2009/10": ["0"],
+    "year:2013/14": ["2"],
+    "year:2012/13": ["0"],
+    "year:2010/11": ["1"],
+    "year:2008/9": ["2"]
+  }],
+  "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/linked-data/cube#Observation"],
+  "global:nbCrimes": [{
+    "year:2006/7": ["49"],
+    "year:2011/12": ["34"],
+    "year:2005/6": ["36"],
+    "year:2007/8": ["49"],
+    "year:2009/10": ["41"],
+    "year:2013/14": ["19"],
+    "year:2012/13": ["30"],
+    "year:2010/11": ["36"],
+    "year:2008/9": ["39"]
+  }],
+  "demographics:female-population-2011": ["458"],
+  "global:numberOfViolencesAgainstThePerson": [{
+    "year:2006/7": ["7"],
+    "year:2011/12": ["8"],
+    "year:2005/6": ["3"],
+    "year:2007/8": ["6"],
+    "year:2009/10": ["1"],
+    "year:2013/14": ["5"],
+    "year:2012/13": ["3"],
+    "year:2010/11": ["8"],
+    "year:2008/9": ["9"]
+  }],
+  "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/linked-data/cube#Observation"],
+  "imd:imd-2010": ["8"],
+  "global:populationProjection": [{
+    "year:2012": ["900"],
+    "year:2013": ["900"],
+    "year:2014": ["900"],
+    "year:2015": ["900"],
+    "year:2016": ["900"],
+    "year:2017": ["900"],
+    "year:2018": ["900"],
+    "year:2011": ["900"],
+    "year:2019": ["900"],
+    "year:2020": ["900"],
+    "year:2021": ["900"]
+  }],
+  "global:photoLocatedIn": [
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/95202172@N06/19665912919/"],
+      "geo:long": ["-0.806864"],
+      "dc:creator": [{
+        "global:name": [
+          "John Stupples",
+          "Lions Club of Bletchley Milton Keynes"
+        ],
+        "dc:identifier": ["95202172@N06"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.06105"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/bancroft"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:views": [
+        "0",
+        "1"
+      ],
+      "dc:date": ["Thu Jul 16 14:26:07 BST 2015"],
+      "dc:identifier": ["19665912919"],
+      "global:thumbnail": ["https://farm1.static.flickr.com/506/19665912919_ed54724148_t.jpg"],
+      "dc:title": ["Orchard House - July 2015"]
+    },
+    {
+      "global:isRelatedTo": [
+        "milton keynes",
+        "grand union canal"
+      ],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["117095635@N06"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.06125"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5646/22068174146_e1bae7e1a3_t.jpg"],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.802362"],
+      "social:url": ["https://www.flickr.com/photos/owczarczaks/22068174146/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/bancroft"],
+      "social:views": [
+        "2",
+        "8",
+        "7"
+      ],
+      "dc:date": ["Thu Jan 01 01:00:00 GMT 1970"],
+      "dc:identifier": ["22068174146"],
+      "dc:title": ["IMG_20150627_173052"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/95202172@N06/18402179796/"],
+      "geo:long": ["-0.80672"],
+      "dc:creator": [{
+        "global:name": [
+          "John Stupples",
+          "Lions Club of Bletchley Milton Keynes"
+        ],
+        "dc:identifier": ["95202172@N06"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.061142"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/bancroft"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:views": [
+        "2",
+        "3",
+        "0"
+      ],
+      "dc:date": ["Wed Jun 03 15:39:52 BST 2015"],
+      "dc:identifier": ["18402179796"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7775/18402179796_7092404030_t.jpg"],
+      "dc:title": ["Orchard House garden clean up in June 2015."]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/95202172@N06/18240855990/"],
+      "geo:long": ["-0.806914"],
+      "dc:creator": [{
+        "global:name": [
+          "John Stupples",
+          "Lions Club of Bletchley Milton Keynes"
+        ],
+        "dc:identifier": ["95202172@N06"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.060955"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/bancroft"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:views": [
+        "2",
+        "3",
+        "4",
+        "0"
+      ],
+      "dc:date": ["Wed Jun 03 15:37:09 BST 2015"],
+      "dc:identifier": ["18240855990"],
+      "global:thumbnail": ["https://farm1.static.flickr.com/331/18240855990_f5d4a9d27c_t.jpg"],
+      "dc:title": ["Orchard House garden clean up in June 2015."]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/fluffydragon/15448326956/"],
+      "geo:long": ["-0.793231"],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["96552023@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.05431"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/bancroft"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:views": ["94"],
+      "dc:date": ["Tue Oct 07 16:44:19 BST 2014"],
+      "dc:identifier": ["15448326956"],
+      "global:thumbnail": ["https://farm4.static.flickr.com/3939/15448326956_c48b1db133_t.jpg"],
+      "dc:title": ["Bridge from below"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/fluffydragon/15284438940/"],
+      "geo:long": ["-0.795562"],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["96552023@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.053486"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/bancroft"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:views": ["74"],
+      "dc:date": ["Tue Oct 07 16:40:54 BST 2014"],
+      "dc:identifier": ["15284438940"],
+      "global:thumbnail": ["https://farm3.static.flickr.com/2948/15284438940_024b916e0b_t.jpg"],
+      "dc:title": ["Winding path and big sky"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/95202172@N06/20486681470/"],
+      "geo:long": ["-0.806575"],
+      "dc:creator": [{
+        "global:name": [
+          "John Stupples",
+          "Lions Club of Bletchley Milton Keynes"
+        ],
+        "dc:identifier": ["95202172@N06"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.061203"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/bancroft"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:views": [
+        "2",
+        "3",
+        "17",
+        "16",
+        "15",
+        "6"
+      ],
+      "dc:date": ["Mon Aug 17 16:32:39 BST 2015"],
+      "dc:identifier": ["20486681470"],
+      "global:thumbnail": ["https://farm1.static.flickr.com/644/20486681470_cb6f927756_t.jpg"],
+      "dc:title": [
+        "IMG_0502",
+        "Orchard House"
+      ]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/fluffydragon/15284786538/"],
+      "geo:long": ["-0.793231"],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["96552023@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.05431"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/bancroft"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:views": ["74"],
+      "dc:date": ["Tue Oct 07 16:44:31 BST 2014"],
+      "dc:identifier": ["15284786538"],
+      "global:thumbnail": ["https://farm3.static.flickr.com/2949/15284786538_5c73cb8975_t.jpg"],
+      "dc:title": ["By the river"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/fluffydragon/15471149115/"],
+      "geo:long": ["-0.793231"],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["96552023@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.05431"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/bancroft"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:views": ["93"],
+      "dc:date": ["Tue Oct 07 16:42:53 BST 2014"],
+      "dc:identifier": ["15471149115"],
+      "global:thumbnail": ["https://farm3.static.flickr.com/2950/15471149115_00407daf9b_t.jpg"],
+      "dc:title": ["Winding path"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/95202172@N06/19664497610/"],
+      "geo:long": ["-0.806934"],
+      "dc:creator": [{
+        "global:name": [
+          "John Stupples",
+          "Lions Club of Bletchley Milton Keynes"
+        ],
+        "dc:identifier": ["95202172@N06"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.06098"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/bancroft"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:views": [
+        "0",
+        "1"
+      ],
+      "dc:date": ["Thu Jul 16 15:28:49 BST 2015"],
+      "dc:identifier": ["19664497610"],
+      "global:thumbnail": ["https://farm1.static.flickr.com/487/19664497610_9a23d71ee1_t.jpg"],
+      "dc:title": ["Orchard House - July 2015"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/fluffydragon/15284449007/"],
+      "geo:long": ["-0.795562"],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["96552023@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.053486"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/bancroft"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:views": ["74"],
+      "dc:date": ["Tue Oct 07 16:39:55 BST 2014"],
+      "dc:identifier": ["15284449007"],
+      "global:thumbnail": ["https://farm4.static.flickr.com/3945/15284449007_793fcc11c9_t.jpg"],
+      "dc:title": ["Reflections"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/fluffydragon/15284419657/"],
+      "geo:long": ["-0.795562"],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["96552023@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.053486"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/bancroft"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:views": ["62"],
+      "dc:date": ["Tue Oct 07 16:39:09 BST 2014"],
+      "dc:identifier": ["15284419657"],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5612/15284419657_d8fc508e01_t.jpg"],
+      "dc:title": ["Twins"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/fluffydragon/15284277800/"],
+      "geo:long": ["-0.795562"],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["96552023@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.053486"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/bancroft"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:views": ["66"],
+      "dc:date": ["Tue Oct 07 16:39:43 BST 2014"],
+      "dc:identifier": ["15284277800"],
+      "global:thumbnail": ["https://farm4.static.flickr.com/3941/15284277800_89d2e711d0_t.jpg"],
+      "dc:title": ["Dark river"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/fluffydragon/15471013685/"],
+      "geo:long": ["-0.795562"],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["96552023@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.053486"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/bancroft"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:views": ["99"],
+      "dc:date": ["Tue Oct 07 16:40:03 BST 2014"],
+      "dc:identifier": ["15471013685"],
+      "global:thumbnail": ["https://farm3.static.flickr.com/2945/15471013685_de34a55a25_t.jpg"],
+      "dc:title": ["Reflections"]
+    },
+    {
+      "global:isRelatedTo": [
+        "milton keynes",
+        "grand union canal"
+      ],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["117095635@N06"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.06125"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5646/22068174146_e1bae7e1a3_t.jpg"],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.802362"],
+      "social:url": ["https://www.flickr.com/photos/owczarczaks/22068174146/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/bancroft"],
+      "social:views": [
+        "2",
+        "9",
+        "8",
+        "10",
+        "7"
+      ],
+      "dc:date": ["Thu Jan 01 01:00:00 GMT 1970"],
+      "dc:identifier": ["22068174146"],
+      "dc:title": ["IMG_20150627_173052"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/95202172@N06/18428628095/"],
+      "geo:long": ["-0.806795"],
+      "dc:creator": [{
+        "global:name": [
+          "John Stupples",
+          "Lions Club of Bletchley Milton Keynes"
+        ],
+        "dc:identifier": ["95202172@N06"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.06109"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/bancroft"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:views": [
+        "3",
+        "4",
+        "1"
+      ],
+      "dc:date": ["Wed Jun 03 15:38:20 BST 2015"],
+      "dc:identifier": ["18428628095"],
+      "global:thumbnail": ["https://farm9.static.flickr.com/8792/18428628095_e18a0fa735_t.jpg"],
+      "dc:title": ["Orchard House garden clean up in June 2015."]
+    },
+    {
+      "dc:creator": [{
+        "global:name": [
+          "John Stupples",
+          "Lions Club of Bletchley Milton Keynes"
+        ],
+        "dc:identifier": ["95202172@N06"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.06115"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:thumbnail": ["https://farm1.static.flickr.com/433/19826320536_fb5ae0179a_t.jpg"],
+      "dc:description": ["Lion John with unit manager Felicity Roberts"],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.80667"],
+      "social:url": ["https://www.flickr.com/photos/95202172@N06/19826320536/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/bancroft"],
+      "social:views": [
+        "9",
+        "8",
+        "10",
+        "7",
+        "6"
+      ],
+      "dc:date": ["Thu Jul 16 14:14:35 BST 2015"],
+      "dc:identifier": ["19826320536"],
+      "dc:title": ["Orchard House - July 2015"]
+    }
+  ],
+  "global:numberOfBurglaries": [{
+    "year:2006/7": ["0"],
+    "year:2011/12": ["3"],
+    "year:2005/6": ["5"],
+    "year:2007/8": ["3"],
+    "year:2009/10": ["6"],
+    "year:2013/14": ["3"],
+    "year:2012/13": ["5"],
+    "year:2010/11": ["5"],
+    "year:2008/9": ["2"]
+  }],
+  "global:ethnicity": [{
+    "global:white:_gypsy_or_irish_traveller": ["1"],
+    "global:white:_irish": ["7"],
+    "global:black_and_minority_ethnic_group:_total": ["160"],
+    "global:multiple_ethnic_group:_other_mixed": ["5"],
+    "global:multiple_ethnic_group:_white_and_black_african": ["3"],
+    "global:multiple_ethnic_group:_white_and_asian": ["13"],
+    "global:other_ethnic_group:_arab": ["0"],
+    "global:asian_british:_chinese": ["6"],
+    "global:asian_british:_other_asian": ["19"],
+    "global:black_british:_caribbean": ["9"],
+    "global:all_usual_residents": ["917"],
+    "global:asian_british:_bangladeshi": ["0"],
+    "global:asian_british:_pakistani": ["17"],
+    "global:asian_british:_indian": ["12"],
+    "global:multiple_ethnic_group:_white_and_black_caribbean": ["4"],
+    "global:black_british:_other_black": ["1"],
+    "global:british": ["756"],
+    "global:other_ethnic_group:_any_other_ethnic_group": ["6"],
+    "global:white:_other_white": ["42"],
+    "global:black_british:_african": ["15"]
+  }],
+  "global:tenure": [
+    {"year:2007": [{
+      "global:total_stock": ["546"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["10"],
+      "global:mkc_shared_ownership": ["36"],
+      "global:owner_occupied_and_private_rented": ["500"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2014": [{
+      "global:total_stock": ["546"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["10"],
+      "global:mkc_shared_ownership": ["33"],
+      "global:owner_occupied_and_private_rented": ["503"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2009": [{
+      "global:total_stock": ["546"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["10"],
+      "global:mkc_shared_ownership": ["35"],
+      "global:owner_occupied_and_private_rented": ["501"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2013": [{
+      "global:total_stock": ["546"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["10"],
+      "global:mkc_shared_ownership": ["35"],
+      "global:owner_occupied_and_private_rented": ["501"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2008": [{
+      "global:total_stock": ["546"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["10"],
+      "global:mkc_shared_ownership": ["35"],
+      "global:owner_occupied_and_private_rented": ["501"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2011": [{
+      "global:total_stock": ["546"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["10"],
+      "global:mkc_shared_ownership": ["35"],
+      "global:owner_occupied_and_private_rented": ["501"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2012": [{
+      "global:total_stock": ["546"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["10"],
+      "global:mkc_shared_ownership": ["35"],
+      "global:owner_occupied_and_private_rented": ["501"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2010": [{
+      "global:total_stock": ["546"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["10"],
+      "global:mkc_shared_ownership": ["35"],
+      "global:owner_occupied_and_private_rented": ["501"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2006": [{
+      "global:total_stock": ["546"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["10"],
+      "global:mkc_shared_ownership": ["38"],
+      "global:owner_occupied_and_private_rented": ["498"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2004": [{
+      "global:total_stock": ["546"],
+      "global:rsl_reduced_cost_sale": ["10"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["40"],
+      "global:owner_occupied_and_private_rented": ["496"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2005": [{
+      "global:total_stock": ["546"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["10"],
+      "global:mkc_shared_ownership": ["38"],
+      "global:owner_occupied_and_private_rented": ["498"],
+      "global:rsl_rented": ["0"]
+    }]}
+  ],
+  "imd:imd-2004": ["8.2"],
+  "global:numberOfArsonFires": [{
+    "year:2003/4": ["2"],
+    "year:2001/2": ["6"],
+    "year:2006/7": ["1"],
+    "year:2011/12": ["1"],
+    "year:2005/6": ["2"],
+    "year:2002/3": ["3"],
+    "year:2007/8": ["2"],
+    "year:2009/10": ["0"],
+    "year:2004/5": ["1"],
+    "year:2012/13": ["0"],
+    "year:2010/11": ["1"],
+    "year:2008/9": ["1"]
+  }],
+  "demographics:population-2011": ["917"],
+  "imd:imd-2007": ["7.7"]
+}

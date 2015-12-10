@@ -1,0 +1,418 @@
+{
+  "global:numberOfCriminalDamages": [{
+    "year:2006/7": ["99"],
+    "year:2011/12": ["34"],
+    "year:2005/6": ["66"],
+    "year:2007/8": ["98"],
+    "year:2009/10": ["63"],
+    "year:2013/14": ["36"],
+    "year:2012/13": ["37"],
+    "year:2010/11": ["46"],
+    "year:2008/9": ["65"]
+  }],
+  "demographics:male-population-2011": ["858"],
+  "global:location": ["http://data.beta.mksmart.org/entity/place/fenny_stratford"],
+  "global:numberOfRobberies": [{
+    "year:2006/7": ["9"],
+    "year:2011/12": ["2"],
+    "year:2005/6": ["5"],
+    "year:2007/8": ["4"],
+    "year:2009/10": ["5"],
+    "year:2013/14": ["3"],
+    "year:2012/13": ["1"],
+    "year:2010/11": ["4"],
+    "year:2008/9": ["1"]
+  }],
+  "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/linked-data/cube#Observation"],
+  "global:nbCrimes": [{
+    "year:2006/7": ["871"],
+    "year:2011/12": ["309"],
+    "year:2005/6": ["614"],
+    "year:2007/8": ["776"],
+    "year:2009/10": ["606"],
+    "year:2013/14": ["520"],
+    "year:2012/13": ["305"],
+    "year:2010/11": ["453"],
+    "year:2008/9": ["573"]
+  }],
+  "demographics:female-population-2011": ["925"],
+  "global:numberOfViolencesAgainstThePerson": [{
+    "year:2006/7": ["96"],
+    "year:2011/12": ["60"],
+    "year:2005/6": ["92"],
+    "year:2007/8": ["106"],
+    "year:2009/10": ["74"],
+    "year:2013/14": ["83"],
+    "year:2012/13": ["61"],
+    "year:2010/11": ["86"],
+    "year:2008/9": ["70"]
+  }],
+  "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/linked-data/cube#Observation"],
+  "imd:imd-2010": ["21.5"],
+  "global:populationProjection": [{
+    "year:2012": ["1900"],
+    "year:2013": ["2000"],
+    "year:2014": ["2100"],
+    "year:2015": ["2100"],
+    "year:2016": ["2200"],
+    "year:2017": ["2250"],
+    "year:2018": ["2300"],
+    "year:2011": ["1750"],
+    "year:2019": ["2300"],
+    "year:2020": ["2300"],
+    "year:2021": ["2300"]
+  }],
+  "global:photoLocatedIn": [
+    {
+      "global:isRelatedTo": ["osteopath"],
+      "dc:creator": [{
+        "global:name": ["Sarah"],
+        "dc:identifier": ["34403721@N05"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["51.99674"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:thumbnail": ["https://farm1.static.flickr.com/499/19125373083_4591c9ab4a_t.jpg"],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.717642"],
+      "social:url": ["https://www.flickr.com/photos/ms_scarlett/19125373083/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/fenny_stratford"],
+      "social:views": [
+        "12",
+        "55",
+        "63",
+        "60",
+        "22",
+        "61",
+        "25",
+        "62",
+        "53",
+        "44"
+      ],
+      "dc:date": ["Thu Jul 16 13:44:28 BST 2015"],
+      "dc:identifier": ["19125373083"],
+      "dc:title": ["197/365 2015Apart from being totally brilliant, my #osteopath has the best name in the business!"]
+    },
+    {
+      "global:isRelatedTo": [
+        "punters",
+        "nightclub",
+        "buckinghamshire",
+        "pink punters",
+        "crossdresser",
+        "england",
+        "lesbian",
+        "t-girl",
+        "tg",
+        "crossdressing",
+        "milton keynes",
+        "gay",
+        "bisexual",
+        "pinks",
+        "music",
+        "transgender"
+      ],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["91521575@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["51.99729"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5602/15616972108_c9cc638c0e_t.jpg"],
+      "dc:description": ["at BNO, PP"],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.711738"],
+      "social:url": ["https://www.flickr.com/photos/sarahjanedawson/15616972108/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/fenny_stratford"],
+      "social:views": ["12864"],
+      "dc:date": ["Fri Nov 14 23:15:01 GMT 2014"],
+      "dc:identifier": ["15616972108"],
+      "dc:title": ["Tina 'n' me"]
+    },
+    {
+      "global:isRelatedTo": [
+        "united kingdom",
+        "bletchley",
+        "milton keynes",
+        "england"
+      ],
+      "dc:creator": [{
+        "global:name": ["Frank Bowles"],
+        "dc:identifier": ["13787601@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.000916"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:thumbnail": ["https://farm1.static.flickr.com/337/20014232880_93219f52cb_t.jpg"],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.714398"],
+      "social:url": ["https://www.flickr.com/photos/frankbowles/20014232880/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/fenny_stratford"],
+      "social:views": [
+        "5",
+        "1",
+        "7",
+        "6"
+      ],
+      "dc:date": ["Sat Jun 20 17:33:16 BST 2015"],
+      "dc:identifier": ["20014232880"],
+      "dc:title": ["Canal side pub, Bletchley"]
+    },
+    {
+      "global:isRelatedTo": [
+        "united kingdom",
+        "bletchley",
+        "milton keynes",
+        "england"
+      ],
+      "dc:creator": [{
+        "global:name": ["Frank Bowles"],
+        "dc:identifier": ["13787601@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.000916"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:thumbnail": ["https://farm1.static.flickr.com/337/20014232880_93219f52cb_t.jpg"],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.714398"],
+      "social:url": ["https://www.flickr.com/photos/frankbowles/20014232880/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/fenny_stratford"],
+      "social:views": [
+        "5",
+        "1",
+        "7",
+        "6"
+      ],
+      "dc:date": ["Sat Jun 20 17:33:16 BST 2015"],
+      "dc:identifier": ["20014232880"],
+      "dc:title": ["Canal side pub, Bletchley"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/madcornishprojectionist/18859855508/"],
+      "geo:long": ["-0.715073"],
+      "dc:creator": [{
+        "global:name": ["Peter Knight"],
+        "dc:identifier": ["49863088@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.002052"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/fenny_stratford"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:views": [
+        "2",
+        "3",
+        "0",
+        "1"
+      ],
+      "dc:date": ["Sat Jun 20 18:37:04 BST 2015"],
+      "dc:identifier": ["18859855508"],
+      "global:thumbnail": ["https://farm4.static.flickr.com/3858/18859855508_50efff17fb_t.jpg"],
+      "dc:title": ["2015-06-20 18.37.04.jpg"]
+    },
+    {
+      "global:isRelatedTo": [
+        "fenny stratford",
+        "buckinghamshire",
+        "england"
+      ],
+      "dc:creator": [{
+        "global:name": ["Jim Goodyear"],
+        "dc:identifier": ["60739120@N02"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["51.99832"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5727/20391060400_bca7cb3010_t.jpg"],
+      "dc:description": ["IMG_0584PSxVgnt\n\n<b>I recommend clicking on the expansion arrows icon (top right corner) to go into the Lightbox for maximum effect.<\/b> \nDon't use or reproduce this image on Websites/Blog or any other media without my explicit permission.     \n<i> � All Rights Reserved - Jim Goodyear 2015.<\/i>\n\n<b>Sign the Petition to Bring old Flickr back and get your friends to sign!\n\n<a href=\"http://petitions.moveon.org/sign/change-flickr-back\" rel=\"nofollow\">petitions.moveon.org/sign/change-flickr-back<\/a>\n\nTrying to reach 10,000 signatures so we can have someone hand deliver the petition to Yahoo's CEO.<\/b>"],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.716984"],
+      "social:url": ["https://www.flickr.com/photos/unclebobjim/20391060400/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/fenny_stratford"],
+      "social:views": [
+        "151",
+        "106",
+        "152",
+        "153",
+        "144",
+        "88",
+        "138",
+        "158",
+        "132",
+        "140",
+        "125",
+        "168",
+        "47"
+      ],
+      "dc:date": ["Thu May 07 14:55:11 BST 2015"],
+      "dc:identifier": ["20391060400"],
+      "dc:title": ["Urban Plastic Sheep"]
+    },
+    {
+      "global:isRelatedTo": ["ivy"],
+      "dc:creator": [{
+        "global:name": ["Sarah"],
+        "dc:identifier": ["34403721@N05"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["51.997486"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:thumbnail": ["https://farm1.static.flickr.com/456/20115504715_9d6c7ae8a6_t.jpg"],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.717728"],
+      "social:url": ["https://www.flickr.com/photos/ms_scarlett/20115504715/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/fenny_stratford"],
+      "social:views": [
+        "46",
+        "65",
+        "23",
+        "64",
+        "56"
+      ],
+      "dc:date": ["Wed Jul 29 12:19:25 BST 2015"],
+      "dc:identifier": ["20115504715"],
+      "dc:title": ["210/365 2015#ivy skeleton"]
+    },
+    {
+      "global:isRelatedTo": [
+        "marston vale line",
+        "fenny stratford",
+        "railway",
+        "london midland",
+        "train",
+        "milton keynes",
+        "diesel",
+        "150109",
+        "track"
+      ],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["35414756@N07"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.001606"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:thumbnail": ["https://farm9.static.flickr.com/8871/17661630013_ecd19e9823_t.jpg"],
+      "dc:description": ["London Midland diesel leaving Fenny Stratford station for Bedford on the Marston Vale line at 10.08 on 30th May 2015."],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.715656"],
+      "social:url": ["https://www.flickr.com/photos/35414756@N07/17661630013/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/fenny_stratford"],
+      "social:views": [
+        "112",
+        "104",
+        "80",
+        "67",
+        "0",
+        "128",
+        "117",
+        "96",
+        "90"
+      ],
+      "dc:date": ["Sat May 30 09:59:17 BST 2015"],
+      "dc:identifier": ["17661630013"],
+      "dc:title": ["150109 leaving Fenny Stratford station, 30th May 2015"]
+    },
+    {
+      "global:isRelatedTo": [
+        "bno",
+        "pink punters",
+        "trans",
+        "tg",
+        "tgirl",
+        "transgender"
+      ],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["91521575@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["51.99712"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5611/15504605231_58bbf2cf66_t.jpg"],
+      "dc:description": ["BNO at Pink Punters October 10th"],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.712038"],
+      "social:url": ["https://www.flickr.com/photos/sarahjanedawson/15504605231/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/fenny_stratford"],
+      "social:views": ["15137"],
+      "dc:date": ["Fri Oct 10 22:29:48 BST 2014"],
+      "dc:identifier": ["15504605231"],
+      "dc:title": ["In the pink room"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/madcornishprojectionist/18426861003/"],
+      "geo:long": ["-0.715073"],
+      "dc:creator": [{
+        "global:name": ["Peter Knight"],
+        "dc:identifier": ["49863088@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:lat": ["52.002052"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/fenny_stratford"],
+      "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:views": [
+        "5",
+        "3",
+        "4",
+        "6"
+      ],
+      "dc:date": ["Sat Jun 20 18:37:04 BST 2015"],
+      "dc:identifier": ["18426861003"],
+      "global:thumbnail": ["https://farm4.static.flickr.com/3929/18426861003_a799af42b4_t.jpg"],
+      "dc:title": ["2015-06-20 18.37.04 HDR.jpg"]
+    }
+  ],
+  "global:numberOfBurglaries": [{
+    "year:2006/7": ["18"],
+    "year:2011/12": ["13"],
+    "year:2005/6": ["15"],
+    "year:2007/8": ["14"],
+    "year:2009/10": ["46"],
+    "year:2013/14": ["6"],
+    "year:2012/13": ["11"],
+    "year:2010/11": ["9"],
+    "year:2008/9": ["14"]
+  }],
+  "global:ethnicity": [{
+    "global:white:_gypsy_or_irish_traveller": ["1"],
+    "global:white:_irish": ["38"],
+    "global:black_and_minority_ethnic_group:_total": ["438"],
+    "global:multiple_ethnic_group:_other_mixed": ["28"],
+    "global:multiple_ethnic_group:_white_and_black_african": ["14"],
+    "global:multiple_ethnic_group:_white_and_asian": ["15"],
+    "global:other_ethnic_group:_arab": ["3"],
+    "global:asian_british:_chinese": ["12"],
+    "global:asian_british:_other_asian": ["15"],
+    "global:black_british:_caribbean": ["20"],
+    "global:all_usual_residents": ["1783"],
+    "global:asian_british:_bangladeshi": ["65"],
+    "global:asian_british:_pakistani": ["25"],
+    "global:asian_british:_indian": ["26"],
+    "global:multiple_ethnic_group:_white_and_black_caribbean": ["18"],
+    "global:black_british:_other_black": ["3"],
+    "global:british": ["1345"],
+    "global:other_ethnic_group:_any_other_ethnic_group": ["4"],
+    "global:white:_other_white": ["104"],
+    "global:black_british:_african": ["47"]
+  }],
+  "imd:imd-2004": ["18.3"],
+  "global:numberOfArsonFires": [{
+    "year:2003/4": ["20"],
+    "year:2001/2": ["12"],
+    "year:2006/7": ["21"],
+    "year:2011/12": ["4"],
+    "year:2005/6": ["2"],
+    "year:2002/3": ["13"],
+    "year:2007/8": ["6"],
+    "year:2009/10": ["10"],
+    "year:2004/5": ["7"],
+    "year:2012/13": ["7"],
+    "year:2010/11": ["3"],
+    "year:2008/9": ["5"]
+  }],
+  "demographics:population-2011": ["1783"],
+  "imd:imd-2007": ["19.5"]
+}

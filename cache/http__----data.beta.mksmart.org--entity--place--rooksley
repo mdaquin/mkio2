@@ -1,0 +1,375 @@
+{
+  "global:numberOfCriminalDamages": [{
+    "year:2006/7": ["18"],
+    "year:2011/12": ["8"],
+    "year:2005/6": ["11"],
+    "year:2007/8": ["8"],
+    "year:2009/10": ["2"],
+    "year:2013/14": ["1"],
+    "year:2012/13": ["3"],
+    "year:2010/11": ["5"],
+    "year:2008/9": ["10"]
+  }],
+  "global:photoLocatedIn": [
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/fluffydragon/15112911294/"],
+      "geo:long": ["-0.78047"],
+      "geo:lat": ["52.035423"],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["96552023@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/rooksley"],
+      "social:views": ["104"],
+      "dc:date": ["Fri Nov 07 15:24:12 GMT 2014"],
+      "dc:identifier": ["15112911294"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7519/15112911294_5ec08c08b2_t.jpg"],
+      "dc:title": ["Fork in the path"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/paulcapewell/15298427086/"],
+      "geo:long": ["-0.776253"],
+      "geo:lat": ["52.037674"],
+      "dc:creator": [{
+        "global:name": ["Paul Capewell"],
+        "dc:identifier": ["13182127@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/rooksley"],
+      "social:views": ["28"],
+      "dc:date": ["Mon Sep 22 13:14:23 BST 2014"],
+      "dc:identifier": ["15298427086"],
+      "dc:description": ["Processed with VSCOcam with g3 preset"],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5581/15298427086_2272443223_t.jpg"],
+      "dc:title": ["Lunchtime 1"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:isRelatedTo": [
+        "square",
+        "square format",
+        "instagram app",
+        "uploaded:by=instagram",
+        "iphoneography"
+      ],
+      "social:url": ["https://www.flickr.com/photos/andywilkes/15136397454/"],
+      "geo:long": ["-0.774497"],
+      "geo:lat": ["52.037468"],
+      "dc:creator": [{
+        "global:name": ["Andy Wilkes"],
+        "dc:identifier": ["44564547@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/rooksley"],
+      "social:views": ["78"],
+      "dc:date": ["Mon Nov 10 12:40:19 GMT 2014"],
+      "dc:identifier": ["15136397454"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7535/15136397454_e34191eb4a_t.jpg"],
+      "dc:title": ["New job day 1"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:isRelatedTo": [
+        "square",
+        "square format",
+        "instagram app",
+        "uploaded:by=instagram",
+        "iphoneography"
+      ],
+      "social:url": ["https://www.flickr.com/photos/andywilkes/15571212077/"],
+      "geo:long": ["-0.774497"],
+      "geo:lat": ["52.037468"],
+      "dc:creator": [{
+        "global:name": ["Andy Wilkes"],
+        "dc:identifier": ["44564547@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/rooksley"],
+      "social:views": ["65"],
+      "dc:date": ["Mon Nov 10 12:42:06 GMT 2014"],
+      "dc:identifier": ["15571212077"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7507/15571212077_65867eb095_t.jpg"],
+      "dc:title": ["New job. The inside is just as impressive."]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/smcgill1969/15153372774/"],
+      "geo:long": ["-0.776109"],
+      "geo:lat": ["52.040375"],
+      "dc:creator": [{
+        "global:name": ["Simon McGill"],
+        "dc:identifier": ["68968740@N07"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/rooksley"],
+      "social:views": ["13"],
+      "dc:date": ["Sun Oct 19 16:06:52 BST 2014"],
+      "dc:identifier": ["15153372774"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7499/15153372774_a9c9d38b44_t.jpg"],
+      "dc:title": ["20141019_160652"]
+    },
+    {
+      "global:isRelatedTo": ["87023"],
+      "geo:lat": ["52.035202"],
+      "dc:creator": [{
+        "global:name": ["Steve Thorpe"],
+        "dc:identifier": ["50349913@N02"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5599/15475502100_d61778a324_t.jpg"],
+      "dc:description": ["87023 makes the call at Milton Keynes working the 1050 Euston - Manchester\n\n26 February 1994"],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.775351"],
+      "social:url": ["https://www.flickr.com/photos/33106/15475502100/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/rooksley"],
+      "social:views": ["312"],
+      "dc:date": ["Sun Mar 04 16:32:17 GMT 2012"],
+      "dc:identifier": ["15475502100"],
+      "dc:title": ["87023"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/mk_tom/15435740092/"],
+      "geo:long": ["-0.773962"],
+      "geo:lat": ["52.03729"],
+      "dc:creator": [{
+        "global:name": ["MK_Tom"],
+        "dc:identifier": ["50337784@N04"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/rooksley"],
+      "social:views": ["343"],
+      "dc:date": ["Fri Oct 03 13:19:52 BST 2014"],
+      "dc:identifier": ["15435740092"],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5598/15435740092_14a486c524_t.jpg"],
+      "dc:title": ["Broken down Arriva Optare Solo being towed outside the Network Rail building, Milton Keynes, 01/10/2014."]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/fluffydragon/15547884340/"],
+      "geo:long": ["-0.778181"],
+      "geo:lat": ["52.036762"],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["96552023@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/rooksley"],
+      "social:views": ["60"],
+      "dc:date": ["Fri Nov 07 15:21:41 GMT 2014"],
+      "dc:identifier": ["15547884340"],
+      "global:thumbnail": ["https://farm4.static.flickr.com/3950/15547884340_13e7019606_t.jpg"],
+      "dc:title": ["Bridging the sunset"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:isRelatedTo": [
+        "square",
+        "square format",
+        "instagram app",
+        "uploaded:by=instagram",
+        "iphoneography"
+      ],
+      "social:url": ["https://www.flickr.com/photos/andywilkes/15762179101/"],
+      "geo:long": ["-0.774497"],
+      "geo:lat": ["52.037468"],
+      "dc:creator": [{
+        "global:name": ["Andy Wilkes"],
+        "dc:identifier": ["44564547@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/rooksley"],
+      "social:views": ["72"],
+      "dc:date": ["Tue Nov 11 10:49:54 GMT 2014"],
+      "dc:identifier": ["15762179101"],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5615/15762179101_2bd9a44bce_t.jpg"],
+      "dc:title": ["Ready for the Armistace Remembrance Service at 11am 11th Day 11th Month 2014 #100years #networkrail"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "global:isRelatedTo": [
+        "square",
+        "square format",
+        "instagram app",
+        "uploaded:by=instagram",
+        "iphoneography"
+      ],
+      "social:url": ["https://www.flickr.com/photos/andywilkes/15770717851/"],
+      "geo:long": ["-0.774497"],
+      "geo:lat": ["52.037468"],
+      "dc:creator": [{
+        "global:name": ["Andy Wilkes"],
+        "dc:identifier": ["44564547@N00"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/rooksley"],
+      "social:views": ["66"],
+      "dc:date": ["Wed Nov 12 13:05:04 GMT 2014"],
+      "dc:identifier": ["15770717851"],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5615/15770717851_2d963621fb_t.jpg"],
+      "dc:title": ["Big hair. Spot on face. Cheesy grin. Big green chair to hide in at lunch. #work"]
+    }
+  ],
+  "global:numberOfBurglaries": [{
+    "year:2006/7": ["0"],
+    "year:2011/12": ["1"],
+    "year:2005/6": ["0"],
+    "year:2007/8": ["0"],
+    "year:2009/10": ["0"],
+    "year:2013/14": ["0"],
+    "year:2012/13": ["0"],
+    "year:2010/11": ["0"],
+    "year:2008/9": ["0"]
+  }],
+  "global:numberOfRobberies": [{
+    "year:2006/7": ["1"],
+    "year:2011/12": ["1"],
+    "year:2005/6": ["3"],
+    "year:2007/8": ["0"],
+    "year:2009/10": ["2"],
+    "year:2013/14": ["0"],
+    "year:2012/13": ["0"],
+    "year:2010/11": ["1"],
+    "year:2008/9": ["1"]
+  }],
+  "global:tenure": [
+    {"year:2013": [{
+      "global:total_stock": ["0"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["0"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2012": [{
+      "global:total_stock": ["0"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["0"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2011": [{
+      "global:total_stock": ["0"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["0"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2005": [{
+      "global:total_stock": ["0"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["0"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2009": [{
+      "global:total_stock": ["0"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["0"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2010": [{
+      "global:total_stock": ["0"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["0"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2004": [{
+      "global:total_stock": ["0"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["0"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2008": [{
+      "global:total_stock": ["0"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["0"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2007": [{
+      "global:total_stock": ["0"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["0"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2014": [{
+      "global:total_stock": ["0"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["0"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2006": [{
+      "global:total_stock": ["0"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["0"],
+      "global:rsl_rented": ["0"]
+    }]}
+  ],
+  "global:nbCrimes": [{
+    "year:2006/7": ["97"],
+    "year:2011/12": ["63"],
+    "year:2005/6": ["68"],
+    "year:2007/8": ["92"],
+    "year:2009/10": ["93"],
+    "year:2013/14": ["58"],
+    "year:2012/13": ["53"],
+    "year:2010/11": ["82"],
+    "year:2008/9": ["92"]
+  }],
+  "global:numberOfArsonFires": [{
+    "year:2003/4": ["3"],
+    "year:2001/2": ["2"],
+    "year:2006/7": ["2"],
+    "year:2011/12": ["2"],
+    "year:2005/6": ["2"],
+    "year:2002/3": ["3"],
+    "year:2007/8": ["0"],
+    "year:2009/10": ["0"],
+    "year:2004/5": ["5"],
+    "year:2012/13": ["0"],
+    "year:2010/11": ["1"],
+    "year:2008/9": ["0"]
+  }],
+  "global:numberOfViolencesAgainstThePerson": [{
+    "year:2006/7": ["6"],
+    "year:2011/12": ["6"],
+    "year:2005/6": ["4"],
+    "year:2007/8": ["6"],
+    "year:2009/10": ["10"],
+    "year:2013/14": ["0"],
+    "year:2012/13": ["2"],
+    "year:2010/11": ["3"],
+    "year:2008/9": ["1"]
+  }]
+}

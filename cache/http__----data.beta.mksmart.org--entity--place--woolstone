@@ -1,0 +1,234 @@
+{
+  "global:numberOfCriminalDamages": [{
+    "year:2006/7": ["12"],
+    "year:2011/12": ["5"],
+    "year:2005/6": ["7"],
+    "year:2007/8": ["9"],
+    "year:2009/10": ["3"],
+    "year:2013/14": ["5"],
+    "year:2012/13": ["2"],
+    "year:2010/11": ["3"],
+    "year:2008/9": ["6"]
+  }],
+  "demographics:male-population-2011": ["399"],
+  "global:location": ["http://data.beta.mksmart.org/entity/place/woolstone"],
+  "global:numberOfRobberies": [{
+    "year:2006/7": ["0"],
+    "year:2011/12": ["0"],
+    "year:2005/6": ["0"],
+    "year:2007/8": ["1"],
+    "year:2009/10": ["2"],
+    "year:2013/14": ["0"],
+    "year:2012/13": ["0"],
+    "year:2010/11": ["0"],
+    "year:2008/9": ["0"]
+  }],
+  "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/linked-data/cube#Observation"],
+  "global:nbCrimes": [{
+    "year:2006/7": ["54"],
+    "year:2011/12": ["35"],
+    "year:2005/6": ["45"],
+    "year:2007/8": ["47"],
+    "year:2009/10": ["40"],
+    "year:2013/14": ["28"],
+    "year:2012/13": ["43"],
+    "year:2010/11": ["35"],
+    "year:2008/9": ["42"]
+  }],
+  "demographics:female-population-2011": ["447"],
+  "global:numberOfViolencesAgainstThePerson": [{
+    "year:2006/7": ["9"],
+    "year:2011/12": ["3"],
+    "year:2005/6": ["5"],
+    "year:2007/8": ["10"],
+    "year:2009/10": ["7"],
+    "year:2013/14": ["6"],
+    "year:2012/13": ["6"],
+    "year:2010/11": ["10"],
+    "year:2008/9": ["2"]
+  }],
+  "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/linked-data/cube#Observation"],
+  "imd:imd-2010": ["15.8"],
+  "global:populationProjection": [{
+    "year:2012": ["850"],
+    "year:2013": ["850"],
+    "year:2014": ["850"],
+    "year:2015": ["850"],
+    "year:2016": ["850"],
+    "year:2017": ["850"],
+    "year:2018": ["850"],
+    "year:2011": ["850"],
+    "year:2019": ["850"],
+    "year:2020": ["850"],
+    "year:2021": ["850"]
+  }],
+  "global:photoLocatedIn": [{
+    "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+    "social:url": ["https://www.flickr.com/photos/smcgill1969/15591398840/"],
+    "geo:long": ["-0.724667"],
+    "geo:lat": ["52.045166"],
+    "dc:creator": [{
+      "global:name": ["Simon McGill"],
+      "dc:identifier": ["68968740@N07"],
+      "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+    }],
+    "geo:location": ["http://data.beta.mksmart.org/entity/place/woolstone"],
+    "social:views": ["48"],
+    "dc:date": ["Fri Sep 11 21:02:27 BST 2009"],
+    "dc:identifier": ["15591398840"],
+    "dc:description": ["{\n    AEAverage = 127;\n    AELimitsReached = 1;\n    AEStable = 0;\n    AFStable = 1;\n    AFStatus = 4;\n    AGC = 4095;\n    AWBBGain = 213;\n    AWBGGain = 64;\n    AWBRGain = 117;\n    AWBStable = 1;\n    AccelerometerDeltas = &quot;(0.0274 0.0092 0.0412) @ 0.0200&quot;;\n    ApertureValue = 3;\n    BrightnessValue = -2.564409483480095;\n    CurrentFocusPosition = 29;\n    ExposureBias = 0;\n    ExposureTime = 0.09983587826086956;\n    Fnumber = 2.8;\n    FocalLength = 3.85;\n    FocusBand = &quot;21.80 in [17.50, 26.26]&quot;;\n    FocusMode = 1;\n    FocusPeakSumArray =     (\n        56939,\n        57455,\n        57893,\n        58402,\n        152626\n    );\n    FocusScan = &quot;(0,18.12) (29,20.68) (56,19.81) (81,18.13) (105,19.99) (127,18.38) (149,18.76) (169,17.86) (188,17.37) 0.2s ago&quot;;\n    FocusScoresArray =     (\n        2152134,\n        2177674,\n        2201501,\n        2226274,\n        8867578\n    );\n    FocusWindow = &quot;350/300 300x400&quot;;\n    FullyExposed = 0;\n    ISOSpeedRating = 1016;\n    NoiseReduction = &quot;S:40 C:16 Y:8&quot;;\n    OneFrameAEMode = 0;\n    Orientation = 6;\n    OverflowOccurred = 0;\n    PreviousFocusBand = &quot;14.09 in [0.00, 0.00]&quot;;\n    PreviousFocusScan = &quot;(0,11.14) (32,10.67) (64,10.26) (96,9.64) (128,9.39) (160,9.16) (192,7.76) (224,6.64) (255,6.94) 2.1s ago&quot;;\n    SNR = 16.73620699809576;\n    SensorID = 13904;\n    Sharpness = 5;\n    ShutterSpeedValue = 3.324297816225114;\n    ispDGain = 256;\n    sensorDGain = 256;\n    &quot;{Exif}&quot; =     {\n        ColorSpace = 65535;\n        DateTimeDigitized = &quot;2009:09:11 21:02:27&quot;;\n        DateTimeOriginal = &quot;2009:09:11 21:02:27&quot;;\n        ExposureTime = 0.1;\n        FNumber = 2.8;\n        FocalLength = 3.85;\n        ISOSpeedRatings =         (\n            1016\n        );\n        PixelXDimension = 2048;\n        PixelYDimension = 1536;\n        Sharpness = 0;\n    };\n    &quot;{TIFF}&quot; =     {\n        DateTime = &quot;2009:09:11 21:02:27&quot;;\n        Make = Apple;\n        Model = iPhone;\n        XResolution = 72;\n        YResolution = 72;\n    };\n}"],
+    "global:thumbnail": ["https://farm6.static.flickr.com/5612/15591398840_863e43e32c_t.jpg"],
+    "dc:title": ["20090911_210227"]
+  }],
+  "global:numberOfBurglaries": [{
+    "year:2006/7": ["6"],
+    "year:2011/12": ["2"],
+    "year:2005/6": ["3"],
+    "year:2007/8": ["4"],
+    "year:2009/10": ["11"],
+    "year:2013/14": ["3"],
+    "year:2012/13": ["5"],
+    "year:2010/11": ["7"],
+    "year:2008/9": ["5"]
+  }],
+  "global:ethnicity": [{
+    "global:white:_gypsy_or_irish_traveller": ["0"],
+    "global:white:_irish": ["10"],
+    "global:black_and_minority_ethnic_group:_total": ["138"],
+    "global:multiple_ethnic_group:_other_mixed": ["9"],
+    "global:multiple_ethnic_group:_white_and_black_african": ["0"],
+    "global:multiple_ethnic_group:_white_and_asian": ["0"],
+    "global:other_ethnic_group:_arab": ["3"],
+    "global:asian_british:_chinese": ["6"],
+    "global:asian_british:_other_asian": ["7"],
+    "global:black_british:_caribbean": ["14"],
+    "global:all_usual_residents": ["845"],
+    "global:asian_british:_bangladeshi": ["0"],
+    "global:asian_british:_pakistani": ["1"],
+    "global:asian_british:_indian": ["24"],
+    "global:multiple_ethnic_group:_white_and_black_caribbean": ["6"],
+    "global:black_british:_other_black": ["1"],
+    "global:british": ["708"],
+    "global:other_ethnic_group:_any_other_ethnic_group": ["6"],
+    "global:white:_other_white": ["43"],
+    "global:black_british:_african": ["8"]
+  }],
+  "global:tenure": [
+    {"year:2005": [{
+      "global:total_stock": ["353"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["3"],
+      "global:rsl_shared_ownership": ["5"],
+      "global:mkc_shared_ownership": ["16"],
+      "global:owner_occupied_and_private_rented": ["329"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2008": [{
+      "global:total_stock": ["354"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["3"],
+      "global:rsl_shared_ownership": ["5"],
+      "global:mkc_shared_ownership": ["16"],
+      "global:owner_occupied_and_private_rented": ["330"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2009": [{
+      "global:total_stock": ["354"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["3"],
+      "global:rsl_shared_ownership": ["5"],
+      "global:mkc_shared_ownership": ["16"],
+      "global:owner_occupied_and_private_rented": ["330"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2006": [{
+      "global:total_stock": ["353"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["3"],
+      "global:rsl_shared_ownership": ["5"],
+      "global:mkc_shared_ownership": ["16"],
+      "global:owner_occupied_and_private_rented": ["329"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2014": [{
+      "global:total_stock": ["354"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["3"],
+      "global:rsl_shared_ownership": ["5"],
+      "global:mkc_shared_ownership": ["16"],
+      "global:owner_occupied_and_private_rented": ["330"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2010": [{
+      "global:total_stock": ["354"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["3"],
+      "global:rsl_shared_ownership": ["5"],
+      "global:mkc_shared_ownership": ["16"],
+      "global:owner_occupied_and_private_rented": ["330"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2013": [{
+      "global:total_stock": ["354"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["3"],
+      "global:rsl_shared_ownership": ["5"],
+      "global:mkc_shared_ownership": ["16"],
+      "global:owner_occupied_and_private_rented": ["330"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2012": [{
+      "global:total_stock": ["354"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["3"],
+      "global:rsl_shared_ownership": ["5"],
+      "global:mkc_shared_ownership": ["16"],
+      "global:owner_occupied_and_private_rented": ["330"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2007": [{
+      "global:total_stock": ["353"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["3"],
+      "global:rsl_shared_ownership": ["5"],
+      "global:mkc_shared_ownership": ["16"],
+      "global:owner_occupied_and_private_rented": ["329"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2011": [{
+      "global:total_stock": ["354"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["3"],
+      "global:rsl_shared_ownership": ["5"],
+      "global:mkc_shared_ownership": ["16"],
+      "global:owner_occupied_and_private_rented": ["330"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2004": [{
+      "global:total_stock": ["352"],
+      "global:rsl_reduced_cost_sale": ["5"],
+      "global:mkc_rented": ["3"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["17"],
+      "global:owner_occupied_and_private_rented": ["327"],
+      "global:rsl_rented": ["0"]
+    }]}
+  ],
+  "imd:imd-2004": ["14.4"],
+  "global:numberOfArsonFires": [{
+    "year:2003/4": ["3"],
+    "year:2001/2": ["5"],
+    "year:2006/7": ["4"],
+    "year:2011/12": ["4"],
+    "year:2005/6": ["2"],
+    "year:2002/3": ["6"],
+    "year:2007/8": ["2"],
+    "year:2009/10": ["2"],
+    "year:2004/5": ["0"],
+    "year:2012/13": ["1"],
+    "year:2010/11": ["2"],
+    "year:2008/9": ["0"]
+  }],
+  "demographics:population-2011": ["845"],
+  "imd:imd-2007": ["16.8"]
+}

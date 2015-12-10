@@ -1,0 +1,350 @@
+{
+  "global:numberOfCriminalDamages": [{
+    "year:2006/7": ["0"],
+    "year:2011/12": ["0"],
+    "year:2005/6": ["0"],
+    "year:2007/8": ["1"],
+    "year:2009/10": ["1"],
+    "year:2013/14": ["1"],
+    "year:2012/13": ["1"],
+    "year:2010/11": ["0"],
+    "year:2008/9": ["2"]
+  }],
+  "global:populationProjection": [{
+    "year:2012": ["200"],
+    "year:2013": ["300"],
+    "year:2014": ["400"],
+    "year:2015": ["450"],
+    "year:2016": ["450"],
+    "year:2017": ["450"],
+    "year:2018": ["450"],
+    "year:2011": ["0"],
+    "year:2019": ["450"],
+    "year:2020": ["450"],
+    "year:2021": ["450"]
+  }],
+  "global:photoLocatedIn": [
+    {
+      "global:isRelatedTo": [
+        "school",
+        "tubes",
+        "lights",
+        "walton high",
+        "corridor",
+        "composite abstracts",
+        "milton keynes",
+        "colour",
+        "overhead"
+      ],
+      "geo:lat": ["52.020706"],
+      "dc:creator": [{
+        "global:name": ["Jim Goodyear"],
+        "dc:identifier": ["60739120@N02"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5686/22300996014_5279741a80_t.jpg"],
+      "dc:description": [
+        "HDR Composite of 2 SOOC Images taken at Walton High School.\n\nIMG_0555GPPr-90&amp;0554)GPP2exHDRComposite\n\n<b>I recommend clicking on the expansion arrows icon (top right corner) to go into the Lightbox for maximum effect.<\/b> \nDon't use or reproduce this image on Websites/Blog or any other media without my explicit permission.     \n<i> � All Rights Reserved - Jim Goodyear 2015.<\/i>\n\n<b>Sign the Petition to Bring old Flickr back and get your friends to sign!\n\n<a href=\"http://petitions.moveon.org/sign/change-flickr-back\" rel=\"nofollow\">petitions.moveon.org/sign/change-flickr-back<\/a>\n\nTrying to reach 15,000 signatures so we can have someone hand deliver the petition to Yahoo's CEO.<\/b>",
+        "IMG_0555GPPr-90&amp;0554)GPP2exHDRComposite\n\n<b>I recommend clicking on the expansion arrows icon (top right corner) to go into the Lightbox for maximum effect.<\/b> \nDon't use or reproduce this image on Websites/Blog or any other media without my explicit permission.     \n<i> � All Rights Reserved - Jim Goodyear 2015.<\/i>\n\n<b>Sign the Petition to Bring old Flickr back and get your friends to sign!\n\n<a href=\"http://petitions.moveon.org/sign/change-flickr-back\" rel=\"nofollow\">petitions.moveon.org/sign/change-flickr-back<\/a>\n\nTrying to reach 15,000 signatures so we can have someone hand deliver the petition to Yahoo's CEO.<\/b>"
+      ],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.689009"],
+      "social:url": ["https://www.flickr.com/photos/unclebobjim/22300996014/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/walton"],
+      "social:views": [
+        "51",
+        "324",
+        "402",
+        "335",
+        "348",
+        "398",
+        "392",
+        "400",
+        "289",
+        "383",
+        "192",
+        "352",
+        "250",
+        "416",
+        "344",
+        "354",
+        "329",
+        "305",
+        "365",
+        "367",
+        "423",
+        "387",
+        "260",
+        "399",
+        "358",
+        "272",
+        "369",
+        "362",
+        "409"
+      ],
+      "dc:date": ["Sat Apr 18 21:13:20 BST 2015"],
+      "dc:identifier": ["22300996014"],
+      "dc:title": ["Light Tube Composite"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/smcgill1969/15776462302/"],
+      "geo:long": ["-0.6885"],
+      "geo:lat": ["52.020332"],
+      "dc:creator": [{
+        "global:name": ["Simon McGill"],
+        "dc:identifier": ["68968740@N07"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/walton"],
+      "social:views": ["33"],
+      "dc:date": ["Wed Nov 12 19:26:56 GMT 2014"],
+      "dc:identifier": ["15776462302"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7461/15776462302_b6e3662ce6_t.jpg"],
+      "dc:title": ["20130119_231305"]
+    },
+    {
+      "global:isRelatedTo": [
+        "school",
+        "tubes",
+        "lights",
+        "walton high",
+        "corridor",
+        "composite abstracts",
+        "milton keynes",
+        "colour",
+        "overhead"
+      ],
+      "geo:lat": ["52.020706"],
+      "dc:creator": [{
+        "global:name": ["Jim Goodyear"],
+        "dc:identifier": ["60739120@N02"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5686/22300996014_5279741a80_t.jpg"],
+      "dc:description": [
+        "HDR Composite of 2 SOOC Images taken at Walton High School.\n\nIMG_0555GPPr-90&amp;0554)GPP2exHDRComposite\n\n<b>I recommend clicking on the expansion arrows icon (top right corner) to go into the Lightbox for maximum effect.<\/b> \nDon't use or reproduce this image on Websites/Blog or any other media without my explicit permission.     \n<i> � All Rights Reserved - Jim Goodyear 2015.<\/i>\n\n<b>Sign the Petition to Bring old Flickr back and get your friends to sign!\n\n<a href=\"http://petitions.moveon.org/sign/change-flickr-back\" rel=\"nofollow\">petitions.moveon.org/sign/change-flickr-back<\/a>\n\nTrying to reach 15,000 signatures so we can have someone hand deliver the petition to Yahoo's CEO.<\/b>",
+        "IMG_0555GPPr-90&amp;0554)GPP2exHDRComposite\n\n<b>I recommend clicking on the expansion arrows icon (top right corner) to go into the Lightbox for maximum effect.<\/b> \nDon't use or reproduce this image on Websites/Blog or any other media without my explicit permission.     \n<i> � All Rights Reserved - Jim Goodyear 2015.<\/i>\n\n<b>Sign the Petition to Bring old Flickr back and get your friends to sign!\n\n<a href=\"http://petitions.moveon.org/sign/change-flickr-back\" rel=\"nofollow\">petitions.moveon.org/sign/change-flickr-back<\/a>\n\nTrying to reach 15,000 signatures so we can have someone hand deliver the petition to Yahoo's CEO.<\/b>"
+      ],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.689009"],
+      "social:url": ["https://www.flickr.com/photos/unclebobjim/22300996014/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/walton"],
+      "social:views": [
+        "51",
+        "324",
+        "192",
+        "250"
+      ],
+      "dc:date": ["Sat Apr 18 21:13:20 BST 2015"],
+      "dc:identifier": ["22300996014"],
+      "dc:title": ["Light Tube Composite"]
+    },
+    {
+      "global:isRelatedTo": [
+        "14/02/1981",
+        "bletchley",
+        "56120",
+        "station",
+        "bow brickhill",
+        "class 105",
+        "13.00 bedford",
+        "50393",
+        "signal box"
+      ],
+      "geo:lat": ["52.00631"],
+      "dc:creator": [{
+        "global:name": [""],
+        "dc:identifier": ["41701047@N08"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "global:thumbnail": ["https://farm1.static.flickr.com/710/22426129441_a11d54b6be_t.jpg"],
+      "dc:description": ["The icy morning at Bow Brickhill station has brought the need to apply copious amounts of salt to the platforms. This was 14th February 1981 which dawned crystal clear and sunny, catching those rays a class 105 comprising 56120 &amp; 50393 head towards Bletchley with the 13.00 service from Bedford.\nCopyright Geoff Dowling; all rights reserved"],
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "geo:long": ["-0.695443"],
+      "social:url": ["https://www.flickr.com/photos/geoffsimages/22426129441/"],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/walton"],
+      "social:views": [
+        "1126",
+        "287",
+        "1164",
+        "1249",
+        "802",
+        "1020",
+        "1089",
+        "858",
+        "930",
+        "552",
+        "1333",
+        "988",
+        "1369",
+        "1048",
+        "703",
+        "1310",
+        "1275"
+      ],
+      "dc:date": ["Sat Feb 14 00:00:00 GMT 1981"],
+      "dc:identifier": ["22426129441"],
+      "dc:title": ["Frost measures at Bow Brickhill"]
+    }
+  ],
+  "global:numberOfBurglaries": [{
+    "year:2006/7": ["0"],
+    "year:2011/12": ["0"],
+    "year:2005/6": ["0"],
+    "year:2007/8": ["0"],
+    "year:2009/10": ["0"],
+    "year:2013/14": ["0"],
+    "year:2012/13": ["1"],
+    "year:2010/11": ["0"],
+    "year:2008/9": ["0"]
+  }],
+  "global:numberOfRobberies": [{
+    "year:2006/7": ["0"],
+    "year:2011/12": ["0"],
+    "year:2005/6": ["0"],
+    "year:2007/8": ["0"],
+    "year:2009/10": ["1"],
+    "year:2013/14": ["0"],
+    "year:2012/13": ["0"],
+    "year:2010/11": ["0"],
+    "year:2008/9": ["0"]
+  }],
+  "global:tenure": [
+    {"year:2004": [{
+      "global:total_stock": ["258"],
+      "global:rsl_reduced_cost_sale": ["48"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["210"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2009": [{
+      "global:total_stock": ["258"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["48"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["210"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2014": [{
+      "global:total_stock": ["396"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["48"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["296"],
+      "global:rsl_rented": ["52"]
+    }]},
+    {"year:2010": [{
+      "global:total_stock": ["258"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["48"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["210"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2011": [{
+      "global:total_stock": ["278"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["48"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["211"],
+      "global:rsl_rented": ["19"]
+    }]},
+    {"year:2012": [{
+      "global:total_stock": ["339"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["48"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["247"],
+      "global:rsl_rented": ["44"]
+    }]},
+    {"year:2007": [{
+      "global:total_stock": ["259"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["48"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["211"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2006": [{
+      "global:total_stock": ["258"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["48"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["210"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2008": [{
+      "global:total_stock": ["258"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["48"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["210"],
+      "global:rsl_rented": ["0"]
+    }]},
+    {"year:2013": [{
+      "global:total_stock": ["372"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["48"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["272"],
+      "global:rsl_rented": ["52"]
+    }]},
+    {"year:2005": [{
+      "global:total_stock": ["258"],
+      "global:rsl_reduced_cost_sale": ["0"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["48"],
+      "global:mkc_shared_ownership": ["0"],
+      "global:owner_occupied_and_private_rented": ["210"],
+      "global:rsl_rented": ["0"]
+    }]}
+  ],
+  "global:nbCrimes": [{
+    "year:2006/7": ["3"],
+    "year:2011/12": ["5"],
+    "year:2005/6": ["7"],
+    "year:2007/8": ["7"],
+    "year:2009/10": ["3"],
+    "year:2013/14": ["22"],
+    "year:2012/13": ["26"],
+    "year:2010/11": ["9"],
+    "year:2008/9": ["6"]
+  }],
+  "global:numberOfArsonFires": [{
+    "year:2003/4": ["0"],
+    "year:2001/2": ["0"],
+    "year:2006/7": ["2"],
+    "year:2011/12": ["0"],
+    "year:2005/6": ["0"],
+    "year:2002/3": ["0"],
+    "year:2007/8": ["0"],
+    "year:2009/10": ["0"],
+    "year:2004/5": ["0"],
+    "year:2012/13": ["0"],
+    "year:2010/11": ["0"],
+    "year:2008/9": ["1"]
+  }],
+  "global:numberOfViolencesAgainstThePerson": [{
+    "year:2006/7": ["1"],
+    "year:2011/12": ["1"],
+    "year:2005/6": ["0"],
+    "year:2007/8": ["1"],
+    "year:2009/10": ["0"],
+    "year:2013/14": ["8"],
+    "year:2012/13": ["15"],
+    "year:2010/11": ["0"],
+    "year:2008/9": ["0"]
+  }]
+}

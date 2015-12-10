@@ -1,0 +1,445 @@
+{
+  "global:numberOfCriminalDamages": [{
+    "year:2006/7": ["42"],
+    "year:2011/12": ["15"],
+    "year:2005/6": ["76"],
+    "year:2007/8": ["31"],
+    "year:2009/10": ["47"],
+    "year:2013/14": ["10"],
+    "year:2012/13": ["18"],
+    "year:2010/11": ["33"],
+    "year:2008/9": ["42"]
+  }],
+  "demographics:male-population-2011": ["518"],
+  "global:location": ["http://data.beta.mksmart.org/entity/place/leadenhall"],
+  "global:numberOfRobberies": [{
+    "year:2006/7": ["2"],
+    "year:2011/12": ["4"],
+    "year:2005/6": ["4"],
+    "year:2007/8": ["1"],
+    "year:2009/10": ["10"],
+    "year:2013/14": ["5"],
+    "year:2012/13": ["6"],
+    "year:2010/11": ["3"],
+    "year:2008/9": ["3"]
+  }],
+  "global:@types": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/linked-data/cube#Observation"],
+  "global:nbCrimes": [{
+    "year:2006/7": ["239"],
+    "year:2011/12": ["138"],
+    "year:2005/6": ["304"],
+    "year:2007/8": ["216"],
+    "year:2009/10": ["283"],
+    "year:2013/14": ["142"],
+    "year:2012/13": ["165"],
+    "year:2010/11": ["233"],
+    "year:2008/9": ["235"]
+  }],
+  "demographics:female-population-2011": ["527"],
+  "global:numberOfViolencesAgainstThePerson": [{
+    "year:2006/7": ["41"],
+    "year:2011/12": ["21"],
+    "year:2005/6": ["65"],
+    "year:2007/8": ["40"],
+    "year:2009/10": ["64"],
+    "year:2013/14": ["24"],
+    "year:2012/13": ["26"],
+    "year:2010/11": ["32"],
+    "year:2008/9": ["43"]
+  }],
+  "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/linked-data/cube#Observation"],
+  "imd:imd-2010": ["37.5"],
+  "global:populationProjection": [{
+    "year:2012": ["1050"],
+    "year:2013": ["1050"],
+    "year:2014": ["1050"],
+    "year:2015": ["1050"],
+    "year:2016": ["1050"],
+    "year:2017": ["1050"],
+    "year:2018": ["1050"],
+    "year:2011": ["1050"],
+    "year:2019": ["1050"],
+    "year:2020": ["1050"],
+    "year:2021": ["1050"]
+  }],
+  "global:photoLocatedIn": [
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/smcgill1969/15772562411/"],
+      "geo:long": ["-0.75355"],
+      "geo:lat": ["52.02898"],
+      "dc:creator": [{
+        "global:name": ["Simon McGill"],
+        "dc:identifier": ["68968740@N07"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/leadenhall"],
+      "social:views": ["13"],
+      "dc:date": ["Fri Jun 21 18:51:00 BST 2013"],
+      "dc:identifier": ["15772562411"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7572/15772562411_969e493cd3_t.jpg"],
+      "dc:title": ["20130621_185100"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/smcgill1969/15589022718/"],
+      "geo:long": ["-0.753531"],
+      "geo:lat": ["52.028984"],
+      "dc:creator": [{
+        "global:name": ["Simon McGill"],
+        "dc:identifier": ["68968740@N07"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/leadenhall"],
+      "social:views": ["13"],
+      "dc:date": ["Fri Jun 21 18:51:28 BST 2013"],
+      "dc:identifier": ["15589022718"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7548/15589022718_7c05a5a6e2_t.jpg"],
+      "dc:title": ["20130621_185128"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/smcgill1969/15775990352/"],
+      "geo:long": ["-0.753545"],
+      "geo:lat": ["52.029015"],
+      "dc:creator": [{
+        "global:name": ["Simon McGill"],
+        "dc:identifier": ["68968740@N07"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/leadenhall"],
+      "social:views": ["14"],
+      "dc:date": ["Fri Jun 21 18:45:40 BST 2013"],
+      "dc:identifier": ["15775990352"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7518/15775990352_89b2a7bf61_t.jpg"],
+      "dc:title": ["20130621_184540"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/95202172@N06/15476982125/"],
+      "geo:long": ["-0.753034"],
+      "geo:lat": ["52.029545"],
+      "dc:creator": [{
+        "global:name": [
+          "John Stupples",
+          "Lions Club of Bletchley Milton Keynes"
+        ],
+        "dc:identifier": ["95202172@N06"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/leadenhall"],
+      "social:views": ["12"],
+      "dc:date": ["Tue Oct 07 18:01:57 BST 2014"],
+      "dc:identifier": ["15476982125"],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5614/15476982125_f2bc4e4ea6_t.jpg"],
+      "dc:title": ["MK Community Foundation Reception"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/smcgill1969/15589023908/"],
+      "geo:long": ["-0.753531"],
+      "geo:lat": ["52.028984"],
+      "dc:creator": [{
+        "global:name": ["Simon McGill"],
+        "dc:identifier": ["68968740@N07"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/leadenhall"],
+      "social:views": ["15"],
+      "dc:date": ["Fri Jun 21 18:51:38 BST 2013"],
+      "dc:identifier": ["15589023908"],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5611/15589023908_aa2530de7d_t.jpg"],
+      "dc:title": ["20130621_185138"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/smcgill1969/15589272127/"],
+      "geo:long": ["-0.753559"],
+      "geo:lat": ["52.02894"],
+      "dc:creator": [{
+        "global:name": ["Simon McGill"],
+        "dc:identifier": ["68968740@N07"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/leadenhall"],
+      "social:views": ["19"],
+      "dc:date": ["Fri Jun 21 18:49:26 BST 2013"],
+      "dc:identifier": ["15589272127"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7567/15589272127_51b11dcf1c_t.jpg"],
+      "dc:title": ["20130621_184926"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/smcgill1969/15776513952/"],
+      "geo:long": ["-0.753545"],
+      "geo:lat": ["52.029026"],
+      "dc:creator": [{
+        "global:name": ["Simon McGill"],
+        "dc:identifier": ["68968740@N07"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/leadenhall"],
+      "social:views": ["20"],
+      "dc:date": ["Fri Jun 21 18:51:22 BST 2013"],
+      "dc:identifier": ["15776513952"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7539/15776513952_ffbb0d436d_t.jpg"],
+      "dc:title": ["20130621_185122"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/95202172@N06/15290266950/"],
+      "geo:long": ["-0.752787"],
+      "geo:lat": ["52.02959"],
+      "dc:creator": [{
+        "global:name": [
+          "John Stupples",
+          "Lions Club of Bletchley Milton Keynes"
+        ],
+        "dc:identifier": ["95202172@N06"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/leadenhall"],
+      "social:views": ["12"],
+      "dc:date": ["Tue Oct 07 17:59:13 BST 2014"],
+      "dc:identifier": ["15290266950"],
+      "global:thumbnail": ["https://farm4.static.flickr.com/3935/15290266950_593b4e1b47_t.jpg"],
+      "dc:title": ["MK Community Foundation Reception"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/smcgill1969/15154480234/"],
+      "geo:long": ["-0.75357"],
+      "geo:lat": ["52.029022"],
+      "dc:creator": [{
+        "global:name": ["Simon McGill"],
+        "dc:identifier": ["68968740@N07"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/leadenhall"],
+      "social:views": ["16"],
+      "dc:date": ["Fri Jun 21 18:56:36 BST 2013"],
+      "dc:identifier": ["15154480234"],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5606/15154480234_e675251cb4_t.jpg"],
+      "dc:title": ["20130621_185636"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/smcgill1969/15588605529/"],
+      "geo:long": ["-0.753537"],
+      "geo:lat": ["52.028984"],
+      "dc:creator": [{
+        "global:name": ["Simon McGill"],
+        "dc:identifier": ["68968740@N07"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/leadenhall"],
+      "social:views": ["16"],
+      "dc:date": ["Fri Jun 21 18:50:29 BST 2013"],
+      "dc:identifier": ["15588605529"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7501/15588605529_285ff18173_t.jpg"],
+      "dc:title": ["20130621_185029"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/smcgill1969/15588604029/"],
+      "geo:long": ["-0.753589"],
+      "geo:lat": ["52.02889"],
+      "dc:creator": [{
+        "global:name": ["Simon McGill"],
+        "dc:identifier": ["68968740@N07"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/leadenhall"],
+      "social:views": ["25"],
+      "dc:date": ["Fri Jun 21 18:50:15 BST 2013"],
+      "dc:identifier": ["15588604029"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7492/15588604029_a85f32c7ab_t.jpg"],
+      "dc:title": ["20130621_185015"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/smcgill1969/15589024938/"],
+      "geo:long": ["-0.753539"],
+      "geo:lat": ["52.028988"],
+      "dc:creator": [{
+        "global:name": ["Simon McGill"],
+        "dc:identifier": ["68968740@N07"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/leadenhall"],
+      "social:views": ["12"],
+      "dc:date": ["Fri Jun 21 18:55:37 BST 2013"],
+      "dc:identifier": ["15589024938"],
+      "global:thumbnail": ["https://farm6.static.flickr.com/5616/15589024938_477d02d91a_t.jpg"],
+      "dc:title": ["20130621_185537"]
+    },
+    {
+      "global:type": ["http://data.beta.mksmart.org/entity/thing/www:uri/purl.org/dc/elements/1.1/Image"],
+      "social:url": ["https://www.flickr.com/photos/smcgill1969/15776004242/"],
+      "geo:long": ["-0.753553"],
+      "geo:lat": ["52.029037"],
+      "dc:creator": [{
+        "global:name": ["Simon McGill"],
+        "dc:identifier": ["68968740@N07"],
+        "global:thumbnail": ["http://www.flickr.com/images/buddyicon.jpg"]
+      }],
+      "geo:location": ["http://data.beta.mksmart.org/entity/place/leadenhall"],
+      "social:views": ["12"],
+      "dc:date": ["Fri Jun 21 18:56:50 BST 2013"],
+      "dc:identifier": ["15776004242"],
+      "global:thumbnail": ["https://farm8.static.flickr.com/7466/15776004242_37c716555d_t.jpg"],
+      "dc:title": ["20130621_185650"]
+    }
+  ],
+  "global:numberOfBurglaries": [{
+    "year:2006/7": ["7"],
+    "year:2011/12": ["5"],
+    "year:2005/6": ["4"],
+    "year:2007/8": ["2"],
+    "year:2009/10": ["5"],
+    "year:2013/14": ["5"],
+    "year:2012/13": ["4"],
+    "year:2010/11": ["15"],
+    "year:2008/9": ["4"]
+  }],
+  "global:ethnicity": [{
+    "global:white:_gypsy_or_irish_traveller": ["0"],
+    "global:white:_irish": ["15"],
+    "global:black_and_minority_ethnic_group:_total": ["356"],
+    "global:multiple_ethnic_group:_other_mixed": ["13"],
+    "global:multiple_ethnic_group:_white_and_black_african": ["10"],
+    "global:multiple_ethnic_group:_white_and_asian": ["20"],
+    "global:other_ethnic_group:_arab": ["2"],
+    "global:asian_british:_chinese": ["15"],
+    "global:asian_british:_other_asian": ["74"],
+    "global:black_british:_caribbean": ["25"],
+    "global:all_usual_residents": ["1045"],
+    "global:asian_british:_bangladeshi": ["6"],
+    "global:asian_british:_pakistani": ["11"],
+    "global:asian_british:_indian": ["17"],
+    "global:multiple_ethnic_group:_white_and_black_caribbean": ["13"],
+    "global:black_british:_other_black": ["7"],
+    "global:british": ["687"],
+    "global:other_ethnic_group:_any_other_ethnic_group": ["12"],
+    "global:white:_other_white": ["35"],
+    "global:black_british:_african": ["81"]
+  }],
+  "global:tenure": [
+    {"year:2005": [{
+      "global:total_stock": ["281"],
+      "global:rsl_reduced_cost_sale": ["10"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["77"],
+      "global:mkc_shared_ownership": ["10"],
+      "global:owner_occupied_and_private_rented": ["72"],
+      "global:rsl_rented": ["112"]
+    }]},
+    {"year:2011": [{
+      "global:total_stock": ["427"],
+      "global:rsl_reduced_cost_sale": ["56"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["132"],
+      "global:mkc_shared_ownership": ["8"],
+      "global:owner_occupied_and_private_rented": ["74"],
+      "global:rsl_rented": ["157"]
+    }]},
+    {"year:2007": [{
+      "global:total_stock": ["427"],
+      "global:rsl_reduced_cost_sale": ["56"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["132"],
+      "global:mkc_shared_ownership": ["9"],
+      "global:owner_occupied_and_private_rented": ["73"],
+      "global:rsl_rented": ["157"]
+    }]},
+    {"year:2006": [{
+      "global:total_stock": ["421"],
+      "global:rsl_reduced_cost_sale": ["56"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["132"],
+      "global:mkc_shared_ownership": ["10"],
+      "global:owner_occupied_and_private_rented": ["72"],
+      "global:rsl_rented": ["151"]
+    }]},
+    {"year:2013": [{
+      "global:total_stock": ["427"],
+      "global:rsl_reduced_cost_sale": ["56"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["132"],
+      "global:mkc_shared_ownership": ["8"],
+      "global:owner_occupied_and_private_rented": ["74"],
+      "global:rsl_rented": ["157"]
+    }]},
+    {"year:2012": [{
+      "global:total_stock": ["427"],
+      "global:rsl_reduced_cost_sale": ["56"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["132"],
+      "global:mkc_shared_ownership": ["8"],
+      "global:owner_occupied_and_private_rented": ["74"],
+      "global:rsl_rented": ["157"]
+    }]},
+    {"year:2014": [{
+      "global:total_stock": ["427"],
+      "global:rsl_reduced_cost_sale": ["56"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["132"],
+      "global:mkc_shared_ownership": ["8"],
+      "global:owner_occupied_and_private_rented": ["74"],
+      "global:rsl_rented": ["157"]
+    }]},
+    {"year:2004": [{
+      "global:total_stock": ["245"],
+      "global:rsl_reduced_cost_sale": ["51"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["0"],
+      "global:mkc_shared_ownership": ["12"],
+      "global:owner_occupied_and_private_rented": ["70"],
+      "global:rsl_rented": ["112"]
+    }]},
+    {"year:2009": [{
+      "global:total_stock": ["427"],
+      "global:rsl_reduced_cost_sale": ["56"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["132"],
+      "global:mkc_shared_ownership": ["8"],
+      "global:owner_occupied_and_private_rented": ["74"],
+      "global:rsl_rented": ["157"]
+    }]},
+    {"year:2010": [{
+      "global:total_stock": ["427"],
+      "global:rsl_reduced_cost_sale": ["56"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["132"],
+      "global:mkc_shared_ownership": ["8"],
+      "global:owner_occupied_and_private_rented": ["74"],
+      "global:rsl_rented": ["157"]
+    }]},
+    {"year:2008": [{
+      "global:total_stock": ["427"],
+      "global:rsl_reduced_cost_sale": ["56"],
+      "global:mkc_rented": ["0"],
+      "global:rsl_shared_ownership": ["132"],
+      "global:mkc_shared_ownership": ["9"],
+      "global:owner_occupied_and_private_rented": ["73"],
+      "global:rsl_rented": ["157"]
+    }]}
+  ],
+  "imd:imd-2004": ["43.9"],
+  "global:numberOfArsonFires": [{
+    "year:2003/4": ["25"],
+    "year:2001/2": ["20"],
+    "year:2006/7": ["19"],
+    "year:2011/12": ["4"],
+    "year:2005/6": ["17"],
+    "year:2002/3": ["20"],
+    "year:2007/8": ["14"],
+    "year:2009/10": ["3"],
+    "year:2004/5": ["9"],
+    "year:2012/13": ["4"],
+    "year:2010/11": ["5"],
+    "year:2008/9": ["7"]
+  }],
+  "demographics:population-2011": ["1045"],
+  "imd:imd-2007": ["40.7"]
+}
