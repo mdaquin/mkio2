@@ -97,6 +97,71 @@ dimension_list = [
 // global:tenure three levels
 ]}, 
 {name: "Ward", type:"ward", categories: [
+   {name: "Census", properties: [
+       {name:"Religion", attr:"global:religion", subprops:[
+	   {name:"Sickh", attr:"global:sikh"},
+	   {name:"Buddhist", attr:"global:buddhist"},
+	   {name:"Jewish", attr:"global:jewish"},
+	   {name:"No Religion", attr:"global:no_religion"},
+	   {name:"Has Religion", attr:"global:has_religion"},
+	   {name:"Religion Not Stated", attr:"global:religion_not_stated"},
+	   {name:"All Persons", attr:"global:all_persons"},
+	   {name:"Other Religion", attr:"global:other_religion"},
+	   {name:"Christian", attr:"global:christian"},
+	   {name:"Muslim", attr:"global:muslim"},
+	   {name:"Hindu", attr:"global:hindu"}
+       ]},
+       {name:"Marital Status", attr:"global:maritalStatus", subprops:[
+	   {name:"Divorced or formely in a same sex civil partnership now disolved", attr:"global:divorced_or_formerly_in_a_same-sex_civil_partnership_which_is_now_legally_dissolved"},
+	   { name:"Same sex partnership", attr:"global:in_a_registered_same-sex_civil_partnership"},
+	   { name:"Single", attr:"global:single_(never_married_or_never_registered_a_same-sex_civil_partnership)"},
+	   { name:"Married", attr:"global:married"},
+	   { name:"All resident above 16 years", attr:"global:all_usual_residents_aged_16+"},
+	   { name:"Separated", attr:"global:separated_(but_still_legally_married_or_still_legally_in_a_same-sex_civil_partnership)"},
+	   { name:"Widowed or suriving partner", attr:"global:widowed_or_surviving_partner_from_a_same-sex_civil_partnership"}
+       ]},
+       { name:"Occupation ", attr:"global:occupation", subprops:[
+	   { name:"Elementary", attr:"global:elementary_occupations"},
+	   { name:"Caring, leisure and other", attr:"global:caring_leisure_and_other_service_occupations"},
+	   { name:"process plant and machine operatives", attr:"global:process_plant_and_machine_operatives"},
+	   { name:"All usual resident between 16 and 74 in employment", attr:"global:all_usual_residents_aged_16_to_74_in_employment_the_week_before_the_census"},
+	   { name:"Associate Professional and technical", attr:"global:associate_professional_and_technical_occupations"},
+	   { name:"Professional", attr:"global:professional_occupations"},
+	   { name:"Skilled Trades", attr:"global:skilled_trades_occupations"},
+	   { name:"Managers, directors and senior officials", attr:"global:managers_directors_and_senior_officials"},
+	   { name:"Sales and customer service", attr:"global:sales_and_customer_service_occupations"},
+	   { name:"Administrative and secretarial", attr:"global:administrative_and_secretarial_occupations"}
+       ]}
+   ]},
+    {name: "Dwellings", properties: [
+	{ name:"Council Tax Bands", attr:"global:dwellingsInCouncilTaxBand", subprops:[
+	    { name:"A", attr:"ctband:A"},
+	    { name:"C", attr:"ctband:C"},
+	    { name:"B", attr:"ctband:B"},
+	    { name:"Total", attr:"ctband:Total"},
+	    { name:"D", attr:"ctband:D"},
+	    { name:"E", attr:"ctband:E"},
+	    { name:"F", attr:"ctband:F"},
+	    { name:"G", attr:"ctband:G"},
+	    { name:"H", attr:"ctband:H"}
+	]}
+    ]},
+    {name: "Crime", properties: [
+	   { name:"Arson Fires", attr:"global:numberOfArsonFires", subprops:[
+	   { name:"2003-2004", attr:"year:2003/4"},
+	   { name:"2001-2002", attr:"year:2001/2"},
+	   { name:"2006-2007", attr:"year:2006/7"},
+	   { name:"2011-2012", attr:"year:2011/12"},
+	   { name:"2005-2006", attr:"year:2005/6"},
+	   { name:"2002-2003", attr:"year:2002/3"},
+	   { name:"2007-2008", attr:"year:2007/8"},
+	   { name:"2009-2010", attr:"year:2009/10"},
+	   { name:"2004-2005", attr:"year:2004/5"},
+	   { name:"2012-2013", attr:"year:2012/13"},
+	   { name:"2010-2011", attr:"year:2010/11"},
+	   { name:"2008-2009", attr:"year:2008/9"}
+       ]}
+   ]}
 ]}, 
 {name: "LSOA", type:"lsoa", categories: [
    {name: "Population", properties: [

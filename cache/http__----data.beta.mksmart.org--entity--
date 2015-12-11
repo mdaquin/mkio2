@@ -1,0 +1,30 @@
+{
+  "subresources": [
+    "foodestablishment",
+    "lsoa",
+    "ward",
+    "museum",
+    "post",
+    "lsoa-2011",
+    "geo-point",
+    "dataset",
+    "oa-2011",
+    "sector",
+    "town",
+    "image",
+    "postcode",
+    "topic",
+    "administrative-area",
+    "oa",
+    "area",
+    "place",
+    "policy",
+    "geo-box",
+    "tweet",
+    "district",
+    "lsoa-2001",
+    "busstop"
+  ],
+  "comment": "Beware: I live!",
+  "live": true
+}

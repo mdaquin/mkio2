@@ -1,4 +1,3 @@
-
 var ecapi = new ECAPI('https://data.beta.mksmart.org/entity/');
 var nbinspectent = 5;
 var dimensionList = new Array();
@@ -6,6 +5,7 @@ var entities = new Array();
 var minNumberofNumbers = 4;
 
 var currenttype = null;
+var currentCat = null;
 var currentDimensions = new Array();
 var currentEntities = new Array();
 var removedEntities = new Array();
@@ -52,7 +52,8 @@ function typeClicked(type){
 
 
 function categoryClicked(cat){
-	updateL1Dimensions(currenttype, cat);
+    currentCat = cat;
+    updateL1Dimensions(currenttype, cat);
 }
 
 
@@ -192,11 +193,7 @@ var xnum = 0;
 // chart management
 
 // TODO :
-//   - move things details to the entities
-//   - check why highlights don't work
-//   - entity table and filter of chart data
-//   - dimension config, dynamic interface and JSONPath
-//   - change title to reflect 2 levels
+//   - make an entity page
 
 function generateChartData(dimension){
     getChartData(currenttype, dimension);
@@ -400,7 +397,7 @@ function updateResultPanel(){
 		]});	    
 	} else {
 	    var chart = new CanvasJS.Chart('chart'+currenttype+'-'+pfragment(currentDimensions[d]),
-				       {title:{text:pfragment(currentDimensions[d])}, 
+				       {title:{text:generateTitle(currentDimensions[d])}, 
 					axisX:{},
 					zoomEnabled: true, 
 //					animationEnabled: true, 
@@ -558,7 +555,7 @@ function chartable(obj){
 }
 
 function pfragment(uri){
-   return uri.substring(uri.lastIndexOf(':')+1).replace(/\//g, "-");
+   return uri.substring(uri.lastIndexOf(':')+1).replace(/\//g, "-").replace(/\(/,"-_").replace(/\)/,"_-");
 }
 
 function fragment(uri){
@@ -577,9 +574,24 @@ function isNumber(n) {
 }
 
 function supports_storage() {
-  try {
-    return 'localStorage' in window && window['localStorage'] !== null;
-  } catch (e) {
-    return false;
-  }
+    try {
+	return 'localStorage' in window && window['localStorage'] !== null;
+    } catch (e) {
+	return false;
+    }
 }
+    
+function generateTitle(dim){
+    var res = "";
+    var dims = dim.split(".");
+    var first = true;
+    for (var i in dims){
+	if (!first){
+	    res += ' : ';	    
+	}
+	res+= pfragment(dims[i]).replace(/_/g, " ").replace(/([a-z])([A-Z])/g, '$1 $2');
+	first=false;
+    }
+    return res;
+}
+    
